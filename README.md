@@ -5,6 +5,7 @@
 # handsomeIOS
 list of best/useful iOS Articles,Videos,Blogs in my iOS journey.
 list contains from best iOS Blogs,medium,youtube, ... . add if you think an article is worth to be added to list send pull request.
+You can see tools,sites,newsletters related to ios in the end of readme too.
 
 <DT><H3 FOLDED>Swift &amp; IOS Articles</H3>
 			<DL><p>
