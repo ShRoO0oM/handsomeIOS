@@ -6,9 +6,7 @@ list of best/useful iOS Articles,Videos,Blogs in my iOS journey.
 list contains from best iOS Blogs,medium,youtube, ... . add if you think an article is worth to be added to list send pull request.
 You can see tools,sites,newsletters related to ios in the end of readme too.
 
-
-
-		<DT><H3 FOLDED>iOS &amp; Swift</H3>
+<DL><p>
 		<DL><p>
 			<DT><H3 FOLDED>Best Practices</H3>
 			<DL><p>
@@ -309,6 +307,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				</DL><p>
 				<DT><H3 FOLDED>CI &amp; CD</H3>
 				<DL><p>
+					<DT><A HREF="https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5?source=bookmarks---------50----------------">Build it, Test it</A>
 					<DT><A HREF="https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d?source=bookmarks---------153----------------">Continuous integration for iOS with Nix and BuildkiteAustin Louden | Pinterest engineer, Core Experience</A>
 					<DT><A HREF="https://blog.geekyants.com/using-fabrics-crashlytics-beta-to-build-ideal-apps-1c3aa18bb5f5?source=bookmarks---------205----------------">Using Fabric’s Crashlytics &amp; Beta To Build Ideal AppsThere are many things in the flow before launching a mobile app like testing, debugging etc. and sometimes working with that flow takes...</A>
 					<DT><A HREF="https://medium.com/xcblog/xcode9-xcode-server-comprehensive-ios-continuous-integration-3613a7973b48?source=bookmarks---------204----------------">Xcode9 + Xcode Server = Comprehensive iOS Continuous IntegrationAt WWDC 2017, Apple announce something that made almost every iOS developer smile, session on ‘What’s New in Signing for Xcode and Xcode...</A>
@@ -459,7 +458,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 						<DT><A HREF="https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3?source=bookmarks---------4----------------">App Architecture and Object Composition in SwiftCreating reusable components to architect UI, concurrency, data, and other modules in Swift.</A>
 						<DT><A HREF="https://medium.com/commencis/reusability-and-composition-in-swift-6630fc199e16">Reusability and Composition in Swift – Commencis – Medium</A>
 						<DT><A HREF="https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e?source=bookmarks---------102----------------">iOS Architecture: A State Container based approach</A>
-						<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder. I will...</A>
+						<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder.</A>
 						<DT><A HREF="https://medium.com/@johnsundell/using-the-builder-pattern-in-swift-6122b7884fca?source=bookmarks---------53----------------">Using the builder pattern in SwiftClick here to read this post on Swift by Sundell instead, you won’t regret it 😉</A>
 						<DT><A HREF="https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944?source=bookmarks---------116----------------">Singleton, Service Locator and tests in iOSIn this article, I want to review the usage of Singleton and Service Locator patterns in iOS and the reasons why they are often called...</A>
 						<DT><A HREF="https://medium.com/@johnsundell/using-the-factory-pattern-to-avoid-shared-state-in-swift-7b06052a7de7?source=bookmarks---------192----------------">Using the factory pattern to avoid shared state in SwiftRead this post with syntax highlighting on swiftbysundell.com.</A>
@@ -826,7 +825,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@johnsundell/ui-testing-analytics-code-in-swift-cb53a68fa2d?source=bookmarks---------81----------------">UI testing analytics code in SwiftAs always, the best place to read this post is on Swift by Sundell 👍</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/a-complete-list-of-articles-on-unit-testing-with-swift-from-2017-9be8f046ef25?source=bookmarks---------75----------------">A complete list of articles on Unit Testing with Swift from 2017</A>
 					<DT><A HREF="https://medium.com/@johnsundell/getting-started-with-xcode-ui-testing-in-swift-ac7b1f5101e5?source=bookmarks---------180----------------">Getting started with Xcode UI testing in SwiftUI testing is a great way to ensure that your most critical UI interactions keep working as you’re adding new features or refactoring your...</A>
-					<DT><A HREF="https://medium.com/@cristianmadrid_44849/ios-tests-tips-2-improving-the-readability-of-your-tests-7bb7db347709?source=bookmarks---------29----------------">iOS Testing Tips #2 — Improving the readability of your testing codeThis is the second post of a series where I write tips about testing, you can check the other one here:iOS Testing Tips #1 — Track of...</A>
+					<DT><A HREF="https://medium.com/@cristianmadrid_44849/ios-tests-tips-2-improving-the-readability-of-your-tests-7bb7db347709?source=bookmarks---------29----------------">iOS Testing Tips #2 — Improving the readability of your testing codeThis is the second post of a series where I write tips about testing</A>
 					<DT><A HREF="https://medium.com/cocoaacademymag/setup-your-ios-testing-env-5617d1a13043?source=bookmarks---------52----------------">Setup your iOS Testing EnvTesting under iOS platform has improved a lot since early days, back then it was challenging to run unit tests outside of Xcode, generate...</A>
 					<DT><A HREF="https://medium.com/ios-os-x-development/view-event-testing-in-swift-bce860bb682f?source=bookmarks---------97----------------">View Event Testing in SwiftSeparating Presentation and Event Handling Concerns</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327?source=bookmarks---------141----------------">The complete guide to Network Unit Testing in Swift</A>
@@ -1257,34 +1256,6 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://academy.realm.io/posts/try-swift-nyc-tanner-nelson-server-side-swift-using-vapor/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Server-side Swift Using Vapor</A>
 			</DL><p>
 		</DL><p>
-		<DT><H3 FOLDED>Job Sites</H3>
-		<DL><p>
-			<DT><A HREF="https://weworkremotely.com/">Remote Jobs: Design, Programming, Rails, Executive, Marketing, Copywriting, and more.</A>
-			<DT><A HREF="https://remote.co/">Remote Work: Jobs, Companies &amp; Virtual Teams - Remote.co</A>
-			<DT><A HREF="https://remoteyear.com/">Work and Travel Abroad Programs for Professionals | Remote Year</A>
-			<DT><A HREF="https://www.indeed.com/q-Remote-Work-jobs.html">Remote Work Jobs, Employment | Indeed.com</A>
-			<DT><A HREF="https://www.ziprecruiter.com/Jobs/Remote-Work-From-Home">$32k-$93k Remote Work From Home Jobs (NOW HIRING) | ZipRecruiter</A>
-			<DT><A HREF="https://www.workingnomads.co/jobs">Remote Jobs | Working Nomads</A>
-			<DT><A HREF="https://www.flexjobs.com/blog/post/top-companies-work-from-anywhere-remote-jobs/">Top 30 Companies Currently Hiring for Work-from-Anywhere Remote Jobs</A>
-			<DT><A HREF="https://www.glassdoor.com/index.htm">Glassdoor Job Search | Find the job that fits your life</A>
-			<DT><A HREF="https://www.vettery.com/tech?utm_campaign=ad-76303&utm_content=grouped&utm_medium=swiftweekly&utm_source=newsletter&utm_term=tech">https://www.vettery.com/tech?utm_campaign=ad-76303&amp;utm_content=grouped&amp;utm_medium=swiftweekly&amp;utm_source=newsletter&amp;utm_term=tech</A>
-			<DT><A HREF="https://www.workingnomads.co/remote-ios-jobs">Remote iOS Jobs | Working Nomads</A>
-			<DT><A HREF="https://stackoverflow.com/jobs/remote-developer-jobs-using-ios">Remote Ios Jobs - Stack Overflow</A>
-			<DT><A HREF="https://www.upwork.com/freelancers/">Mohammad Z. - Senior iOS Developer - Upwork Freelancer from Milan, Italy</A>
-			<DT><A HREF="https://www.codementor.io/login">Codementor | Get 1:1 programming help, hire developers, learn to code</A>
-			<DT><A HREF="https://www.ziprecruiter.com/candidate/search?search=remote+ios+developer&location=">3,586+ Remote Ios Developer Jobs | ZipRecruiter</A>
-			<DT><A HREF="https://www.simplyhired.com/search?q=remote+ios+developer&job=_2plztLdv6Oh8mOuPQSwhWCb06qRINNnm839eCTOqyDumw4o8o8eDg">20 Best Remote Ios Developer jobs (Hiring Now!) | Simply Hired</A>
-			<DT><A HREF="https://www.seek.com.au/iOS-jobs">IOS Jobs in All Australia - SEEK</A>
-			<DT><A HREF="https://remoteok.io/remote-jobs/71481-remote-senior-ios-swift-developer-illumy">Remote Senior IOS Swift Developer at illumy</A>
-		</DL><p>
-		<DT><A HREF="https://github.com/JohnSundell/SwiftTips">JohnSundell/SwiftTips: A collection of Swift tips &amp; tricks that I've shared on Twitter</A>
-		<DT><H3 FOLDED>Lifestyle</H3>
-		<DL><p>
-			<DT><A HREF="https://psiloveyou.xyz/how-to-get-over-someone-you-never-dated-faf0ec691d81?source=bookmarks---------48----------------">How To Get Over Someone You Never DatedSometimes moving on from an “almost” relationship is hardest</A>
-			<DT><A HREF="https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e?source=bookmarks---------47----------------">Why Decentralization Matters</A>
-			<DT><A HREF="https://medium.com/the-mission/mental-models-how-to-train-your-brain-to-think-in-new-ways-ad538ca9052c?source=bookmarks---------55----------------">Mental Models: How to Train Your Brain to Think in New WaysYou can train your brain to think better. One of the best ways to do this is to expand the set of mental models you use to think. Let me...</A>
-			<DT><A HREF="http://www.akairan.com/hsm062gs.%D8%B1%DA%98%DB%8C%D9%85-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7%DB%8C%DB%8C">رژیم کانادایی 15 روزه - نسخه اصلی رژیم کانادایی ترجمه شده و عوارض رژیم کانادایی</A>
-		</DL><p>
 		<DT><H3 FOLDED>MachineLearning</H3>
 		<DL><p>
 			<DT><H3 FOLDED>CoreMl</H3>
@@ -1359,3 +1330,4 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 			<DT><A HREF="https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b?source=bookmarks---------7----------------">Warning: Your programming careerHow not to get lost in the dark forests of programming</A>
 			<DT><A HREF="https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c?source=bookmarks---------5----------------">A Guide to Becoming a Full-Stack Developer in 2017Full-Stack Web Development, according to the Stack Overflow 2016 Developer Survey, is the most popular developer occupation today. It’s no...</A>
 		</DL><p>
+	</DL><p>
