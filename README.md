@@ -7,7 +7,6 @@ list contains from best iOS Blogs,medium,youtube, ... . add if you think an arti
 You can see tools,sites,newsletters related to ios in the end of readme too.
 
 <DL><p>
-		<DL><p>
 			<DT><H3 FOLDED>Best Practices</H3>
 			<DL><p>
 				<DT><A HREF="https://github.com/futurice/ios-good-practices/tree/master">futurice/ios-good-practices: Good ideas for iOS development, by Futurice developers.</A>
@@ -32,6 +31,12 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://github.com/ole/whats-new-in-swift-4">ole/whats-new-in-swift-4: An Xcode playground showcasing the new features in Swift 4.0.</A>
 				<DT><A HREF="https://medium.com/@MentorMate/top-ios-10-objective-c-and-swift-3-0-code-samples-8e6c5905aeb?source=bookmarks---------289----------------">Top iOS 10 Objective-C and Swift 3.0 Code Samples – MentorMate – Medium</A>
 			</DL><p>
+			<DT><H3 FOLDED>Combine</H3>
+			<DL><p>
+				<DT><A HREF="https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89">Will Combine kill RxSwift? – Flawless App Stories – Medium</A>
+				<DT><A HREF="https://github.com/freak4pc/rxswift-to-combine-cheatsheet">freak4pc/rxswift-to-combine-cheatsheet: RxSwift to Apple’s Combine Cheat Sheet</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77">Problem Solving with Combine Swift - Flawless iOS - Medium</A>
+			</DL><p>
 			<DT><H3 FOLDED>Drawing message bubble tale</H3>
 			<DL><p>
 				<DT><A HREF="https://medium.com/@Khaptonstall/drawing-message-bubbles-with-tails-in-swift-d2a69bce58da">Drawing Message Bubbles with Tails in Swift – Kyle – Medium</A>
@@ -39,165 +44,10 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://github.com/robkerr/TutorialChatBubble">robkerr/TutorialChatBubble: Tutorial for creating chat bubbles with tails using Swift 4</A>
 				<DT><A HREF="https://robkerr.com/tutorial-creating-an-ios-chat-bubble-with-tails-in-swift-the-easy-way-9f4db2c26aa">Creating an iOS Chat Bubble with Tails in Swift — the easy way</A>
 			</DL><p>
-			<DT><H3 FOLDED>GitHub</H3>
+			<DT><H3 FOLDED>instruments</H3>
 			<DL><p>
-				<DT><H3 FOLDED>CoreAnimation</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/yannickl/DynamicButton">yannickl/DynamicButton: Yet another animated flat buttons in Swift</A>
-					<DT><A HREF="https://github.com/Ramotion/animated-tab-bar">Ramotion/animated-tab-bar: RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.</A>
-					<DT><A HREF="https://github.com/marmelroy/Interpolate">marmelroy/Interpolate: Swift interpolation for gesture-driven animations</A>
-					<DT><A HREF="https://github.com/AugustRush/Stellar">AugustRush/Stellar: A fantastic Physical animation library for swift</A>
-					<DT><A HREF="https://github.com/IBAnimatable/IBAnimatable">IBAnimatable/IBAnimatable: Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.</A>
-					<DT><A HREF="https://github.com/storehouse/Advance">storehouse/Advance: A powerful animation framework for iOS, tvOS, and OS X.</A>
-					<DT><A HREF="https://github.com/lkzhao/ElasticTransition">lkzhao/ElasticTransition: A UIKit custom transition that simulates an elastic drag. Written in Swift.</A>
-					<DT><A HREF="https://github.com/CosmicMind/Material">CosmicMind/Material: An animation and graphics framework for Material Design in Swift.</A>
-					<DT><A HREF="https://github.com/hyperoslo/Hue">hyperoslo/Hue: Hue is the all-in-one coloring utility that you'll ever need.</A>
-					<DT><A HREF="https://github.com/MengTo/Spring">MengTo/Spring: A library to simplify iOS animations in Swift.</A>
-					<DT><A HREF="https://github.com/mojilala/VideoSplashKit">mojilala/VideoSplashKit: VideoSplashKit - UIViewController library for creating easy intro pages with background videos</A>
-					<DT><A HREF="https://github.com/poolqf/FillableLoaders">poolqf/FillableLoaders: Completely customizable progress based loaders drawn using custom CGPaths written in Swift</A>
-					<DT><A HREF="https://github.com/IFTTT/RazzleDazzle">IFTTT/RazzleDazzle: A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.</A>
-					<DT><A HREF="https://github.com/okmr-d/DOFavoriteButton">okmr-d/DOFavoriteButton: Cute Animated Button written in Swift.</A>
-					<DT><A HREF="https://github.com/benboecker/ShadowView">benboecker/ShadowView: UIView subclass with rounded corners and drop shadow</A>
-					<DT><A HREF="https://github.com/PiXeL16/RevealingSplashView">GitHub - PiXeL16/RevealingSplashView: A Splash view that animates and reveals its content, inspired by Twitter splash</A>
-					<DT><A HREF="https://github.com/ViccAlexander/Chameleon">ViccAlexander/Chameleon: Flat Color Framework for iOS (Obj-C &amp; Swift)</A>
-					<DT><A HREF="https://github.com/lkzhao/Hero">GitHub - lkzhao/Hero: Supercharged transition engine for iOS.</A>
-					<DT><A HREF="http://www.yudiz.com/layer-in-swift-3-0/">Layer in swift 3.0</A>
-					<DT><A HREF="https://www.raywenderlich.com/90488/calayer-in-ios-with-swift-10-examples">CALayer Tutorial: Getting Started</A>
-					<DT><A HREF="http://calayer.com/core-animation/2016/05/22/cashapelayer-in-depth.html#fill-color">CALayer: CAShapeLayer in Depth, Part I</A>
-					<DT><A HREF="http://calayer.com/core-animation/2016/05/17/catransaction-in-depth.html">CALayer: CATransaction in Depth</A>
-					<DT><A HREF="https://www.lottiefiles.com/">LottieFiles - Free high quality Lottie animation files</A>
-					<DT><A HREF="https://github.com/kgellci/Shift">kgellci/Shift: Animate gradient changes with time or motion for iOS Swift</A>
-					<DT><A HREF="https://github.com/cruisediary/Pastel">cruisediary/Pastel: 🎨 Gradient animation effect like Instagram</A>
-					<DT><A HREF="https://github.com/onmyway133/fantastic-ios-animation">onmyway133/fantastic-ios-animation: A collection of iOS animation repos</A>
-					<DT><A HREF="https://github.com/kentya6/KYCircularProgress">kentya6/KYCircularProgress: Flexible progress bar written in Swift.</A>
-					<DT><A HREF="https://github.com/marcosgriselli/ViewAnimator?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">marcosgriselli/ViewAnimator: ViewAnimator brings your UI to life with just one line</A>
-					<DT><A HREF="https://github.com/lkzhao/Elastic">lkzhao/Elastic: Fancy elastic transition powered by Metal, UIKit Dynamics, &amp; Hero</A>
-				</DL><p>
-				<DT><H3 FOLDED>UISwitch</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/TBXark/TKSwitcherCollection">TBXark/TKSwitcherCollection: An animate switch collection</A>
-				</DL><p>
-				<DT><H3 FOLDED>Indicator</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/BalestraPatrick/ParticlesLoadingView">BalestraPatrick/ParticlesLoadingView: A customizable SpriteKit particles animation on the border of a view.</A>
-					<DT><A HREF="https://github.com/apegroup/APESuperHUD">apegroup/APESuperHUD: A simple way to display a HUD with a message or progress information in your application.</A>
-					<DT><A HREF="https://github.com/krimpedance/KRProgressHUD">krimpedance/KRProgressHUD: A beautiful and easy-to-use progress HUD for your iOS.</A>
-					<DT><A HREF="https://github.com/SVProgressHUD/SVProgressHUD">SVProgressHUD/SVProgressHUD: A clean and lightweight progress HUD for your iOS and tvOS app.</A>
-					<DT><A HREF="https://github.com/roytornado/RSLoadingView">roytornado/RSLoadingView: Awesome loading animations using 3D engine written with Swift</A>
-				</DL><p>
-				<DT><H3 FOLDED>Charts</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/recruit-mtl/Graphs">recruit-mtl/Graphs: Light weight charts view generater for iOS. Written in Swift.</A>
-					<DT><A HREF="https://github.com/philackm/Scrollable-GraphView">philackm/Scrollable-GraphView: An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.</A>
-					<DT><A HREF="https://github.com/danielgindi/Charts">danielgindi/Charts: Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</A>
-					<DT><H3 FOLDED>Other</H3>
-					<DL><p>
-						<DT><A HREF="https://github.com/garnele007/SwiftOCR">garnele007/SwiftOCR: Fast and simple OCR library written in Swift</A>
-						<DT><A HREF="https://github.com/SwiftKitz/Appz">SwiftKitz/Appz: Launch external apps, and deeplink, with ease using Swift! .. http://kitz.io</A>
-						<DT><A HREF="https://github.com/RNCryptor/RNCryptor">RNCryptor/RNCryptor: CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc</A>
-						<DT><A HREF="https://github.com/ArtSabintsev/Siren">ArtSabintsev/Siren: Notify users when a new version of your app is available and prompt them to upgrade.</A>
-						<DT><A HREF="http://swifterswift.com/docs/">SwifterSwift Reference</A>
-					</DL><p>
-				</DL><p>
-				<DT><H3 FOLDED>Debug</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/DaveWoodCom/XCGLogger">DaveWoodCom/XCGLogger: A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.</A>
-					<DT><A HREF="https://github.com/crashlytics">Crashlytics, Inc.</A>
-					<DT><A HREF="https://revealapp.com/">Reveal - Runtime view debugging for iOS &amp; tvOS apps &amp; extensions</A>
-					<DT><A HREF="https://github.com/CocoaDebug/CocoaDebug?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">CocoaDebug/CocoaDebug: 🚀 iOS Debugging Tool</A>
-					<DT><A HREF="https://github.com/indragiek/InAppViewDebugger?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">indragiek/InAppViewDebugger: A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging</A>
-				</DL><p>
-				<DT><H3 FOLDED>Database</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/stephencelis/SQLite.swift">stephencelis/SQLite.swift: A type-safe, Swift-language layer over SQLite3.</A>
-				</DL><p>
-				<DT><H3 FOLDED>Mediaplayer</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/mobileplayer/mobileplayer-ios">mobileplayer/mobileplayer-ios: A powerful and completely customizable media player for iOS</A>
-					<DT><A HREF="https://github.com/josejuanqm/VersaPlayer">josejuanqm/VersaPlayer: Versatile Video Player implementation for iOS, macOS, and tvOS</A>
-				</DL><p>
-				<DT><H3 FOLDED>ViewController</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/yukiasai/Gecco">yukiasai/Gecco: Simply highlight items for your tutorial walkthrough, written in Swift</A>
-					<DT><A HREF="https://github.com/ariok/BWWalkthrough">ariok/BWWalkthrough: BWWalkthrough is a class to build custom walkthroughs for your iOS App</A>
-					<DT><A HREF="https://github.com/jonkykong/SideMenu">jonkykong/SideMenu: Simple side menu control for iOS in Swift inspired by Facebook. Right and Left sides. No coding required. iOS 8+.</A>
-					<DT><A HREF="https://github.com/uacaps/PageMenu">uacaps/PageMenu: A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)</A>
-					<DT><A HREF="https://github.com/Yalantis/ColorMatchTabs">Yalantis/ColorMatchTabs: This is a Review posting app that let user find interesting places near them</A>
-					<DT><A HREF="https://github.com/xmartlabs/XLPagerTabStrip">xmartlabs/XLPagerTabStrip: Android PagerTabStrip for iOS.</A>
-					<DT><A HREF="https://github.com/hyperoslo/Presentation">hyperoslo/Presentation: Presentation helps you to make tutorials, release notes and animated pages.</A>
-					<DT><A HREF="https://github.com/corin8823/Popover">corin8823/Popover: Popover is a balloon library like Facebook app. It is written in pure swift.</A>
-					<DT><A HREF="https://github.com/hsylife/SwiftyPickerPopover">hsylife/SwiftyPickerPopover: A more convenient way to display a popover with a built-in picker, on iPhone/iPad of iOS9+.</A>
-					<DT><A HREF="https://github.com/MessageKit/MessageKit">MessageKit/MessageKit: In-progress: A community-driven replacement for JSQMessagesViewController</A>
-				</DL><p>
-				<DT><H3 FOLDED>Swift - AlertView</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/scalessec/Toast-Swift">scalessec/Toast-Swift: A Swift extension that adds toast notifications to the UIView object class.</A>
-					<DT><A HREF="https://github.com/hyperoslo/Whisper">hyperoslo/Whisper: Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside</A>
-					<DT><A HREF="https://github.com/xmartlabs/XLActionController">xmartlabs/XLActionController: Fully customizable and extensible action sheet controller written in Swift 3</A>
-					<DT><A HREF="https://github.com/morizotter/SwiftyDrop">morizotter/SwiftyDrop: Lightweight dropdown message bar in Swift. It's simple and beautiful.</A>
-					<DT><A HREF="https://github.com/johnlui/SwiftNotice">johnlui/SwiftNotice: GUI library for displaying various popups (HUD), written in pure Swift.</A>
-					<DT><A HREF="https://github.com/SwiftKickMobile/SwiftMessages">SwiftKickMobile/SwiftMessages: A very flexible message bar for iOS written in Swift.</A>
-					<DT><A HREF="https://github.com/Orderella/PopupDialog">GitHub - Orderella/PopupDialog: A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style.</A>
-					<DT><A HREF="https://github.com/vikmeup/SCLAlertView-Swift">GitHub - vikmeup/SCLAlertView-Swift: Beautiful animated Alert View. Written in Swift</A>
-					<DT><A HREF="https://github.com/MarioIannotta/MIBlurPopup">MarioIannotta/MIBlurPopup: MIBlurPopup let you create amazing popups with a blurred background</A>
-					<DT><A HREF="https://github.com/Codeido/PMAlertController">Codeido/PMAlertController: PMAlertController is a great and customizable substitute to UIAlertController</A>
-					<DT><A HREF="https://github.com/IcaliaLabs/Presentr">IcaliaLabs/Presentr: Swift wrapper for custom ViewController presentations on iOS</A>
-					<DT><A HREF="https://github.com/codestergit/SweetAlert-iOS">codestergit/SweetAlert-iOS: Live animated Alert View for iOS written in Swift</A>
-					<DT><A HREF="https://github.com/Codigami/CFAlertViewController">Codigami/CFAlertViewController</A>
-					<DT><A HREF="https://github.com/alexaubry/BulletinBoard?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">alexaubry/BulletinBoard: Generate and Display Bottom Card Interfaces on iOS</A>
-				</DL><p>
-				<DT><H3 FOLDED>Textfield</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/Skyscanner/SkyFloatingLabelTextField">Skyscanner/SkyFloatingLabelTextField: A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.</A>
-					<DT><A HREF="https://github.com/raulriera/TextFieldEffects">raulriera/TextFieldEffects: Custom UITextFields effects inspired by Codrops, built using Swift</A>
-				</DL><p>
-				<DT><H3 FOLDED>UIStepper</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/gmertk/GMStepper">gmertk/GMStepper: A stepper with a sliding label in the middle.</A>
-				</DL><p>
-				<DT><H3 FOLDED>Navigation Bar</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/tristanhimmelman/HidingNavigationBar">tristanhimmelman/HidingNavigationBar: Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls</A>
-					<DT><A HREF="https://github.com/andreamazz/AMScrollingNavbar">andreamazz/AMScrollingNavbar: Scrollable UINavigationBar that follows the scrolling of a UIScrollView</A>
-					<DT><A HREF="https://github.com/PhamBaTho/BTNavigationDropdownMenu">PhamBaTho/BTNavigationDropdownMenu: The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.</A>
-				</DL><p>
-				<DT><H3 FOLDED>Networking</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/Moya/Moya">Moya/Moya: Network abstraction layer written in Swift.</A>
-					<DT><A HREF="https://github.com/Alamofire/Alamofire">GitHub - Alamofire/Alamofire: Elegant HTTP Networking in Swift</A>
-				</DL><p>
-				<DT><H3 FOLDED>Imageview</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/jathu/UIImageColors">jathu/UIImageColors: iTunes style color fetcher for UIImage.</A>
-					<DT><A HREF="https://github.com/ytakzk/Fusuma">ytakzk/Fusuma: Instagram-like photo browser and a camera feature with a few line of code in Swift.</A>
-					<DT><A HREF="https://github.com/zvonicek/ImageSlideshow">zvonicek/ImageSlideshow: Swift image slideshow with circular scrolling, timer and full screen viewer</A>
-					<DT><A HREF="https://github.com/FlexMonkey/Filterpedia">FlexMonkey/Filterpedia: Core Image Filter Explorer &amp; Showcase</A>
-					<DT><A HREF="https://github.com/onevcat/Kingfisher">GitHub - onevcat/Kingfisher: A lightweight, pure-Swift library for downloading and caching images from the web.</A>
-					<DT><A HREF="https://cocoapods.org/pods/ImageSlideshow">ImageSlideshow on CocoaPods.org</A>
-					<DT><A HREF="https://github.com/MillmanY/UploadImage">MillmanY/UploadImage: It's an Extension helper for UIImageView upload</A>
-					<DT><A HREF="https://github.com/hyperoslo/ImagePicker">hyperoslo/ImagePicker: Reinventing the way ImagePicker works.</A>
-					<DT><A HREF="https://github.com/makomori/Sharaku">makomori/Sharaku: Image filtering UI library like Instagram.</A>
-				</DL><p>
-				<DT><H3 FOLDED>Constraint Libs</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/roberthein/TinyConstraints">roberthein/TinyConstraints: Nothing but sugar.</A>
-					<DT><A HREF="https://github.com/PureLayout/PureLayout">PureLayout/PureLayout: The ultimate API for iOS &amp; OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.</A>
-					<DT><A HREF="https://github.com/SnapKit/SnapKit">SnapKit/SnapKit: A Swift Autolayout DSL for iOS &amp; OS X</A>
-					<DT><A HREF="https://github.com/nakiostudio/EasyPeasy">nakiostudio/EasyPeasy: Auto Layout made easy</A>
-					<DT><A HREF="https://github.com/robb/Cartography">robb/Cartography: A declarative Auto Layout DSL for Swift</A>
-					<DT><A HREF="https://github.com/freshOS/Stevia">freshOS/Stevia: Elegant Autolayout DSL for iOS</A>
-				</DL><p>
-				<DT><H3 FOLDED>Tableview</H3>
-				<DL><p>
-					<DT><A HREF="https://github.com/gontovnik/DGElasticPullToRefresh">gontovnik/DGElasticPullToRefresh: Elastic pull to refresh for iOS developed in Swift</A>
-					<DT><A HREF="https://github.com/entotsu/PullToBounce">entotsu/PullToBounce: Animated "Pull To Refresh" Library for UIScrollView. Inspired by https://dribbble.com/shots/1797373-Pull-Down-To-Refresh</A>
-					<DT><A HREF="https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout">CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout: UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.</A>
-					<DT><A HREF="https://github.com/jeantimex/ios-swift-collapsible-table-section">jeantimex/ios-swift-collapsible-table-section: A simple iOS swift-3 project demonstrates how to implement collapsible table section.</A>
-					<DT><A HREF="https://github.com/micazeve/MAGearRefreshControl">micazeve/MAGearRefreshControl: An iOS refresh control with gear animation</A>
-					<DT><A HREF="https://github.com/saifhunk/TwitterAnimation">saifhunk/TwitterAnimation: Twiiter animation with strechty header and tableview cells with differnt type</A>
-					<DT><A HREF="https://codeload.github.com/ioramashvili/TableViewReloadAnimation/zip/master">https://codeload.github.com/ioramashvili/TableViewReloadAnimation/zip/master</A>
-					<DT><A HREF="https://github.com/warchimede/CellAnimator/blob/master/CellAnimator/CellAnimator.swift">CellAnimator/CellAnimator.swift at master · warchimede/CellAnimator</A>
-				</DL><p>
+				<DT><A HREF="https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl&utm_content=Xcode%20Instruments%20usage%20to%20improve%20app%20performance">Xcode Instruments usage to improve app performance</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217">Reducing Memory Footprint and OOM Terminations in iOS</A>
 			</DL><p>
 			<DT><H3 FOLDED>iOS</H3>
 			<DL><p>
@@ -217,6 +67,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://extras.waynewbishop.com/swift/learning-big-o-notation-with-swift?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_207">Learning Big O Notation with Swift — Extras</A>
 					<DT><A HREF="https://medium.com/appcoda-tutorials/sorting-algorithms-implementing-selection-sort-using-swift-30500ae6b93a">Sorting Algorithms: Implementing Selection Sort Using Swift</A>
 					<DT><A HREF="https://medium.com/@sarinyaswift/doubly-linked-lists-swift-4-ae3cf8a5b975">Doubly Linked Lists — Swift 4 – Sarin Swift – Medium</A>
+					<DT><A HREF="https://swiftrocks.com/introsort-timsort-swifts-sorting-algorithm.html">Timsort and Introsort: Swift's Sorting Algorithms</A>
 				</DL><p>
 				<DT><H3 FOLDED>Animation</H3>
 				<DL><p>
@@ -237,17 +88,21 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@duwei199714/animated-uilabel-with-cadisplaylink-9a761d693ca5">Animated UILabel with CADisplayLink – Dywanedu – Medium</A>
 					<DT><A HREF="https://blog.usejournal.com/beautifying-your-ios-app-with-core-animation-fec66cc3fced">Beautifying your iOS app with Core Animation! – Noteworthy - The Journal Blog</A>
 					<DT><A HREF="https://github.com/onmyway133/fantastic-ios-animation">onmyway133/fantastic-ios-animation: A collection of iOS animation repos</A>
+					<DT><A HREF="https://medium.com/@rwbutler/animated-gradients-on-ios-aa117551e533">Animated Gradients on iOS – Ross Butler – Medium</A>
+					<DT><A HREF="https://www.raywenderlich.com/1746-how-to-create-a-complex-loading-animation-in-swift">How to Create a Complex Loading Animation in Swift | raywenderlich.com</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/animations-in-ios-summer-vibes-7a733b09daec">Animations in iOS: Summer vibes - Flawless iOS - Medium</A>
 				</DL><p>
 				<DT><H3 FOLDED>App State Restoration</H3>
 				<DL><p>
-					<DT><A HREF="https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration/">Restoring Your UI With State Restoration | agostini.tech</A>
-					<DT><A HREF="https://medium.com/swift-india/app-state-restoration-in-ios-1-bbc903f17a46">App State Restoration in iOS — 1 – Swift India – Medium</A>
 					<DT><A HREF="https://www.yudiz.com/a-complete-guide-to-app-state-restoration-in-ios/">A complete guide to App State Restoration in iOS</A>
+					<DT><A HREF="https://medium.com/swift-india/app-state-restoration-in-ios-1-bbc903f17a46">App State Restoration in iOS — 1 – Swift India – Medium</A>
+					<DT><A HREF="https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration/">Restoring Your UI With State Restoration | agostini.tech</A>
 					<DT><A HREF="https://www.raywenderlich.com/1395-state-restoration-tutorial-getting-started">State Restoration Tutorial: Getting Started | raywenderlich.com</A>
 				</DL><p>
 				<DT><H3 FOLDED>App Store Exprience</H3>
 				<DL><p>
 					<DT><A HREF="https://www.swiftjectivec.com/a-best-in-class-app/">A Best in Class iOS App | Swiftjective-C</A>
+					<DT><A HREF="https://www.youtube.com/redirect?v=wMDHTViWJ0k&redir_token=hE-qsyfZnXOrDOmUeBKEyxI0SfB8MTU2NzE4NDkzN0AxNTY3MDk4NTM3&event=video_description&q=https%3A%2F%2Fwww.swiftjectivec.com%2Fon-launching-your-indie-app%2F">https://www.swiftjectivec.com/on-laun...</A>
 				</DL><p>
 				<DT><H3 FOLDED>ARKit</H3>
 				<DL><p>
@@ -289,6 +144,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://blog.novoda.com/getting-started-with-arkit?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 27</A>
 					<DT><A HREF="https://www.raywenderlich.com/6957-building-a-museum-app-with-arkit-2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Building a Museum App with ARKit 2 | raywenderlich.com</A>
 					<DT><A HREF="https://blog.novoda.com/adding-the-finishing-touches-to-3d-models-in-xcode/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">Adding the finishing touches to 3D models in Xcode</A>
+					<DT><A HREF="https://medium.com/@maxxfrazer/realitykit-component-entity-bc59acb60728">Getting started with RealityKit: Component Entity System</A>
 				</DL><p>
 				<DT><H3 FOLDED>Autolayout</H3>
 				<DL><p>
@@ -299,6 +155,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1">Auto Layout Guide: Understanding Auto Layout</A>
 					<DT><A HREF="https://medium.com/@andrea.prearo/programmatic-views-in-swift-parallax-and-scale-5d8a0595ae82">Programmatic Views in Swift: Parallax and Scale – Andrea Prearo – Medium</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f">How to make Auto Layout more convenient in iOS – Flawless App Stories – Medium</A>
+					<DT><A HREF="https://blog.smartnsoft.com/layout-guide-margins-insets-and-safe-area-demystified-on-ios-10-11-d6e7246d7cb8">Layout Guide, Margins, Insets and Safe Area demystified on iOS 10 &amp; 11</A>
 				</DL><p>
 				<DT><H3 FOLDED>AVFoundation</H3>
 				<DL><p>
@@ -307,7 +164,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				</DL><p>
 				<DT><H3 FOLDED>CI &amp; CD</H3>
 				<DL><p>
-					<DT><A HREF="https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5?source=bookmarks---------50----------------">Build it, Test it</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5?source=bookmarks---------50----------------">Build it, Test it, Deliver it!Complete iOS Guide on Continuous Delivery with fastlane and Jenkins</A>
 					<DT><A HREF="https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d?source=bookmarks---------153----------------">Continuous integration for iOS with Nix and BuildkiteAustin Louden | Pinterest engineer, Core Experience</A>
 					<DT><A HREF="https://blog.geekyants.com/using-fabrics-crashlytics-beta-to-build-ideal-apps-1c3aa18bb5f5?source=bookmarks---------205----------------">Using Fabric’s Crashlytics &amp; Beta To Build Ideal AppsThere are many things in the flow before launching a mobile app like testing, debugging etc. and sometimes working with that flow takes...</A>
 					<DT><A HREF="https://medium.com/xcblog/xcode9-xcode-server-comprehensive-ios-continuous-integration-3613a7973b48?source=bookmarks---------204----------------">Xcode9 + Xcode Server = Comprehensive iOS Continuous IntegrationAt WWDC 2017, Apple announce something that made almost every iOS developer smile, session on ‘What’s New in Signing for Xcode and Xcode...</A>
@@ -325,6 +182,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@jonathan2457/how-to-automate-ci-for-any-ios-project-c98494d29a44">How to automate CI for any iOS Project – Jonathan Samudio – Medium</A>
 					<DT><A HREF="https://savvyapps.com/blog/continuous-integration-ios-bitrise?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">https://savvyapps.com/blog/continuous-integration-ios-bitrise?utm_campaign=AppCoda%20Weekly&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</A>
 					<DT><A HREF="https://about.gitlab.com/2019/03/06/ios-publishing-with-gitlab-and-fastlane/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">How to publish iOS apps to the App Store with GitLab and fastlane | GitLab</A>
+					<DT><A HREF="https://www.youtube.com/redirect?event=video_description&v=sn7xVXHY4Mw&redir_token=WuCfkaNPCzh-D16H0ZV21Ac5Jnp8MTU2NDIxNzY2MEAxNTY0MTMxMjYw&q=http%3A%2F%2Fkhanlou.com%2F2019%2F07%2Fcontinuous-integration%2F">http://khanlou.com/2019/07/continuous...</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e">iOS Continuous Integration with GitLab CI, Fastlane &amp; OTA Installation</A>
 				</DL><p>
 				<DT><H3 FOLDED>Cocoapods</H3>
 				<DL><p>
@@ -375,6 +234,11 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://blog.kulman.sk/debugging-ios-network-traffic/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">Debugging iOS network traffic - Igor Kulman</A>
 					<DT><A HREF="https://agostini.tech/2019/01/27/debugging-tipstricks/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">Debugging Tips&amp;Tricks | agostini.tech</A>
 					<DT><A HREF="https://github.com/yagiz/Bagel">yagiz/Bagel: a little native network debugging tool for iOS</A>
+					<DT><A HREF="https://medium.com/headout-engineering/advanced-debugging-with-xcode-9eba2845232a">Advanced Debugging with Xcode – Headout Engineering – Medium</A>
+					<DT><A HREF="https://medium.com/@pratibha.r.shetty/xcode-debugging-tips-and-tricks-wwdc-2018-255b87bed17b">Xcode Debugging Tips And Tricks — WWDC 2018 – Pratibha Shetty – Medium</A>
+					<DT><A HREF="https://www.avanderlee.com/debugging/debugging-breakpoints/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl">Debugging breakpoints as a replacement for prints - SwiftLee</A>
+					<DT><A HREF="https://www.avanderlee.com/debugging/ui-debugging-by-making-use-of-third-party-apps/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl">UI Debugging by making use of third-party apps - SwiftLee</A>
+					<DT><A HREF="https://www.avanderlee.com/debugging/simulator-tools/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl">Simulator tools to get more out of the simulator - SwiftLee</A>
 				</DL><p>
 				<DT><H3 FOLDED>Design Patterns</H3>
 				<DL><p>
@@ -458,7 +322,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 						<DT><A HREF="https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3?source=bookmarks---------4----------------">App Architecture and Object Composition in SwiftCreating reusable components to architect UI, concurrency, data, and other modules in Swift.</A>
 						<DT><A HREF="https://medium.com/commencis/reusability-and-composition-in-swift-6630fc199e16">Reusability and Composition in Swift – Commencis – Medium</A>
 						<DT><A HREF="https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e?source=bookmarks---------102----------------">iOS Architecture: A State Container based approach</A>
-						<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder.</A>
+						<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder. I will...</A>
 						<DT><A HREF="https://medium.com/@johnsundell/using-the-builder-pattern-in-swift-6122b7884fca?source=bookmarks---------53----------------">Using the builder pattern in SwiftClick here to read this post on Swift by Sundell instead, you won’t regret it 😉</A>
 						<DT><A HREF="https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944?source=bookmarks---------116----------------">Singleton, Service Locator and tests in iOSIn this article, I want to review the usage of Singleton and Service Locator patterns in iOS and the reasons why they are often called...</A>
 						<DT><A HREF="https://medium.com/@johnsundell/using-the-factory-pattern-to-avoid-shared-state-in-swift-7b06052a7de7?source=bookmarks---------192----------------">Using the factory pattern to avoid shared state in SwiftRead this post with syntax highlighting on swiftbysundell.com.</A>
@@ -486,7 +350,51 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 						<DT><A HREF="https://www.objc.io/issues/13-architecture/viper/">Architecting iOS Apps with VIPER · objc.io</A>
 						<DT><A HREF="https://blog.exyte.com/clean-swift-4891a5e3ace9">Clean swift – Exyte</A>
 						<DT><A HREF="https://mutualmobile.com/posts/meet-viper-fast-agile-non-lethal-ios-architecture-framework">Meet VIPER: Mutual Mobile's application of Clean Architecture for iOS apps - Mutual Mobile</A>
+						<DT><A HREF="https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf?source=bookmarks---------110----------------">Introducing Clean Swift Architecture (VIP)Forget MVC, now!</A>
+						<DT><A HREF="https://clean-swift.com/">Get Started with Clean Swift - Clean Swift</A>
+						<DT><A HREF="https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2">Implementing VIPER Architecture Pattern for iOS - Flawless iOS - Medium</A>
 					</DL><p>
+					<DT><A HREF="https://github.com/onmyway133/fantastic-ios-architecture">onmyway133/fantastic-ios-architecture: Better ways to structure iOS apps</A>
+					<DT><A HREF="https://medium.com/@coderjuliet007/the-very-basics-of-uikit-app-mvc-and-mvvm-20b89b50a237?source=bookmarks---------23----------------">The very basics of UIKIT APP (MVC and MVVM)This for the starters of iOS App development or for all the developers at all stages, who really want look back at the very basics.</A>
+					<DT><A HREF="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52?source=bookmarks---------232----------------">iOS Architecture PatternsDemystifying MVC, MVP, MVVM and VIPER</A>
+					<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder. I will...</A>
+					<DT><A HREF="https://medium.com/@johnsundell/using-the-builder-pattern-in-swift-6122b7884fca?source=bookmarks---------53----------------">Using the builder pattern in SwiftClick here to read this post on Swift by Sundell instead, you won’t regret it 😉</A>
+					<DT><A HREF="https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944?source=bookmarks---------116----------------">Singleton, Service Locator and tests in iOSIn this article, I want to review the usage of Singleton and Service Locator patterns in iOS and the reasons why they are often called...</A>
+					<DT><A HREF="https://medium.com/@johnsundell/using-the-factory-pattern-to-avoid-shared-state-in-swift-7b06052a7de7?source=bookmarks---------192----------------">Using the factory pattern to avoid shared state in SwiftRead this post with syntax highlighting on swiftbysundell.com.</A>
+					<DT><A HREF="https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756?source=bookmarks---------143----------------">Null Object Pattern in SwiftWhen something returns nil, it spreads like a disease. Checks for nil and optional unwrapping pollute all the functions around. The whole...</A>
+					<DT><A HREF="https://codeburst.io/solid-design-principle-using-swift-fa67443672b8?source=bookmarks---------129----------------">SOLID Design Principle using SwiftThe SOLID principles are the foundation for the implementing/creating effective, maintainable, scalable and loosely coupled system.</A>
+					<DT><A HREF="https://medium.com/inloopx/cleaner-architecture-on-ios-ac4027b85d1f?source=bookmarks---------91----------------">Cleaner Architecture on iOSToday, I’m not going to teach you anything new or groundbreaking. Rather, I’m just going to remind you about something you already know...</A>
+					<DT><A HREF="https://medium.com/@omaralbeik/making-mvc-great-again-829ef9461ec2?source=bookmarks---------20----------------">Making MVC Great Again!Use generics, protocols, and extensions to get rid of massive view controllers</A>
+					<DT><A HREF="https://medium.com/developermind/clean-swift-b79a36c509?source=bookmarks---------37----------------">Clean SwiftFunctions</A>
+					<DT><A HREF="https://medium.com/@johnsundell/using-child-view-controllers-as-plugins-in-swift-458e6b277b54?source=bookmarks---------93----------------">Using child view controllers as plugins in SwiftLike always, the best place to read this post is on Swift by Sundell 👍</A>
+					<DT><A HREF="https://medium.com/iquii/atlas-an-unified-approach-to-mobile-development-cycle-networking-layer-a5ccb064181a?source=bookmarks---------88----------------">Atlas, an unified approach to mobile development cycle: networking layerAs developers we usually spend ton of time writing, rewriting and refactoring existing code; for some of us it represents the long...</A>
+					<DT><A HREF="https://medium.com/@johnsundell/preventing-views-from-being-model-aware-in-swift-38e2008827a3?source=bookmarks---------40----------------">Preventing views from being model aware in SwiftNicely formatted code, dark &amp; black themes and more await you. All you have to do is read this post on Swift by Sundell instead 😊.</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3?source=bookmarks---------4----------------">App Architecture and Object Composition in SwiftCreating reusable components to architect UI, concurrency, data, and other modules in Swift.</A>
+					<DT><A HREF="https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e?source=bookmarks---------102----------------">iOS Architecture: A State Container based approach</A>
+					<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff?source=bookmarks---------83----------------">iOS: Root Controller NavigationHow to switch between the application parts and handle launch options.</A>
+					<DT><A HREF="https://blog.smartnsoft.com/an-ios-architecture-approach-for-uiviewcontroller-states-error-management-in-swift-a353b0e53d94?source=bookmarks---------32----------------">An iOS architecture approach for UIViewController states &amp; error management in SwiftIn a mobile app, you face network and data instabilities. That means that users must be aware of what is going on on the screen.</A>
+					<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff">iOS: Root Controller Navigation – Stan Ostrovskiy – Medium</A>
+					<DT><A HREF="https://medium.com/@mohamedraja_77/mvp-in-ios-78fb008b37d1?source=---------19----------------">MVP in iOSWhat iOS have?Basically iOS apps are organised with MVC(Model-View-Controller) design pattern not actual MVC.Model — It’s just a data access layer includes Network and Database data handling.View — Presentation Layer...</A>
+					<DT><A HREF="https://medium.com/@aaron.bikis/coordinators-protocol-oriented-programming-and-mvvm-bullet-proof-architecture-with-swift-629dea5354ce">Coordinators, Protocol Oriented Programming and MVVM; Bullet-proof architecture with Swift</A>
+					<DT><A HREF="https://marcosantadev.com/solid-principles-applied-swift/">https://marcosantadev.com/solid-principles-applied-swift/</A>
+					<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Rank 1</A>
+					<DT><A HREF="https://rubygarage.org/blog/swift-design-patterns?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Most Popular Design Patterns in Swift for iOS App Development</A>
+					<DT><A HREF="https://kean.github.io/post/app-architecture">Let’s Talk Architecture | Alexander Grebenyuk</A>
+					<DT><A HREF="https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift">Avoiding singletons in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://medium.com/cocoaacademymag/how-use-state-design-pattern-to-create-a-stateful-viewcontroller-78c224781918">How use State Design Pattern to create a Stateful ViewController?</A>
+					<DT><A HREF="https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps">How to use the coordinator pattern in iOS apps – Hacking with Swift</A>
+					<DT><A HREF="https://medium.com/swift2go/exploring-design-patterns-used-by-apple-on-ios-23328873ecd3">Exploring Design Patterns used by Apple on iOS – Swift2Go – Medium</A>
+					<DT><A HREF="https://medium.com/swift2go/simplifying-ios-code-by-using-design-patterns-e51e4bc7eaf5">Simplifying iOS code by using Design Patterns – Swift2Go – Medium</A>
+					<DT><A HREF="https://medium.com/commencis/reusability-and-composition-in-swift-6630fc199e16">Reusability and Composition in Swift – Commencis – Medium</A>
+					<DT><A HREF="https://code.egym.de/lightweight-design-patterns-in-ios-part-1-observer-3c8f571ec267">Lightweight Design Patterns in iOS (Part 1) - Observer</A>
+					<DT><A HREF="https://medium.com/cocoaacademymag/real-world-ios-design-patterns-3e5aad172094">Real World: iOS Design Patterns – Cocoa Academy – Medium</A>
+					<DT><A HREF="https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd">Flow Coordinators – Dennis Walsh – Medium</A>
+					<DT><A HREF="https://sandofsky.com/blog/controller-hierarchies.html?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_203">Controller Hierarchies</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe">Strategy pattern in Swift – Flawless App Stories – Medium</A>
+					<DT><A HREF="https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Swift MVVM Tutorial: A Static Immutable Pattern for iOS Apps | Toptal</A>
+					<DT><A HREF="https://www.raywenderlich.com/5542-enum-driven-tableview-development">Enum-Driven TableView Development | raywenderlich.com</A>
+					<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Advanced iOS Architecture: Solving the 5 Issues of the MVC, MVVM and VIPER patterns</A>
+					<DT><A HREF="https://medium.com/@brunoroveas/coordinators-b29329582cdb">Coordinators – Bruno Rovea – Medium</A>
 				</DL><p>
 				<DT><H3 FOLDED>Dispatches</H3>
 				<DL><p>
@@ -536,6 +444,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/flawless-app-stories/how-i-failed-39-interviews-and-what-ive-learned-515c8e6c4b53">How I failed 39 interviews, and what I’ve learned – Flawless App Stories – Medium</A>
 					<DT><A HREF="https://github.com/jwasham/coding-interview-university">jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.</A>
 					<DT><A HREF="https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.raywenderlich.com%2F762435-swift-interview-questions-and-answers&redir_token=AEDVN1inLt8-wBsLqGZexT2XJO98MTU1Njk5MDgyM0AxNTU2OTA0NDIz&event=video_description&v=vLTW29Tvxto">https://www.raywenderlich.com/762435-...</A>
+					<DT><A HREF="https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25">A Complete Guide to Getting Hired as an iOS Developer</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/14-resources-to-help-you-get-your-ios-engineering-job-1cca22cedafe?source=collection_home---4------1-----------------------">14 Resources to help you get your iOS engineering job</A>
 				</DL><p>
 				<DT><H3 FOLDED>iOS 12</H3>
 				<DL><p>
@@ -584,6 +494,25 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/wolox-driving-innovation/how-to-automatically-detect-a-memory-leak-in-ios-769b7bb1ec7c">How to Automatically Detect a Memory Leak in iOS – Wolox – Medium</A>
 					<DT><A HREF="https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift">ARC and Memory Management in Swift | raywenderlich.com</A>
 					<DT><A HREF="https://www.avanderlee.com/swift/weak-self/">Weak self and unowned self explained in Swift - SwiftLee</A>
+					<DT><A HREF="https://medium.com/fueled-engineering/memory-management-in-swift-common-issues-90dd7c08b77">Memory Management in Swift: Common Issues – Fueled Engineering – Medium</A>
+					<DT><A HREF="https://medium.com/swift2go/autoreleasepool-uses-in-2019-swift-9e8fd7b1cd3f">@autoreleasepool uses in 2019 Swift – Swift2Go – Medium</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217">Reducing Memory Footprint and OOM Terminations in iOS</A>
+				</DL><p>
+				<DT><H3 FOLDED>Modulize</H3>
+				<DL><p>
+					<DT><A HREF="https://developers.soundcloud.com/blog/leveraging-frameworks-to-speed-up-our-development-on-ios-part-1">Backstage Blog - Leveraging frameworks to speed up our development on iOS - Part 1 - SoundCloud Developers</A>
+					<DT><A HREF="https://github.com/tuist/microfeatures-guidelines">tuist/microfeatures-guidelines: 📦📝 uFeatures guidelines</A>
+					<DT><A HREF="https://medium.com/@mohdasif/modularising-an-ios-app-for-faster-build-times-7e8e28417f95">Modularising an iOS app for faster build times - Mohd Asif - Medium</A>
+					<DT><A HREF="https://edit.theappbusiness.com/modular-ios-strangling-the-monolith-4a6843a28992">Modular iOS Part 1: Strangling the Monolith - TAB Edit</A>
+					<DT><A HREF="https://edit.theappbusiness.com/modular-ios-splitting-a-workspace-into-modules-331293f1090">Modular iOS Part 2: Splitting A Workspace into Modules</A>
+					<DT><A HREF="https://medium.com/swlh/modularize-an-ios-application-919b30e41e3c">Modularize an iOS application - The Startup - Medium</A>
+					<DT><A HREF="https://patrickbalestra.com/blog/2018/08/27/improving-your-build-time-in-xcode-10.html">Improving Your Build Time in Xcode 10 · Patrick Balestra</A>
+					<DT><A HREF="https://github.com/dchohfi/ios-module-architecture">https://github.com/dchohfi/ios-module-architecture</A>
+					<DT><A HREF="https://github.com/fastred/Optimizing-Swift-Build-Times">https://github.com/fastred/Optimizing-Swift-Build-Times</A>
+					<DT><A HREF="https://koke.me/2017/03/24/diving-into-swift-compiler-performance/">Diving into Swift compiler performance – Koke's Journal</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5?source=collection_home---4------0-----------------------">Improve your iOS team’s productivity by building features as frameworks</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5">Improve your iOS team’s productivity by building features as frameworks</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99#iosapps">Modular Architecture in iOS - Flawless iOS - Medium</A>
 				</DL><p>
 				<DT><H3 FOLDED>Notification</H3>
 				<DL><p>
@@ -686,6 +615,12 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://github.com/socketio/socket.io-client-swift">socketio/socket.io-client-swift</A>
 					<DT><A HREF="http://www.appcoda.com/socket-io-chat-app/">Swift Tutorial: Building an iOS Chat App Using Socket.IO</A>
 				</DL><p>
+				<DT><H3 FOLDED>SSL Pinning</H3>
+				<DL><p>
+					<DT><A HREF="https://www.guardsquare.com/en/blog/iOS-SSL-certificate-pinning-bypassing?gclid=CjwKCAiA0O7fBRASEiwAYI9QArbiUjaoPofABEYLSpXwFwZWDg0ewikSj_7AoCOmNV67U-7B0uQrzhoCqGEQAvD_BwE">Prevent bypassing of SSL certificate pinning in iOS applications | Guardsquare</A>
+					<DT><A HREF="https://www.raywenderlich.com/1484288-preventing-man-in-the-middle-attacks-in-ios-with-ssl-pinning">Preventing Man-in-the-Middle Attacks in iOS with SSL Pinning | raywenderlich.com</A>
+					<DT><A HREF="https://datatheorem.github.io/TrustKit/getting-started.html">Getting Started | TrustKit</A>
+				</DL><p>
 				<DT><H3 FOLDED>Storyboards</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d?source=bookmarks---------107----------------">Swift: UIStoryboard ProtocolBecause String literals are so yucky.</A>
@@ -712,10 +647,14 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0">Parallel programming with Swift: Operations – Flawless App Stories – Medium</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/parallel-programming-with-swift-promises-740be1a260ed">Parallel programming with Swift: Promises – Flawless App Stories – Medium</A>
 					<DT><A HREF="https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26">Avoiding race conditions in Swift – SwiftCairo – Medium</A>
-					<DT><A HREF="https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift">A deep dive into Grand Central Dispatch in Swift — Swift by Sundell</A>
-					<DT><A HREF="https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift">Under the hood of Futures &amp; Promises in Swift — Swift by Sundell</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/functional-networking-in-swift">Functional networking in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://medium.com/swift2go/synchronysing-the-asynchronous-in-swift-3f91a32bfb1b">Synchronising the Asynchronous in Swift – Swift2Go – Medium</A>
+					<DT><A HREF="https://medium.com/swift2go/await-in-swift-no-promises-broken-381b531f2843">Await in Swift, no Promises broken :) – Swift2Go – Medium</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/task-based-concurrency-in-swift">Task-based concurrency in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift">A deep dive into Grand Central Dispatch in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://www.swiftbysundell.com/posts/avoiding-race-conditions-in-swift">Avoiding race conditions in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift">Under the hood of Futures &amp; Promises in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests">Async/await in Swift unit tests — Swift by Sundell</A>
 				</DL><p>
 				<DT><H3 FOLDED>Tips</H3>
 				<DL><p>
@@ -758,12 +697,15 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/swift2go/simple-custom-uinavigationcontroller-transitions-fdb56a217dd8">Simple, custom UINavigationController transitions – Swift2Go – Medium</A>
 					<DT><A HREF="https://medium.com/rosberryapps/tricky-uiviewcontroller-transition-animations-59131b540b33">Tricky UIViewController transition animations – @RosberryApps – Medium</A>
 					<DT><A HREF="https://www.raywenderlich.com/221-recreating-the-apple-music-now-playing-transition">Recreating the Apple Music Now Playing Transition | raywenderlich.com</A>
-					<DT><A HREF="http://lkzhao.com/2017/02/05/hero-interactive-transition.html">Interactive transitions with Hero · Luke Zhao</A>
-					<DT><A HREF="https://github.com/lkzhao/Elastic">lkzhao/Elastic: Fancy elastic transition powered by Metal, UIKit Dynamics, &amp; Hero</A>
 					<DT><A HREF="https://medium.com/rosberryapps/tricky-uiviewcontroller-transition-animations-59131b540b33?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 11</A>
 					<DT><A HREF="https://www.raywenderlich.com/221-recreating-the-apple-music-now-playing-transition?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 12</A>
 					<DT><A HREF="https://github.com/IvanVorobei/SPStorkController">IvanVorobei/SPStorkController: Now playing controller from Apple Music. Customisable height.</A>
 					<DT><A HREF="https://github.com/HarshilShah/DeckTransition">HarshilShah/DeckTransition: A library to recreate the iOS Apple Music now playing transition</A>
+					<DT><A HREF="https://github.com/IvanVorobei/SPStorkController">IvanVorobei/SPStorkController: Modal controller as in mail or Apple music application</A>
+					<DT><A HREF="http://lkzhao.com/2017/02/05/hero-interactive-transition.html">Interactive transitions with Hero · Luke Zhao</A>
+					<DT><A HREF="https://github.com/lkzhao/Elastic">lkzhao/Elastic: Fancy elastic transition powered by Metal, UIKit Dynamics, &amp; Hero</A>
+					<DT><A HREF="https://itnext.io/image-to-viewcontroller-transition-fe033d94b4af">Image to ViewController transition – ITNEXT</A>
+					<DT><A HREF="https://medium.com/@hacknicity/view-controller-presentation-changes-in-ios-13-ac8c901ebc4e">View Controller Presentation Changes in iOS 13 – Geoff Hackworth – Medium</A>
 				</DL><p>
 				<DT><H3 FOLDED>UIkit</H3>
 				<DL><p>
@@ -809,6 +751,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://briancoyner.github.io/2017/05/15/uivisualeffectview-with-drop-shadow.html">Add Drop Shadow To UIVisualEffectView</A>
 					<DT><A HREF="https://codea.io/blog/the-ios-menu/">The iOS Menu – Codea &amp; Shade</A>
 					<DT><A HREF="https://medium.com/capital-one-tech/boost-smooth-scrolling-with-ios-10-pre-fetching-api-818c25cd9c5d">Boost Smooth Scrolling with iOS 10 Pre-Fetching API</A>
+					<DT><A HREF="https://www.kairadiagne.com/2019/04/27/getting-up-to-speed-with-uicollectionviewlayout.html">Getting up to speed with UICollectionView layouts</A>
+					<DT><A HREF="https://fluffy.es/prefetching/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Smoothen your table view data loading using UITableViewDataSource Prefetching</A>
 				</DL><p>
 				<DT><H3 FOLDED>Unit Test &amp; Dependency Injection</H3>
 				<DL><p>
@@ -825,7 +769,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@johnsundell/ui-testing-analytics-code-in-swift-cb53a68fa2d?source=bookmarks---------81----------------">UI testing analytics code in SwiftAs always, the best place to read this post is on Swift by Sundell 👍</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/a-complete-list-of-articles-on-unit-testing-with-swift-from-2017-9be8f046ef25?source=bookmarks---------75----------------">A complete list of articles on Unit Testing with Swift from 2017</A>
 					<DT><A HREF="https://medium.com/@johnsundell/getting-started-with-xcode-ui-testing-in-swift-ac7b1f5101e5?source=bookmarks---------180----------------">Getting started with Xcode UI testing in SwiftUI testing is a great way to ensure that your most critical UI interactions keep working as you’re adding new features or refactoring your...</A>
-					<DT><A HREF="https://medium.com/@cristianmadrid_44849/ios-tests-tips-2-improving-the-readability-of-your-tests-7bb7db347709?source=bookmarks---------29----------------">iOS Testing Tips #2 — Improving the readability of your testing codeThis is the second post of a series where I write tips about testing</A>
+					<DT><A HREF="https://medium.com/@cristianmadrid_44849/ios-tests-tips-2-improving-the-readability-of-your-tests-7bb7db347709?source=bookmarks---------29----------------">iOS Testing Tips #2 — Improving the readability of your testing codeThis is the second post of a series where I write tips about testing, you can check the other one here:iOS Testing Tips #1 — Track of...</A>
 					<DT><A HREF="https://medium.com/cocoaacademymag/setup-your-ios-testing-env-5617d1a13043?source=bookmarks---------52----------------">Setup your iOS Testing EnvTesting under iOS platform has improved a lot since early days, back then it was challenging to run unit tests outside of Xcode, generate...</A>
 					<DT><A HREF="https://medium.com/ios-os-x-development/view-event-testing-in-swift-bce860bb682f?source=bookmarks---------97----------------">View Event Testing in SwiftSeparating Presentation and Event Handling Concerns</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327?source=bookmarks---------141----------------">The complete guide to Network Unit Testing in Swift</A>
@@ -861,6 +805,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://www.swiftbysundell.com/posts/making-swift-tests-easier-to-debug">Making Swift tests easier to debug — Swift by Sundell</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/refactoring-swift-code-for-testability">Refactoring Swift code for testability — Swift by Sundell</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift">Using unit tests to identify &amp; avoid memory leaks in Swift — Swift by Sundell</A>
+					<DT><A HREF="https://mecid.github.io/2019/04/24/starting-unit-testing-with-model-layer/?utm_campaign=Swift%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">Starting Unit Testing with Model layer | Majid’s</A>
 				</DL><p>
 				<DT><H3 FOLDED>Useful Swift articles</H3>
 				<DL><p>
@@ -1120,6 +1065,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.cobeisfresh.com/accessing-types-from-extensions-in-swift-32ca87ec5190">Accessing Types from Extensions in Swift – COBE</A>
 					<DT><A HREF="https://medium.com/swift2go/whats-self-type-and-protocol-understanding-swift-metatypes-b6b5be9e09f1">What’s .self, .Type and .Protocol? Understanding Swift Metatypes</A>
 					<DT><A HREF="https://flawlessapp.io/blog/dive-deep-into-swift-string/">Dive deep into Swift String</A>
+					<DT><A HREF="https://medium.cobeisfresh.com/accessing-types-from-extensions-in-swift-32ca87ec5190">https://medium.cobeisfresh.com/accessing-types-from-extensions-in-swift-32ca87ec5190</A>
 				</DL><p>
 				<DT><H3 FOLDED>Swift Style Guide</H3>
 				<DL><p>
@@ -1131,6 +1077,35 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/cocoaacademymag/swiftlint-introduction-tutorial-cd692d41dda3">SwiftLint introduction tutorial – Cocoa Academy – Medium</A>
 					<DT><A HREF="https://medium.com/developermind/using-swiftlint-and-danger-for-swift-best-practices-48432e4e268a">Using SwiftLint and Danger for Swift Best Practices</A>
 				</DL><p>
+			</DL><p>
+			<DT><H3 FOLDED>Swift tips</H3>
+			<DL><p>
+				<DT><A HREF="https://github.com/JohnSundell/SwiftTips">JohnSundell/SwiftTips: A collection of Swift tips &amp; tricks that I've shared on Twitter</A>
+				<DT><A HREF="https://www.swiftbysundell.com/tips">Swift Tips — Swift by Sundell</A>
+			</DL><p>
+			<DT><H3 FOLDED>SwiftUI</H3>
+			<DL><p>
+				<DT><A HREF="https://www.hackingwithswift.com/articles/195/learn-swiftui-with-swiftui-by-example">Learn SwiftUI with SwiftUI By Example – Hacking with Swift</A>
+				<DT><A HREF="https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials">Learn SwiftUI with free tutorials – Hacking with Swift</A>
+				<DT><A HREF="https://www.hackingwithswift.com/articles/194/get-started-with-swiftui">Get started with SwiftUI – Hacking with Swift</A>
+				<DT><A HREF="https://www.youtube.com/watch?v=iO7bcgjXZRI&list=PLuoeXyslFTubw4NtepDCis5tTqK37zT3Q&index=6">(3) How to create stacks using VStack and HStack - SwiftUI by Example - YouTube</A>
+				<DT><A HREF="https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4">What’s this “some” in SwiftUI? – Mischa Hildebrand – Medium</A>
+				<DT><A HREF="https://medium.com/swlh/are-you-an-ios-x-expert-81eb9da3623a">Are You an iOS Ex-Expert? – The Startup – Medium</A>
+				<DT><A HREF="https://medium.com/flutter-nyc/what-swiftui-means-for-flutter-6d5898f7adf7">What SwiftUI Means for Flutter – Flutter NYC – Medium</A>
+				<DT><A HREF="https://medium.com/better-programming/cloning-tinder-swiftui-29faed752be6">Cloning Tinder With SwiftUI – Better Programming – Medium</A>
+				<DT><A HREF="https://medium.com/better-programming/swiftui-a-tour-into-its-beautiful-api-part-1-b098b38e77">SwiftUI, a Tour Into Its Beautiful API (Part 1) – Better Programming – Medium</A>
+				<DT><A HREF="https://medium.com/better-programming/best-practices-in-swiftui-composition-282b02772a24">Best Practices in SwiftUI Composition – Better Programming – Medium</A>
+				<DT><A HREF="https://medium.com/better-programming/swiftui-and-the-uistackview-problem-34381ffaa71f">SwiftUI and the UIStackView Problem – Better Programming – Medium</A>
+				<DT><A HREF="https://blog.usejournal.com/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab">How to build a Chat App or Messenger in SwiftUI for iOS Swift</A>
+				<DT><A HREF="https://fuckingswiftui.com/">Fucking SwiftUI - Cheat Sheet</A>
+				<DT><A HREF="https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift">SwiftUI lets us build declarative user interfaces in Swift – Hacking with Swift</A>
+				<DT><A HREF="https://medium.com/better-programming/swiftui-101-how-not-to-initialize-bindable-objects-6e539d1b5344">SwiftUI and How NOT to Initialize Bindable Objects – Better Programming – Medium</A>
+				<DT><A HREF="https://github.com/heckj/swiftui-notes">heckj/swiftui-notes</A>
+				<DT><A HREF="https://github.com/Jinxiansen/SwiftUI">Jinxiansen/SwiftUI: `SwiftUI` Framework Learning and Usage Guide. 🚀 https://jinxiansen.github.io/SwiftUI/</A>
+				<DT><A HREF="https://medium.com/@martinlasek">Martin Lasek – Medium</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2">https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2</A>
+				<DT><A HREF="https://github.com/Juanpe/About-SwiftUI">Juanpe/About-SwiftUI: Gathering all info published, both by Apple and by others, about new framework SwiftUI.</A>
+				<DT><A HREF="https://medium.com/better-programming/understanding-swiftui-data-flow-79429a49ae35">Understanding SwiftUI Data Flow - Better Programming - Medium</A>
 			</DL><p>
 			<DT><H3 FOLDED>Tools</H3>
 			<DL><p>
@@ -1167,167 +1142,4 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://github.com/CocoaDebug/CocoaDebug?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">CocoaDebug/CocoaDebug: 🚀 iOS Debugging Tool</A>
 				<DT><A HREF="http://www.jsoncafe.com/">JSON to Swift, JAVA, PHP and C# [Model generator]</A>
 			</DL><p>
-			<DT><H3 FOLDED>Tutorials</H3>
-			<DL><p>
-				<DT><H3 FOLDED>collectionview</H3>
-				<DL><p>
-					<DT><A HREF="https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/UsingtheFlowLayout/UsingtheFlowLayout.html">Using the Flow Layout</A>
-					<DT><A HREF="https://www.raywenderlich.com/107439/uicollectionview-custom-layout-tutorial-pinterest">UICollectionView Custom Layout Tutorial: Pinterest</A>
-					<DT><A HREF="http://samwize.com/2017/03/26/guide-to-uicollectionview-with-custom-layout/">Guide to UICollectionView With Custom Layout</A>
-					<DT><A HREF="http://martiancraft.com/blog/2017/05/collection-view-layouts/">Going Without the Flow - Exploring Collection View Layouts</A>
-					<DT><A HREF="https://github.com/search?l=Java&o=desc&p=3&q=java&s=stars&type=Repositories&utf8=%E2%9C%93">Search · java</A>
-					<DT><A HREF="https://github.com/badoo/Chatto">badoo/Chatto: A lightweight framework to build chat applications, made in Swift</A>
-					<DT><A HREF="https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2">Firebase Tutorial: Real-time Chat</A>
-					<DT><A HREF="https://github.com/seedante/CollectionViewAnimation">seedante/CollectionViewAnimation: Animation for insert, delete and move item.</A>
-				</DL><p>
-				<DT><H3 FOLDED>Deeplink</H3>
-				<DL><p>
-					<DT><A HREF="http://www.brianjcoleman.com/tutorial-deep-linking-in-swift/">Tutorial: Deep Linking in Swift - iOS Life</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696">https://medium.com/ios-os-x-development/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696</A>
-					<DT><A HREF="https://stackoverflow.com/questions/28152526/how-do-i-open-phone-settings-when-a-button-is-clicked-ios">swift - How do i open phone settings when a button is clicked ios - Stack Overflow</A>
-				</DL><p>
-				<DT><H3 FOLDED>Notification Tutorials</H3>
-				<DL><p>
-					<DT><A HREF="https://www.andrewcbancroft.com/2014/10/08/fundamentals-of-nsnotificationcenter-in-swift/">Fundamentals of NSNotificationCenter in Swift</A>
-					<DT><A HREF="https://www.raywenderlich.com/123862/push-notifications-tutorial">Push Notifications Tutorial: Getting Started</A>
-					<DT><A HREF="https://useyourloaf.com/blog/local-notifications-with-ios-10/">Local Notifications with iOS 10</A>
-					<DT><A HREF="https://cocoacasts.com/local-notifications-with-the-user-notifications-framework/">Local Notifications With the User Notifications Framework - Cocoacasts</A>
-					<DT><A HREF="http://www.appcoda.com/ios10-user-notifications-guide/">Introduction to User Notifications Framework in iOS 10 - AppCoda</A>
-					<DT><A HREF="https://www.appcoda.com/push-notification-ios/">A Beginner's Guide to Push Notifications in Swift</A>
-					<DT><A HREF="https://blog.pusher.com/how-to-send-ios-10-notifications-using-the-push-notifications-api/">How to send iOS 10 Notifications using the Push Notifications API - Pusher Blog</A>
-					<DT><A HREF="https://makeapppie.com/2017/01/03/basic-push-notifications-in-ios-10-and-swift/">Basic Push Notifications in iOS 10 and Swift | Making App Pie</A>
-					<DT><A HREF="https://eladnava.com/send-push-notifications-to-ios-devices-using-xcode-8-and-swift-3/">Send Push Notifications to iOS Devices using Xcode 8 and Swift 3</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/learn-master-%EF%B8%8F-ios-remote-push-notifications-in-2018-in-under-10-minutes-825ca6bee092">Learn &amp; Master ⚔️ iOS Remote Push Notifications in 10 Minutes</A>
-				</DL><p>
-				<DT><H3 FOLDED>Networking</H3>
-				<DL><p>
-				</DL><p>
-				<DT><H3 FOLDED>PullToRefreh</H3>
-				<DL><p>
-					<DT><A HREF="https://useyourloaf.com/blog/refresh-control-changes-in-ios-10/">Refresh Control Changes in iOS 10</A>
-					<DT><A HREF="http://www.appcoda.com/custom-pull-to-refresh/">Building a Custom Pull To Refresh Control for Your iOS Apps</A>
-					<DT><A HREF="https://www.andrewcbancroft.com/2015/03/17/basics-of-pull-to-refresh-for-swift-developers/">Basics of Pull to Refresh for Swift Developers - Andrew Bancroft</A>
-					<DT><A HREF="https://cocoacasts.com/how-to-add-pull-to-refresh-to-a-table-view-or-collection-view/">How to Add Pull-to-Refresh to a Table View or Collection View - Cocoacasts</A>
-				</DL><p>
-				<DT><H3 FOLDED>Swift Basics</H3>
-				<DL><p>
-					<DT><A HREF="http://stackoverflow.com/questions/24242629/implementing-copy-in-swift">Implementing copy() in Swift - Stack Overflow</A>
-					<DT><A HREF="https://www.hackingwithswift.com/example-code/system/how-to-copy-objects-in-swift-using-copy">How to copy objects in Swift using copy() - free Swift 3 example code</A>
-					<DT><A HREF="http://napora.org/nscoder-and-swift-initialization/">NSCoder and swift initialization</A>
-					<DT><A HREF="https://krakendev.io/blog/weak-and-unowned-references-in-swift">"Weak, Strong, Unowned, Oh My!" - A Guide to References in Swift — KrakenDev</A>
-					<DT><A HREF="https://useyourloaf.com/blog/quick-guide-to-swift-delegates/">Quick Guide to Swift Delegates</A>
-					<DT><A HREF="http://stackoverflow.com/questions/1210047/cocoa-whats-the-difference-between-the-frame-and-the-bounds">Cocoa: What's the difference between the frame and the bounds? - Stack Overflow</A>
-					<DT><A HREF="https://blog.bobthedeveloper.io/swift-retention-cycle-in-closures-and-delegate-836c469ef128">Swift Retention Cycle in Closures and Delegate – Bob the Developer</A>
-					<DT><A HREF="https://blog.bobthedeveloper.io/swift-capture-list-in-closures-e28282c71b95">Swift Capture List in Closures – Bob the Developer</A>
-					<DT><A HREF="http://www.globalnerdy.com/2016/08/22/how-to-work-with-dates-and-times-in-swift-3-part-2-dateformatter/">How to work with dates and times in Swift 3, part 2: DateFormatter — Global Nerdy - Joey deVilla's mobile/tech blog</A>
-					<DT><A HREF="https://medium.com/@mimicatcodes/simple-higher-order-functions-in-swift-3-0-map-filter-reduce-and-flatmap-984fa00b2532">Simple Higher Order Functions in Swift 3.0 — Map, filter, reduce and flatMap!</A>
-					<DT><A HREF="https://medium.com/the-traveled-ios-developers-guide/swift-keywords-v-3-0-1-f59783bf26c">Swift + Keywords (V 3.0.1) – The Traveled iOS Developer’s Guide – Medium</A>
-					<DT><A HREF="https://appventure.me/2015/10/17/advanced-practical-enum-examples/">Advanced &amp; Practical Enum usage in Swift</A>
-					<DT><A HREF="https://stackoverflow.com/questions/4754392/uiview-with-rounded-corners-and-drop-shadow">iphone - UIView with rounded corners and drop shadow? - Stack Overflow</A>
-				</DL><p>
-				<DT><H3 FOLDED>Sharing Data</H3>
-				<DL><p>
-					<DT><A HREF="https://stackoverflow.com/questions/35931946/basic-example-for-sharing-text-or-image-with-uiactivityviewcontroller-in-swift">ios - Basic example for sharing text or image with UIActivityViewController in Swift - Stack Overflow</A>
-					<DT><A HREF="https://www.raywenderlich.com/133825/uiactivityviewcontroller-tutorial">UIActivityViewController Tutorial: Sharing Data</A>
-					<DT><A HREF="http://www.appcoda.com/social-framework-introduction/">Beginner's Guide: Social Framework and UIActivityViewController</A>
-					<DT><A HREF="http://nshipster.com/uiactivityviewcontroller/">UIActivityViewController - NSHipster</A>
-				</DL><p>
-				<DT><H3 FOLDED>UIbezierpath</H3>
-				<DL><p>
-					<DT><A HREF="https://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part-1">Core Graphics Tutorial Part 1: Getting Started</A>
-					<DT><A HREF="https://digitalleaves.com/tutorial-bezier-paths-in-practice-i-from-basic-shapes-to-custom-designable-controls/">Tutorial: Bezier Paths in practice (I): From basic shapes to custom designable controls - Digital Leaves</A>
-					<DT><A HREF="https://www.appcoda.com/bezier-paths-introduction/">A Beginner's Guide to Bezier Paths and Shape Layers - AppCoda</A>
-				</DL><p>
-				<DT><H3 FOLDED>UIControl</H3>
-				<DL><p>
-					<DT><A HREF="https://www.codementor.io/kevinfarst/designing-a-button-bar-style-uisegmentedcontrol-in-swift-cg6cf0dok">Designing a Button Bar-Style UISegmentedControl in Swift | Codementor</A>
-					<DT><A HREF="https://developer.apple.com/documentation/uikit/uisegmentedcontrol#1653545">UISegmentedControl - UIKit | Apple Developer Documentation</A>
-					<DT><A HREF="https://medium.com/@pleelaprasad/creating-a-custom-segmented-control-in-swift-10fede366da1">Creating a custom segmented Control in swift – Leela Prasad PENUMUTCHU – Medium</A>
-					<DT><A HREF="https://github.com/hilalbaig/HBSegmentedControl">hilalbaig/HBSegmentedControl: Custom Segmented Control in Swift</A>
-					<DT><A HREF="https://github.com/twicketapp/TwicketSegmentedControl">twicketapp/TwicketSegmentedControl: Custom UISegmentedControl replacement for iOS, written in Swift</A>
-				</DL><p>
-				<DT><A HREF="https://medium.com/@sourleangchhean/ios-customized-activity-indicator-with-swift-3-0-2-f26f7dd6a064">iOS customized activity indicator with Swift 3.0.2 – Sour LeangChhean – Medium</A>
-				<DT><A HREF="https://www.raywenderlich.com/153084/use-git-source-control-xcode-8">How To Use Git Source Control with Xcode 8</A>
-				<DT><A HREF="https://www.toptal.com/ios/how-to-write-automated-tests-for-ios">Write Automated Tests for iOS | Toptal</A>
-				<DT><A HREF="https://harlanhaskins.com/2017/01/08/building-a-compiler-with-swift-in-llvm-part-1-introduction-and-the-lexer.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Building a Compiler in Swift with LLVM, Part 1: Introduction and the Lexer - Harlan Haskins</A>
-				<DT><A HREF="http://help.apple.com/deployment/ios/#/apda0e3426d7">Install in-house apps wirelessly - iOS Deployment Reference</A>
-				<DT><A HREF="http://www.appcoda.com/presentation-controllers-tutorial/">A Beginner's Guide to Presentation Controllers in iOS 8</A>
-				<DT><A HREF="https://www.raywenderlich.com/154371/swift-generics-tutorial-getting-started">Swift Generics Tutorial: Getting Started</A>
-				<DT><A HREF="https://academy.realm.io/posts/try-swift-nyc-tanner-nelson-server-side-swift-using-vapor/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Server-side Swift Using Vapor</A>
-			</DL><p>
 		</DL><p>
-		<DT><H3 FOLDED>MachineLearning</H3>
-		<DL><p>
-			<DT><H3 FOLDED>CoreMl</H3>
-			<DL><p>
-				<DT><A HREF="https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1?source=bookmarks---------17----------------">Detecting Avengers superheroes in your iOS app with IBM Watson and CoreML</A>
-				<DT><A HREF="https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1?source=bookmarks---------167----------------">DIY Prisma app with CoreMLWWDC 2017 brought us an understanding of what Apple thinks about machine learning and its applications right on mobile devices. CoreML...</A>
-				<DT><A HREF="https://towardsdatascience.com/building-a-real-time-object-recognizer-for-ios-a678d2baf8f0?source=bookmarks---------226----------------">Building a real time object recognizer for iOSUsing CoreML and Swift</A>
-				<DT><A HREF="https://blog.georgejose.com/building-a-general-purpose-object-recognizer-ios-app-using-coreml-vision-and-swift-8de4b29b8f17?source=bookmarks---------244----------------">Building an object recognizer iOS app using CoreML, Vision and SwiftThe CoreML and Vision frameworks were amongst some of the coolest new tech announced at WWDC on Wednesday (7 Jun).</A>
-				<DT><A HREF="https://towardsdatascience.com/welcoming-core-ml-8ba325227a28?source=bookmarks---------263----------------">Welcoming Core MLAfter the WWDC17 Keynote, my friend Aleph and I were super excited about the new Core ML framework. We then started playing around and...</A>
-				<DT><A HREF="https://hackernoon.com/swift-tutorial-native-machine-learning-and-machine-vision-in-ios-11-11e1e88aa397?source=bookmarks---------264----------------">Swift Tutorial: Native Machine Learning and Machine Vision in iOS 11It has arrived. With iOS 11, Apple finally introduced a native machine learning and machine vision framework.</A>
-				<DT><A HREF="https://medium.com/the-andela-way/getting-started-with-machine-learning-on-ios-6d1eaf5ef116?source=bookmarks---------86----------------">Getting started with Machine Learning on iOSThe past few months have had me earn a few battle scars in the world of iOS development with Swift while all the time I kept looking over...</A>
-				<DT><A HREF="https://medium.com/@melodyfs/build-a-handwriting-recognizer-ship-it-to-app-store-fcce24205b4b">Build Handwriting Recognizer &amp; Ship It To App Store</A>
-				<DT><A HREF="https://codeburst.io/create-own-ml-model-using-coreml2-86dadbe3528e">Create own ML Model using CoreML2 – codeburst</A>
-				<DT><A HREF="https://medium.com/@tbaranowicz/apple-createml-vs-kaggle-ea3de6c13a86?source=---------16---------------------">Apple CreateML vs Kaggle&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/901/1*eK_cjsC5W-zxet6QifjeBQ.jpeg"&gt;During recent WWDC Apple presented their newest tool called CreateML. As a ML enthusiast i was really impressed on...</A>
-				<DT><A HREF="http://machinethink.net/blog/tensorflow-on-ios/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Getting started with TensorFlow on iOS</A>
-				<DT><A HREF="https://www.reza.codes/2017-07-29/how-to-train-your-own-dataset-for-coreml/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">How to train your own model for CoreML</A>
-				<DT><A HREF="https://medium.com/xcblog/wwdc18-create-ml-complete-machine-learning-in-swift-90b0811ff76c?source=bookmarks---------40----------------">WWDC18: Create ML-Complete Machine Learning in SwiftOriginally Posted on XCBlog here</A>
-				<DT><A HREF="https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f">Vision in iOS: Text detection and Tesseract recognition</A>
-				<DT><A HREF="https://heartbeat.fritz.ai/building-an-image-segmentation-app-in-ios-3377eb4a3e7c">Building an Image Segmentation App in iOS – Heartbeat</A>
-				<DT><A HREF="https://www.netguru.co/codestories/createml-start-your-adventure-in-machine-learning-with-swift?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">CreateML: Start Your Adventure in Machine Learning with Swift | Netguru Blog on Swift</A>
-				<DT><A HREF="https://github.com/netguru/CreateML-Research">CreateML Playground with all of the datasets</A>
-				<DT><A HREF="https://www.raywenderlich.com/5653-create-ml-tutorial-getting-started">Create ML Tutorial: Getting Started | raywenderlich.com</A>
-				<DT><A HREF="https://appcoda.com/coreml-turi-create?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Creating a Prisma-like App with Core ML, Style Transfer and Turi Create</A>
-				<DT><A HREF="https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56">Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift</A>
-				<DT><A HREF="https://codeburst.io/neural-networks-usage-at-mobile-development-e9de81d25f18">Neural Networks Usage at Mobile Development – codeburst</A>
-			</DL><p>
-			<DT><H3 FOLDED>Vision</H3>
-			<DL><p>
-				<DT><A HREF="https://medium.freecodecamp.org/ios-coreml-vision-image-recognition-3619cf319d0b">How to build an image recognition iOS app with Apple’s CoreML and Vision APIs</A>
-				<DT><A HREF="https://www.raywenderlich.com/577-core-ml-and-vision-machine-learning-in-ios-11-tutorial">Core ML and Vision: Machine Learning in iOS 11 Tutorial | raywenderlich.com</A>
-				<DT><A HREF="https://medium.com/@kravik/ios-11-tutorial-vision-framework-3c836d5ecadd">iOS 11 Tutorial: Vision framework – Igor Kravtsov – Medium</A>
-				<DT><A HREF="https://www.appcoda.com/vision-framework-introduction/">Using Vision Framework for Text Detection in iOS 11 | Swift Tutorial</A>
-				<DT><A HREF="https://medium.com/flawless-app-stories/vision-in-ios-text-detection-and-tesseract-recognition-26bbcd735d8f">Vision in iOS: Text detection and Tesseract recognition</A>
-			</DL><p>
-			<DT><A HREF="https://www.tooploox.com/blog/deep-neural-networks-in-swift-lessons-learned?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Deep Neural Networks in Swift, lessons learned | Tooploox</A>
-			<DT><A HREF="https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1">Machine Learning in iOS: IBM Watson and CoreML – Flawless App Stories – Medium</A>
-			<DT><A HREF="https://www.raywenderlich.com/5213-natural-language-processing-on-ios-with-turi-create">Natural Language Processing on iOS with Turi Create | raywenderlich.com</A>
-			<DT><A HREF="https://edit.theappbusiness.com/intro-to-machine-learning-on-ios-with-createml-turicreate-part-1-a94cd2a8a5e">Intro to Machine Learning on iOS with CreateML &amp; TuriCreate - Part 1</A>
-			<DT><A HREF="https://edit.theappbusiness.com/intro-to-machine-learning-on-ios-with-createml-turicreate-part-2-f30f94fe8172">Intro to Machine Learning on iOS with CreateML &amp; TuriCreate - Part 2</A>
-			<DT><A HREF="https://hackernoon.com/integrating-tensorflow-model-in-an-ios-app-cecf30b9068d">Integrating TensorFlow Model in an iOS App&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/780/1*hOIvJZvw75Gqq2PJ-trbUw.jpeg"&gt;Apple released Core ML framework at WWDC 2017, which allowed developers to integrate...</A>
-		</DL><p>
-		<DT><H3 FOLDED>Programming Basics</H3>
-		<DL><p>
-			<DT><A HREF="https://softwareengineering.stackexchange.com/questions/120019/whats-the-benefit-of-object-oriented-programming-over-procedural-programming">c++ - What's the benefit of object-oriented programming over procedural programming? - Software Engineering Stack Exchange</A>
-			<DT><A HREF="https://www.researchgate.net/post/What_is_adventages_of_Object_Oriented_Programming">What is adventages of Object Oriented Programming?</A>
-			<DT><A HREF="https://www.roberthalf.com/blog/salaries-and-skills/4-advantages-of-object-oriented-programming">4 Benefits of Object-Oriented Programming | Robert Half</A>
-			<DT><A HREF="https://www.cs.drexel.edu/~introcs/Fa15/notes/06.1_OOP/Advantages.html?CurrentSlide=3">Object Oriented Programming</A>
-			<DT><A HREF="https://www.ibm.com/developerworks/library/j-perry-object-oriented-programming-concepts-and-principles/index.html">Unit 3: Object-oriented programming concepts and principles</A>
-			<DT><A HREF="http://www.c-sharpcorner.com/UploadFile/mkagrahari/introduction-to-object-oriented-programming-concepts-in-C-Sharp/">Introduction to Object Oriented Programming Concepts in C#</A>
-			<DT><A HREF="http://www.studytonight.com/cpp/cpp-and-oops-concepts.php">Object Oriented programming Concepts in C++ | C++ Tutorial | Studytonight</A>
-			<DT><A HREF="https://anampiu.github.io/blog/OOP-principles/">The four principles of OOP. – Andrew Anampiu – Programmer from everywhere</A>
-			<DT><A HREF="https://stackoverflow.com/questions/tagged/design-patterns?sort=votes&pageSize=15&mixed=1">Highest Voted 'design-patterns' Questions - Stack Overflow</A>
-			<DT><A HREF="https://stackoverflow.com/questions/tagged/oop?mixed=1">Highest Voted 'oop' Questions - Stack Overflow</A>
-			<DT><A HREF="https://medium.com/flawless-app-stories/useful-git-commands-for-everyday-use-e1a4de64037d">Useful git commands for everyday use! – Flawless App Stories – Medium</A>
-			<DT><A HREF="http://net-informations.com/faq/net/stack-heap.htm">Differences between Stack and Heap</A>
-		</DL><p>
-		<DT><H3 FOLDED>Sniff</H3>
-		<DL><p>
-			<DT><A HREF="https://docs.mitmproxy.org/stable/tute-highscores/">Setting highscores on Apple GameCenter</A>
-			<DT><A HREF="https://medium.com/sean3z/debugging-mobile-apps-with-mitmproxy-4596e56b3da2">Debugging Mobile Apps with mitmproxy – sean3z – Medium</A>
-			<DT><A HREF="https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/">How To: Use mitmproxy to read and modify HTTPS traffic - Philipp's Tech Blog</A>
-			<DT><A HREF="https://medium.com/@maxgreenwald/mitmproxy-your-d-i-y-private-eye-57e6be2a1273">Mitmproxy: Your D.I.Y. Private Eye – Max Greenwald – Medium</A>
-			<DT><A HREF="https://medium.com/@maxgreenwald/mitmproxy-your-d-i-y-private-eye-864c08f84736">Mitmproxy: Your D.I.Y. Private Eye – Max Greenwald – Medium</A>
-			<DT><A HREF="https://medium.com/@kennethpoon/lets-write-swift-code-to-intercept-ssl-pinning-https-requests-12446303cc9d">Let’s write Swift code to intercept SSL Pinning HTTPS Requests</A>
-			<DT><A HREF="https://medium.com/@kennethpoon/how-to-perform-ios-code-injection-on-ipa-files-1ba91d9438db">How to perform iOS Code Injection on .ipa files – Kenneth Poon – Medium</A>
-		</DL><p>
-		<DT><H3 FOLDED>Software Engineer</H3>
-		<DL><p>
-			<DT><A HREF="https://medium.com/swlh/why-startups-are-dying-left-and-right-bbb4b1122e8e?source=bookmarks---------56----------------">Why startups are dying left and rightSurefire ways to kill your startup before it, well, starts</A>
-			<DT><A HREF="https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53?source=bookmarks---------9----------------">Goodbye, Object Oriented ProgrammingI’ve been programming in Object Oriented languages for decades. The first OO language I used was C++ and then Smalltalk and finally .NET...</A>
-			<DT><A HREF="https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312?source=bookmarks---------8----------------">The Mistakes I Made As a Beginner ProgrammerLearn to identify them, make habits to avoid them</A>
-			<DT><A HREF="https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b?source=bookmarks---------7----------------">Warning: Your programming careerHow not to get lost in the dark forests of programming</A>
-			<DT><A HREF="https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c?source=bookmarks---------5----------------">A Guide to Becoming a Full-Stack Developer in 2017Full-Stack Web Development, according to the Stack Overflow 2016 Developer Survey, is the most popular developer occupation today. It’s no...</A>
-		</DL><p>
-	</DL><p>
