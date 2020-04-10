@@ -6,7 +6,32 @@ list of best/useful iOS Articles,Videos,Blogs in my iOS journey.
 list contains from best iOS Blogs,medium,youtube, ... . add if you think an article is worth to be added to list send pull request.
 You can see tools,sites,newsletters related to ios in the end of readme too.
 
-<DL><p>
+
+<DT><H3 FOLDED>Algorithms</H3>
+			<DL><p>
+				<DT><A HREF="https://medium.com/@EnnioMa/back-to-the-fundamentals-sorting-algorithms-in-swift-from-scratch-fccf8a3daea3?source=bookmarks---------117----------------">Back to the fundamentals: Sorting algorithms in Swift (from scratch!)You can read perfectly this post on my blog ennioma.com. 🚀</A>
+				<DT><A HREF="https://medium.com/yay-its-erica/30-days-of-algorithms-october-2017-7cdaeaeac7e1?source=bookmarks---------122----------------">31 Days of Algorithms — October 2017October has been a month of lots of CodeFights problems. I really like this site because of their Tournament feature. In a tournament, you...</A>
+				<DT><A HREF="https://medium.com/swiftly-swift/dijkstras-algorithm-in-swift-15dce3ed0e22?source=bookmarks---------152----------------">Dijkstra’s Algorithm In SwiftA Dive into Graph Theory and Swift</A>
+				<DT><A HREF="https://medium.com/swiftly-swift/the-right-way-to-write-dijkstras-algorithm-in-swift-abb14ce66b00?source=bookmarks---------162----------------">The Right Way To Write Dijkstra’s Algorithm In Swift 👾Spoiler alert: you don’t write it at all!</A>
+				<DT><A HREF="https://www.raywenderlich.com/178761/swift-algorithm-club-siwft-dijkstras-algorithm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Swift Algorithm Club: Swift Dijkstra’s Algorithm</A>
+				<DT><A HREF="https://github.com/krzyzanowskim/CryptoSwift?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 41) Algorithm</A>
+				<DT><A HREF="https://medium.com/@vin.pradeilles/an-elegant-pattern-to-craft-cache-efficient-functions-in-swift-c1a18f73e28c">An elegant pattern to craft cache-efficient functions in Swift</A>
+				<DT><A HREF="http://khanlou.com/2018/12/analyzing-complexity/">Khanlou | Analyzing Complexity</A>
+				<DT><A HREF="https://www.raywenderlich.com/5740-swift-algorithm-club-strassen-s-algorithm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 28</A>
+				<DT><A HREF="https://www.raywenderlich.com/541-swift-algorithm-club-boyer-moore-string-search-algorithm">Swift Algorithm Club: Boyer Moore String Search Algorithm | raywenderlich.com</A>
+				<DT><A HREF="https://medium.com/appcoda-tutorials/sorting-algorithms-implementing-heap-sort-using-swift-f24e6868ad28">Sorting Algorithms: Implementing Heap Sort Using Swift</A>
+				<DT><A HREF="https://extras.waynewbishop.com/swift/learning-big-o-notation-with-swift?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_207">Learning Big O Notation with Swift — Extras</A>
+				<DT><A HREF="https://medium.com/appcoda-tutorials/sorting-algorithms-implementing-selection-sort-using-swift-30500ae6b93a">Sorting Algorithms: Implementing Selection Sort Using Swift</A>
+				<DT><A HREF="https://medium.com/@sarinyaswift/doubly-linked-lists-swift-4-ae3cf8a5b975">Doubly Linked Lists — Swift 4 – Sarin Swift – Medium</A>
+				<DT><A HREF="https://swiftrocks.com/introsort-timsort-swifts-sorting-algorithm.html">Timsort and Introsort: Swift's Sorting Algorithms</A>
+				<DT><A HREF="https://medium.com/@volodymyrklymenko/hacktoberfest-2-graph-algorithms-implementation-in-swift-aea21c73ed8e?source=bookmarks---------33------------------">Hacktoberfest #2: Graph algorithms implementation in SwiftThe second week of Hacktoberfest is almost finished, and this week I’ve made another contribution. I decided to continue developing my...</A>
+				<DT><A HREF="https://medium.com/achievers-tech/data-structures-and-algorithms-in-swift-arrays-c4ed2b44d238?source=bookmarks---------31------------------">Data Structures and Algorithms in Swift: ArraysWhat are Data Structures?</A>
+			</DL><p>
+			<DT><H3 FOLDED>AVFoundation</H3>
+			<DL><p>
+				<DT><A HREF="https://www.raywenderlich.com/188867/video-streaming-tutorial-for-ios-getting-started">Video Streaming Tutorial for iOS: Getting Started</A>
+				<DT><A HREF="https://github.com/josejuanqm/VersaPlayer">josejuanqm/VersaPlayer: Versatile Video Player implementation for iOS, macOS, and tvOS</A>
+			</DL><p>
 			<DT><H3 FOLDED>Best Practices</H3>
 			<DL><p>
 				<DT><A HREF="https://github.com/futurice/ios-good-practices/tree/master">futurice/ios-good-practices: Good ideas for iOS development, by Futurice developers.</A>
@@ -36,6 +61,14 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89">Will Combine kill RxSwift? – Flawless App Stories – Medium</A>
 				<DT><A HREF="https://github.com/freak4pc/rxswift-to-combine-cheatsheet">freak4pc/rxswift-to-combine-cheatsheet: RxSwift to Apple’s Combine Cheat Sheet</A>
 				<DT><A HREF="https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77">Problem Solving with Combine Swift - Flawless iOS - Medium</A>
+				<DT><A HREF="https://developer.apple.com/videos/play/wwdc2019/722/">Introducing Combine</A>
+				<DT><A HREF="https://developer.apple.com/videos/play/wwdc2019/721/">Combine in practice</A>
+				<DT><A HREF="https://www.avanderlee.com/swift/combine-swift/">Combine debugging using operators in Swift</A>
+				<DT><A HREF="https://www.avanderlee.com/swift/custom-combine-publisher/">Creating a custom Combine Publisher to extend UIKit</A>
+				<DT><A HREF="https://www.avanderlee.com/swift/combine/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl">Getting started with the Combine framework in Swift - SwiftLee</A>
+				<DT><A HREF="https://t.co/6omJ8QLE9h?amp=1">https://medium.com/flawless-app-stories/mvvm-design-pattern-with-combine-framework-on-ios-5ff911011b0b</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/mvvm-design-pattern-with-combine-framework-on-ios-5ff911011b0b">MVVM Design Pattern with Combine framework on iOS - Flawless iOS - Medium</A>
+				<DT><A HREF="https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios">MVVM with Combine Tutorial for iOS | raywenderlich.com</A>
 			</DL><p>
 			<DT><H3 FOLDED>Drawing message bubble tale</H3>
 			<DL><p>
@@ -49,26 +82,41 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl&utm_content=Xcode%20Instruments%20usage%20to%20improve%20app%20performance">Xcode Instruments usage to improve app performance</A>
 				<DT><A HREF="https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217">Reducing Memory Footprint and OOM Terminations in iOS</A>
 			</DL><p>
+			<DT><H3 FOLDED>Interview</H3>
+			<DL><p>
+				<DT><A HREF="https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a?source=bookmarks---------134----------------">50 iOS Interview Questions And AnswersUpdate: November 1 2017.</A>
+				<DT><A HREF="https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-2-45f952230b9f?source=bookmarks---------132----------------">50 iOS Interview Questions And Answers Part 2Update: April 15 2018.</A>
+				<DT><A HREF="https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d?source=bookmarks---------131----------------">50 iOS Interview Questions And Answers Part 3Hello, Part 3 is ready ! Check out Part 1 and Part 2 if you haven’t already :)</A>
+				<DT><A HREF="https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a?source=bookmarks---------130----------------">50 iOS Interview Questions And Answers Part 4Hello, Part 4 is ready !</A>
+				<DT><A HREF="https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f?source=bookmarks---------58----------------">50 iOS Interview Questions And Answers Part 5Update: March 25 2018</A>
+				<DT><A HREF="https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af?source=bookmarks---------6----------------">I just got a developer job at Facebook. Here’s how I prepped for my interviews.I just finished seven on-site interviews at Silicon Valley tech companies. I ultimately accepted an offer for a software engineering job...</A>
+				<DT><A HREF="https://m.smartcloud.io/interview-questions-access-control-in-swift-4-0-4-1-df42670b92f?source=bookmarks---------18----------------">[Interview Questions] Access Control in Swift 4.0/4.1Here’s an interview question that I start to hear more often on iOS interviews:</A>
+				<DT><A HREF="https://m.smartcloud.io/ios-interview-questions-for-senior-developers-in-2017-a94cc81c8205?source=bookmarks---------48----------------">iOS Interview Questions for Senior Developers in 2017A set of questions to prep for interviewing for a senior iOS position. It covers a broad spectrum of iOS topics: UI, networking, storage...</A>
+				<DT><A HREF="https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25">A Complete Guide to Getting Hired as an iOS Developer in 2018</A>
+				<DT><A HREF="https://www.hackingwithswift.com/articles/157/the-complete-guide-to-ios-and-swift-job-interviews">The Complete Guide to iOS and Swift Job Interviews – Hacking with Swift</A>
+				<DT><A HREF="https://www.google.com/search?newwindow=1&client=safari&rls=en&ei=dyQuXLD7CP-90PEP4ZGYiAI&q=Cracking+the+Coding+Interview+swift&oq=Cracking+the+Coding+Interview+swift&gs_l=psy-ab.3..0.48710.49540..49786...0.0..0.335.1578.2-1j4......0....1..gws-wiz.......0i71j0i67.cqFarBwmwrM">Cracking the Coding Interview swift - Google Search</A>
+				<DT><A HREF="https://github.com/dashvlas/awesome-ios-interview">dashvlas/awesome-ios-interview: 📲 The curated list of iOS Developer interview questions and answers, Swift &amp; Objective-C</A>
+				<DT><A HREF="https://medium.com/@willlarche/advice-for-junior-mobile-engineers-seeking-their-first-job-b11d53f7192f">Advice for Junior Mobile Engineers Seeking Their First Job</A>
+				<DT><A HREF="http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/#On.an.Intro.Email">Interviewing, applying and getting your first job in iOS - Artsy Engineering</A>
+				<DT><A HREF="https://www.hackingwithswift.com/career-guide">Swift Career Guide – build your iOS developer career today</A>
+				<DT><A HREF="https://www.hackingwithswift.com/articles/10/how-to-get-a-job-as-an-ios-developer">How to get a job as an iOS developer – Hacking with Swift</A>
+				<DT><A HREF="https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322">How to write a great resume for software engineers – freeCodeCamp.org</A>
+				<DT><A HREF="http://amzn.to/2Hj91OH">Cracking the Coding Interview</A>
+				<DT><A HREF="https://medium.com/@colin.gabriel.smith/killing-it-during-your-first-tech-interview-16ce13f9d0ce">Tips for your first tech interview.</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/how-i-failed-39-interviews-and-what-ive-learned-515c8e6c4b53">How I failed 39 interviews, and what I’ve learned – Flawless App Stories – Medium</A>
+				<DT><A HREF="https://github.com/jwasham/coding-interview-university">jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.</A>
+				<DT><A HREF="https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.raywenderlich.com%2F762435-swift-interview-questions-and-answers&redir_token=AEDVN1inLt8-wBsLqGZexT2XJO98MTU1Njk5MDgyM0AxNTU2OTA0NDIz&event=video_description&v=vLTW29Tvxto">https://www.raywenderlich.com/762435-...</A>
+				<DT><A HREF="https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25">A Complete Guide to Getting Hired as an iOS Developer</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/14-resources-to-help-you-get-your-ios-engineering-job-1cca22cedafe?source=collection_home---4------1-----------------------">14 Resources to help you get your iOS engineering job</A>
+				<DT><A HREF="https://www.youtube.com/redirect?v=280mDeWtbn4&event=video_description&q=https%3A%2F%2Fgithub.com%2Fviraptor%2Freverse-interview&redir_token=x90hk7x8fiuSwGzNhKCme8B_lA98MTU3MDI2ODIxOEAxNTcwMTgxODE4">https://github.com/viraptor/reverse-i...</A>
+				<DT><A HREF="https://www.youtube.com/playlist?list=PL8seg1JPkqgF5wazzCKSq3EEfqt3t8mvA">Swift Interview Tips</A>
+				<DT><A HREF="https://www.pluralsight.com/customer/free-user">Pluralsight</A>
+				<DT><A HREF="https://medium.com/@abhimuralidharan/ios-interview-questions-736e27a96a74?source=bookmarks---------0------------------">iOS Interview Questions 🤯😖😒In this article, I will try to add as many Q&amp;A’s related to iOS . I will keep on updating this article. Hope it helps you guys 🙂😉.</A>
+				<DT><A HREF="https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25?source=bookmarks---------13---------------------">https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25?source=bookmarks---------13---------------------</A>
+				<DT><A HREF="https://medium.com/@dominicwhite/how-to-prepare-for-a-technical-interview-182e64dd95ae">How To Prepare For A Technical Interview - Dominic White - Medium</A>
+			</DL><p>
 			<DT><H3 FOLDED>iOS</H3>
 			<DL><p>
-				<DT><H3 FOLDED>Algorithms</H3>
-				<DL><p>
-					<DT><A HREF="https://medium.com/@EnnioMa/back-to-the-fundamentals-sorting-algorithms-in-swift-from-scratch-fccf8a3daea3?source=bookmarks---------117----------------">Back to the fundamentals: Sorting algorithms in Swift (from scratch!)You can read perfectly this post on my blog ennioma.com. 🚀</A>
-					<DT><A HREF="https://medium.com/yay-its-erica/30-days-of-algorithms-october-2017-7cdaeaeac7e1?source=bookmarks---------122----------------">31 Days of Algorithms — October 2017October has been a month of lots of CodeFights problems. I really like this site because of their Tournament feature. In a tournament, you...</A>
-					<DT><A HREF="https://medium.com/swiftly-swift/dijkstras-algorithm-in-swift-15dce3ed0e22?source=bookmarks---------152----------------">Dijkstra’s Algorithm In SwiftA Dive into Graph Theory and Swift</A>
-					<DT><A HREF="https://medium.com/swiftly-swift/the-right-way-to-write-dijkstras-algorithm-in-swift-abb14ce66b00?source=bookmarks---------162----------------">The Right Way To Write Dijkstra’s Algorithm In Swift 👾Spoiler alert: you don’t write it at all!</A>
-					<DT><A HREF="https://www.raywenderlich.com/178761/swift-algorithm-club-siwft-dijkstras-algorithm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Swift Algorithm Club: Swift Dijkstra’s Algorithm</A>
-					<DT><A HREF="https://github.com/krzyzanowskim/CryptoSwift?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 41) Algorithm</A>
-					<DT><A HREF="https://medium.com/@vin.pradeilles/an-elegant-pattern-to-craft-cache-efficient-functions-in-swift-c1a18f73e28c">An elegant pattern to craft cache-efficient functions in Swift</A>
-					<DT><A HREF="http://khanlou.com/2018/12/analyzing-complexity/">Khanlou | Analyzing Complexity</A>
-					<DT><A HREF="https://www.raywenderlich.com/5740-swift-algorithm-club-strassen-s-algorithm?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">No 28</A>
-					<DT><A HREF="https://www.raywenderlich.com/541-swift-algorithm-club-boyer-moore-string-search-algorithm">Swift Algorithm Club: Boyer Moore String Search Algorithm | raywenderlich.com</A>
-					<DT><A HREF="https://medium.com/appcoda-tutorials/sorting-algorithms-implementing-heap-sort-using-swift-f24e6868ad28">Sorting Algorithms: Implementing Heap Sort Using Swift</A>
-					<DT><A HREF="https://extras.waynewbishop.com/swift/learning-big-o-notation-with-swift?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_207">Learning Big O Notation with Swift — Extras</A>
-					<DT><A HREF="https://medium.com/appcoda-tutorials/sorting-algorithms-implementing-selection-sort-using-swift-30500ae6b93a">Sorting Algorithms: Implementing Selection Sort Using Swift</A>
-					<DT><A HREF="https://medium.com/@sarinyaswift/doubly-linked-lists-swift-4-ae3cf8a5b975">Doubly Linked Lists — Swift 4 – Sarin Swift – Medium</A>
-					<DT><A HREF="https://swiftrocks.com/introsort-timsort-swifts-sorting-algorithm.html">Timsort and Introsort: Swift's Sorting Algorithms</A>
-				</DL><p>
 				<DT><H3 FOLDED>Animation</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/s23nyc-tech/prototyping-animations-in-swift-97a9cfb1f41b?source=bookmarks---------45----------------">Prototyping Animations in SwiftOne of my favorite things about building mobile applications is bringing a designer’s creation to life. Being able to harness the power of...</A>
@@ -101,6 +149,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				</DL><p>
 				<DT><H3 FOLDED>App Store Exprience</H3>
 				<DL><p>
+					<DT><A HREF="https://medium.com/@johnnylin/how-to-make-80-000-per-month-on-the-apple-app-store-bdb943862e88?source=bookmarks---------6----------------">How to Make $80,000 Per Month on the Apple App StoreIt’s far easier than you think. No luck or perseverance necessary.</A>
+					<DT><A HREF="https://medium.com/@benricem/i-gave-my-app-away-for-free-what-happens-next-will-amaze-you-22f07bf1616f?source=bookmarks---------54------------------">I gave my app away for free. What happens next will amaze you.In June, I was contacted by Apple asking if I’d like to participate in a promotion. Generally, when Apple offers your app some attention...</A>
 					<DT><A HREF="https://www.swiftjectivec.com/a-best-in-class-app/">A Best in Class iOS App | Swiftjective-C</A>
 					<DT><A HREF="https://www.youtube.com/redirect?v=wMDHTViWJ0k&redir_token=hE-qsyfZnXOrDOmUeBKEyxI0SfB8MTU2NzE4NDkzN0AxNTY3MDk4NTM3&event=video_description&q=https%3A%2F%2Fwww.swiftjectivec.com%2Fon-launching-your-indie-app%2F">https://www.swiftjectivec.com/on-laun...</A>
 				</DL><p>
@@ -157,11 +207,6 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f">How to make Auto Layout more convenient in iOS – Flawless App Stories – Medium</A>
 					<DT><A HREF="https://blog.smartnsoft.com/layout-guide-margins-insets-and-safe-area-demystified-on-ios-10-11-d6e7246d7cb8">Layout Guide, Margins, Insets and Safe Area demystified on iOS 10 &amp; 11</A>
 				</DL><p>
-				<DT><H3 FOLDED>AVFoundation</H3>
-				<DL><p>
-					<DT><A HREF="https://www.raywenderlich.com/188867/video-streaming-tutorial-for-ios-getting-started">Video Streaming Tutorial for iOS: Getting Started</A>
-					<DT><A HREF="https://github.com/josejuanqm/VersaPlayer">josejuanqm/VersaPlayer: Versatile Video Player implementation for iOS, macOS, and tvOS</A>
-				</DL><p>
 				<DT><H3 FOLDED>CI &amp; CD</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5?source=bookmarks---------50----------------">Build it, Test it, Deliver it!Complete iOS Guide on Continuous Delivery with fastlane and Jenkins</A>
@@ -177,13 +222,14 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://www.bugsee.com/">Bug and crash reporting for iOS and Android | Bugsee</A>
 					<DT><A HREF="https://medium.freecodecamp.org/how-to-make-an-ios-on-demand-build-system-with-jenkins-and-fastlane-8eb1e02c73d1?source=---------13---------------------">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*RmcSmwPhUn8ljLiiwYxK0A.png"&gt;How to make an iOS on-demand build system with Jenkins and Fastlane</A>
 					<DT><A HREF="https://medium.com/xcblog/wwdc18-a-basic-guide-to-app-store-connect-api-366208651ac6">WWDC18: A Basic Guide to App Store Connect API – XCBlog – Medium</A>
-					<DT><A HREF="https://medium.com/@jonathan2457/how-to-automate-ci-for-any-ios-project-c98494d29a44?source=---------5---------------------">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*7F2lf7ptueaWCHcGyoKYxw.png"&gt;How to automate CI for any iOS ProjectAny why every project should have itWhat is Continuous...</A>
 					<DT><A HREF="https://blog.expo.io/how-to-publish-expokit-apps-on-the-app-store-bd795ec8fdeb?source=---------9---------------------">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*g6NbozIjasoDO4Qoxzv5Yg.png"&gt;How to Publish ExpoKit Apps to the App StoreThe easiest way I know how 😎</A>
 					<DT><A HREF="https://medium.com/@jonathan2457/how-to-automate-ci-for-any-ios-project-c98494d29a44">How to automate CI for any iOS Project – Jonathan Samudio – Medium</A>
 					<DT><A HREF="https://savvyapps.com/blog/continuous-integration-ios-bitrise?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">https://savvyapps.com/blog/continuous-integration-ios-bitrise?utm_campaign=AppCoda%20Weekly&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</A>
 					<DT><A HREF="https://about.gitlab.com/2019/03/06/ios-publishing-with-gitlab-and-fastlane/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">How to publish iOS apps to the App Store with GitLab and fastlane | GitLab</A>
 					<DT><A HREF="https://www.youtube.com/redirect?event=video_description&v=sn7xVXHY4Mw&redir_token=WuCfkaNPCzh-D16H0ZV21Ac5Jnp8MTU2NDIxNzY2MEAxNTY0MTMxMjYw&q=http%3A%2F%2Fkhanlou.com%2F2019%2F07%2Fcontinuous-integration%2F">http://khanlou.com/2019/07/continuous...</A>
 					<DT><A HREF="https://medium.com/flawless-app-stories/ios-continuous-integration-with-gitlab-ci-fastlane-and-ota-installation-from-gitlab-pages-f312e07ab06e">iOS Continuous Integration with GitLab CI, Fastlane &amp; OTA Installation</A>
+					<DT><A HREF="https://github.com/danger/swift?utm_campaign=Swift%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">danger/swift: ⚠️ Stop saying "you forgot to ..." in code review</A>
+					<DT><A HREF="https://twitter.com/flawlessappio/status/1166963662533353477">Flawless iOS on Twitter: "Continuous Integration &amp;amp; Continuous Delivery for iOS: 🧙‍♀️ Automation with Bitrise https://t.co/L3nsBLLhDk 👌 Codemagic CI for Flutter https://t.co/dE0MyWTyPH 🦊 GitLab CI, Fastlane &amp;amp; OTA Installation https://t.co/wU4iMJJPRE 🦊 Gitlab + Fastlane https://t.co/GxCADxThue #iOSdev https://t.co/y3bPlV8WhI" / Twitter</A>
 				</DL><p>
 				<DT><H3 FOLDED>Cocoapods</H3>
 				<DL><p>
@@ -242,29 +288,41 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				</DL><p>
 				<DT><H3 FOLDED>Design Patterns</H3>
 				<DL><p>
+					<DT><H3 FOLDED>Collective</H3>
+					<DL><p>
+						<DT><A HREF="https://rubygarage.org/blog/swift-design-patterns?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Most Popular Design Patterns in Swift for iOS App Development</A>
+						<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Advanced iOS Architecture: Solving the 5 Issues of the MVC, MVVM and VIPER patterns</A>
+						<DT><A HREF="https://github.com/onmyway133/fantastic-ios-architecture">onmyway133/fantastic-ios-architecture: Better ways to structure iOS apps</A>
+						<DT><A HREF="https://medium.com/@coderjuliet007/the-very-basics-of-uikit-app-mvc-and-mvvm-20b89b50a237?source=bookmarks---------23----------------">The very basics of UIKIT APP (MVC and MVVM)This for the starters of iOS App development or for all the developers at all stages, who really want look back at the very basics.</A>
+						<DT><A HREF="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52?source=bookmarks---------232----------------">iOS Architecture PatternsDemystifying MVC, MVP, MVVM and VIPER</A>
+					</DL><p>
 					<DT><H3 FOLDED>Coordinator</H3>
 					<DL><p>
 						<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff?source=bookmarks---------83----------------">iOS: Root Controller NavigationHow to switch between the application parts and handle launch options.</A>
-						<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff">iOS: Root Controller Navigation – Stan Ostrovskiy – Medium</A>
 						<DT><A HREF="https://medium.com/@aaron.bikis/coordinators-protocol-oriented-programming-and-mvvm-bullet-proof-architecture-with-swift-629dea5354ce">Coordinators, Protocol Oriented Programming and MVVM; Bullet-proof architecture with Swift</A>
+						<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff">iOS: Root Controller Navigation – Stan Ostrovskiy – Medium</A>
 						<DT><A HREF="https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps">How to use the coordinator pattern in iOS apps – Hacking with Swift</A>
 						<DT><A HREF="https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd">Flow Coordinators – Dennis Walsh – Medium</A>
 						<DT><A HREF="https://thoughtbot.com/blog/ios-coordinators-a-storyboard-approach">iOS Coordinators: A Storyboard Approach</A>
 						<DT><A HREF="https://medium.com/@brunoroveas/coordinators-b29329582cdb">Coordinators – Bruno Rovea – Medium</A>
 						<DT><A HREF="https://medium.com/flawless-app-stories/flow-coordinator-pattern-on-steroids-a52021e31bfe">Flow coordinator pattern on steroids – Flawless App Stories – Medium</A>
+						<DT><A HREF="https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios">Advanced coordinators in iOS – Hacking with Swift</A>
+						<DT><A HREF="https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-coordinators-3-6-3960ad9a6d85">iOS Architecture: MVVM-C, Coordinators (3/6) - Sudo by Icalia Labs - Medium</A>
+						<DT><A HREF="http://aplus.rs/2018/coordinator-missing-pattern-uikit/">Coordinator: the missing pattern in UIKit · aplus.rs</A>
+						<DT><A HREF="https://medium.com/transferwise-engineering/flow-an-evolution-of-coordinator-1-of-3-c8dcf11770f2">Flow: an evolution of Coordinator for iOS - TransferWise Engineering - Medium</A>
+						<DT><A HREF="https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd?source=bookmarks---------0------------------">Flow CoordinatorsFlow Coordinators an implementation of the Application Contoller Pattern</A>
 					</DL><p>
 					<DT><H3 FOLDED>MVC</H3>
 					<DL><p>
 						<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Rank 1</A>
+						<DT><A HREF="https://medium.com/@omaralbeik/making-mvc-great-again-829ef9461ec2?source=bookmarks---------20----------------">Making MVC Great Again!Use generics, protocols, and extensions to get rid of massive view controllers</A>
 						<DT><A HREF="https://medium.com/@coderjuliet007/the-very-basics-of-uikit-app-mvc-and-mvvm-20b89b50a237?source=bookmarks---------23----------------">The very basics of UIKIT APP (MVC and MVVM)This for the starters of iOS App development or for all the developers at all stages, who really want look back at the very basics.</A>
 						<DT><A HREF="https://medium.com/@mohamedraja_77/mvp-in-ios-78fb008b37d1?source=---------19----------------">MVP in iOSWhat iOS have?Basically iOS apps are organised with MVC(Model-View-Controller) design pattern not actual MVC.Model — It’s just a data access layer includes Network and Database data handling.View — Presentation Layer...</A>
 						<DT><A HREF="https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf?source=bookmarks---------110----------------">Introducing Clean Swift Architecture (VIP)Forget MVC, now!</A>
-						<DT><A HREF="https://medium.com/@omaralbeik/making-mvc-great-again-829ef9461ec2?source=bookmarks---------20----------------">Making MVC Great Again!Use generics, protocols, and extensions to get rid of massive view controllers</A>
 						<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Advanced iOS Architecture: Solving the 5 Issues of the MVC, MVVM and VIPER patterns</A>
 					</DL><p>
 					<DT><H3 FOLDED>MVVM</H3>
 					<DL><p>
-						<DT><A HREF="https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Swift MVVM Tutorial: A Static Immutable Pattern for iOS Apps | Toptal</A>
 						<DT><A HREF="http://arsfutura.co/magazine/mvvm-with-rxswift/">MVVM with RxSwift – Ars Futura</A>
 						<DT><A HREF="https://medium.com/@SergDort/viewmodel-in-rxswift-world-13d39faa2cf5?source=bookmarks---------31----------------">ViewModel in RxSwift worldAccording Wikipedia view model is an abstraction of the view exposing public properties and commands. Instead of the controller of the MVC...</A>
 						<DT><A HREF="https://codeburst.io/rxswift-foundation-and-basic-components-36f7db186e3e">https://codeburst.io/rxswift-foundation-and-basic-components-36f7db186e3e</A>
@@ -289,6 +347,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 						<DT><A HREF="https://medium.com/flawless-app-stories/a-taste-of-mvvm-and-reactive-paradigm-5288a819cca1?source=---------6---------------------">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*0dCwvCKQU2S9ntkNVaNUTQ.png"&gt;Originally published at flawlessapp.io blog on August 16, 2018.A taste of MVVM and Reactive paradigm</A>
 						<DT><A HREF="https://medium.com/flawless-app-stories/advanced-ios-tutorial-use-mvvm-to-tackle-complicated-tableview-a2386ee817a9">Advanced iOS tutorial: Use MVVM to tackle complicated TableView</A>
 						<DT><A HREF="https://mecid.github.io/2018/01/11/mastering-mvvm-on-ios/">Mastering MVVM on iOS | Majid’s</A>
+						<DT><A HREF="https://medium.com/building-nubank/ios-app-architecture-part-1-building-screens-bf8cd9a544e">iOS App Architecture — Part 1: Building Screens - Building Nubank - Medium</A>
+						<DT><A HREF="https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Swift MVVM Tutorial: A Static Immutable Pattern for iOS Apps | Toptal</A>
 					</DL><p>
 					<DT><H3 FOLDED>Network</H3>
 					<DL><p>
@@ -306,34 +366,43 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					</DL><p>
 					<DT><H3 FOLDED>Other</H3>
 					<DL><p>
+						<DT><A HREF="https://medium.com/halcyon-mobile/view-decoration-in-swift-4023a68be5d3">View decoration in Swift – The Halcyon Mobile Collection – Medium</A>
+						<DT><A HREF="https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3?source=bookmarks---------4----------------">App Architecture and Object Composition in SwiftCreating reusable components to architect UI, concurrency, data, and other modules in Swift.</A>
+						<DT><A HREF="https://medium.com/iquii/atlas-an-unified-approach-to-mobile-development-cycle-networking-layer-a5ccb064181a?source=bookmarks---------88----------------">Atlas, an unified approach to mobile development cycle: networking layerAs developers we usually spend ton of time writing, rewriting and refactoring existing code; for some of us it represents the long...</A>
+						<DT><A HREF="https://medium.com/@johnsundell/using-child-view-controllers-as-plugins-in-swift-458e6b277b54?source=bookmarks---------93----------------">Using child view controllers as plugins in SwiftLike always, the best place to read this post is on Swift by Sundell 👍</A>
+						<DT><A HREF="https://marcosantadev.com/solid-principles-applied-swift/">https://marcosantadev.com/solid-principles-applied-swift/</A>
+						<DT><A HREF="https://www.raywenderlich.com/5542-enum-driven-tableview-development">Enum-Driven TableView Development | raywenderlich.com</A>
+						<DT><A HREF="https://medium.com/@mohamedraja_77/mvp-in-ios-78fb008b37d1?source=---------19----------------">MVP in iOSWhat iOS have?Basically iOS apps are organised with MVC(Model-View-Controller) design pattern not actual MVC.Model — It’s just a data access layer includes Network and Database data handling.View — Presentation Layer...</A>
+						<DT><A HREF="https://medium.com/commencis/reusability-and-composition-in-swift-6630fc199e16">Reusability and Composition in Swift – Commencis – Medium</A>
+						<DT><A HREF="https://codeburst.io/solid-design-principle-using-swift-fa67443672b8?source=bookmarks---------129----------------">SOLID Design Principle using SwiftThe SOLID principles are the foundation for the implementing/creating effective, maintainable, scalable and loosely coupled system.</A>
 						<DT><A HREF="https://github.com/onmyway133/fantastic-ios-architecture">onmyway133/fantastic-ios-architecture: Better ways to structure iOS apps</A>
 						<DT><A HREF="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52?source=bookmarks---------232----------------">iOS Architecture PatternsDemystifying MVC, MVP, MVVM and VIPER</A>
-						<DT><A HREF="https://medium.com/@johnsundell/using-child-view-controllers-as-plugins-in-swift-458e6b277b54?source=bookmarks---------93----------------">Using child view controllers as plugins in SwiftLike always, the best place to read this post is on Swift by Sundell 👍</A>
-						<DT><A HREF="https://medium.com/iquii/atlas-an-unified-approach-to-mobile-development-cycle-networking-layer-a5ccb064181a?source=bookmarks---------88----------------">Atlas, an unified approach to mobile development cycle: networking layerAs developers we usually spend ton of time writing, rewriting and refactoring existing code; for some of us it represents the long...</A>
-						<DT><A HREF="https://medium.com/@johnsundell/preventing-views-from-being-model-aware-in-swift-38e2008827a3?source=bookmarks---------40----------------">Preventing views from being model aware in SwiftNicely formatted code, dark &amp; black themes and more await you. All you have to do is read this post on Swift by Sundell instead 😊.</A>
 						<DT><A HREF="https://blog.smartnsoft.com/an-ios-architecture-approach-for-uiviewcontroller-states-error-management-in-swift-a353b0e53d94?source=bookmarks---------32----------------">An iOS architecture approach for UIViewController states &amp; error management in SwiftIn a mobile app, you face network and data instabilities. That means that users must be aware of what is going on on the screen.</A>
 						<DT><A HREF="https://kean.github.io/post/app-architecture">Let’s Talk Architecture | Alexander Grebenyuk</A>
 						<DT><A HREF="https://sandofsky.com/blog/controller-hierarchies.html?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_203">Controller Hierarchies</A>
-						<DT><A HREF="https://www.raywenderlich.com/5542-enum-driven-tableview-development">Enum-Driven TableView Development | raywenderlich.com</A>
+						<DT><A HREF="https://medium.com/@johnsundell/preventing-views-from-being-model-aware-in-swift-38e2008827a3?source=bookmarks---------40----------------">Preventing views from being model aware in SwiftNicely formatted code, dark &amp; black themes and more await you. All you have to do is read this post on Swift by Sundell instead 😊.</A>
 					</DL><p>
 					<DT><H3 FOLDED>Patterns</H3>
 					<DL><p>
+						<DT><A HREF="https://medium.com/swift2go/simplifying-ios-code-by-using-design-patterns-e51e4bc7eaf5">Simplifying iOS code by using Design Patterns – Swift2Go – Medium</A>
+						<DT><A HREF="https://medium.com/cocoaacademymag/real-world-ios-design-patterns-3e5aad172094">Real World: iOS Design Patterns – Cocoa Academy – Medium</A>
+						<DT><A HREF="https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944?source=bookmarks---------116----------------">Singleton, Service Locator and tests in iOSIn this article, I want to review the usage of Singleton and Service Locator patterns in iOS and the reasons why they are often called...</A>
+						<DT><A HREF="https://medium.com/@johnsundell/using-the-builder-pattern-in-swift-6122b7884fca?source=bookmarks---------53----------------">Using the builder pattern in SwiftClick here to read this post on Swift by Sundell instead, you won’t regret it 😉</A>
 						<DT><A HREF="https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756?source=bookmarks---------143----------------">Null Object Pattern in SwiftWhen something returns nil, it spreads like a disease. Checks for nil and optional unwrapping pollute all the functions around. The whole...</A>
 						<DT><A HREF="https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3?source=bookmarks---------4----------------">App Architecture and Object Composition in SwiftCreating reusable components to architect UI, concurrency, data, and other modules in Swift.</A>
 						<DT><A HREF="https://medium.com/commencis/reusability-and-composition-in-swift-6630fc199e16">Reusability and Composition in Swift – Commencis – Medium</A>
 						<DT><A HREF="https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e?source=bookmarks---------102----------------">iOS Architecture: A State Container based approach</A>
 						<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder. I will...</A>
-						<DT><A HREF="https://medium.com/@johnsundell/using-the-builder-pattern-in-swift-6122b7884fca?source=bookmarks---------53----------------">Using the builder pattern in SwiftClick here to read this post on Swift by Sundell instead, you won’t regret it 😉</A>
-						<DT><A HREF="https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944?source=bookmarks---------116----------------">Singleton, Service Locator and tests in iOSIn this article, I want to review the usage of Singleton and Service Locator patterns in iOS and the reasons why they are often called...</A>
 						<DT><A HREF="https://medium.com/@johnsundell/using-the-factory-pattern-to-avoid-shared-state-in-swift-7b06052a7de7?source=bookmarks---------192----------------">Using the factory pattern to avoid shared state in SwiftRead this post with syntax highlighting on swiftbysundell.com.</A>
 						<DT><A HREF="https://rubygarage.org/blog/swift-design-patterns?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Most Popular Design Patterns in Swift for iOS App Development</A>
 						<DT><A HREF="https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift">Avoiding singletons in Swift — Swift by Sundell</A>
 						<DT><A HREF="https://medium.com/cocoaacademymag/how-use-state-design-pattern-to-create-a-stateful-viewcontroller-78c224781918">How use State Design Pattern to create a Stateful ViewController?</A>
 						<DT><A HREF="https://medium.com/swift2go/exploring-design-patterns-used-by-apple-on-ios-23328873ecd3">Exploring Design Patterns used by Apple on iOS – Swift2Go – Medium</A>
 						<DT><A HREF="https://code.egym.de/lightweight-design-patterns-in-ios-part-1-observer-3c8f571ec267">Lightweight Design Patterns in iOS (Part 1) - Observer</A>
-						<DT><A HREF="https://medium.com/swift2go/simplifying-ios-code-by-using-design-patterns-e51e4bc7eaf5">Simplifying iOS code by using Design Patterns – Swift2Go – Medium</A>
-						<DT><A HREF="https://medium.com/cocoaacademymag/real-world-ios-design-patterns-3e5aad172094">Real World: iOS Design Patterns – Cocoa Academy – Medium</A>
-						<DT><A HREF="https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe">Strategy pattern in Swift – Flawless App Stories – Medium</A>
+						<DT><A HREF="https://medium.com/swiftworld/swift-world-design-patterns-factory-method-2be4bb3c73cc?source=bookmarks---------37------------------">Swift World: Design Patterns — Factory MethodDo you remember the Simple Factory Pattern we talked about in last article?</A>
+						<DT><A HREF="https://medium.com/swiftworld/swift-world-design-patterns-simple-factory-c0f3f843ec2a?source=bookmarks---------36------------------">Swift World: Design Patterns — Simple FactoryIf we want to learn a programming language, we need to live with it. It means to use Swift as much as possible. Today, we will start...</A>
+						<DT><A HREF="https://medium.com/swift-programming/https-medium-com-hitendrahckr-part-2-singletone-desing-pattern-in-swift-by-tutorials-the-power-of-oop-431314237b10?source=bookmarks---------0------------------">Design patterns by Tutorials — The power of OOP (part 2)Singleton Pattern — ‘pure singleton’ and ‘semi singleton’ design pattern in Swift</A>
+						<DT><A HREF="https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe">Strategy pattern in Swift - Flawless iOS - Medium</A>
 					</DL><p>
 					<DT><H3 FOLDED>SOLID</H3>
 					<DL><p>
@@ -342,8 +411,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					</DL><p>
 					<DT><H3 FOLDED>Viper</H3>
 					<DL><p>
-						<DT><A HREF="https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf">Introducing Clean Swift Architecture (VIP) – Hacker Noon</A>
 						<DT><A HREF="https://medium.com/inloopx/cleaner-architecture-on-ios-ac4027b85d1f?source=bookmarks---------91----------------">Cleaner Architecture on iOSToday, I’m not going to teach you anything new or groundbreaking. Rather, I’m just going to remind you about something you already know...</A>
+						<DT><A HREF="https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf">Introducing Clean Swift Architecture (VIP) – Hacker Noon</A>
 						<DT><A HREF="https://medium.com/developermind/clean-swift-b79a36c509?source=bookmarks---------37----------------">Clean SwiftFunctions</A>
 						<DT><A HREF="https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/">#8 VIPER to be or not to be? – swifting.io</A>
 						<DT><A HREF="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52">iOS Architecture Patterns – iOS App Development – Medium</A>
@@ -353,53 +422,11 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 						<DT><A HREF="https://hackernoon.com/introducing-clean-swift-architecture-vip-770a639ad7bf?source=bookmarks---------110----------------">Introducing Clean Swift Architecture (VIP)Forget MVC, now!</A>
 						<DT><A HREF="https://clean-swift.com/">Get Started with Clean Swift - Clean Swift</A>
 						<DT><A HREF="https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2">Implementing VIPER Architecture Pattern for iOS - Flawless iOS - Medium</A>
+						<DT><A HREF="https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift">Avoiding singletons in Swift — Swift by Sundell</A>
+						<DT><A HREF="https://medium.com/cocoaacademymag/how-use-state-design-pattern-to-create-a-stateful-viewcontroller-78c224781918">How use State Design Pattern to create a Stateful ViewController?</A>
+						<DT><A HREF="https://medium.com/swift2go/exploring-design-patterns-used-by-apple-on-ios-23328873ecd3">Exploring Design Patterns used by Apple on iOS – Swift2Go – Medium</A>
+						<DT><A HREF="https://code.egym.de/lightweight-design-patterns-in-ios-part-1-observer-3c8f571ec267">Lightweight Design Patterns in iOS (Part 1) - Observer</A>
 					</DL><p>
-					<DT><A HREF="https://github.com/onmyway133/fantastic-ios-architecture">onmyway133/fantastic-ios-architecture: Better ways to structure iOS apps</A>
-					<DT><A HREF="https://medium.com/@coderjuliet007/the-very-basics-of-uikit-app-mvc-and-mvvm-20b89b50a237?source=bookmarks---------23----------------">The very basics of UIKIT APP (MVC and MVVM)This for the starters of iOS App development or for all the developers at all stages, who really want look back at the very basics.</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52?source=bookmarks---------232----------------">iOS Architecture PatternsDemystifying MVC, MVP, MVVM and VIPER</A>
-					<DT><A HREF="https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f?source=bookmarks---------45----------------">Design Patterns in Swift: Part I — Creational Design PatternDesign patterns are different solutions to software engineering problems. Softwares can be built without them but its a lot harder. I will...</A>
-					<DT><A HREF="https://medium.com/@johnsundell/using-the-builder-pattern-in-swift-6122b7884fca?source=bookmarks---------53----------------">Using the builder pattern in SwiftClick here to read this post on Swift by Sundell instead, you won’t regret it 😉</A>
-					<DT><A HREF="https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944?source=bookmarks---------116----------------">Singleton, Service Locator and tests in iOSIn this article, I want to review the usage of Singleton and Service Locator patterns in iOS and the reasons why they are often called...</A>
-					<DT><A HREF="https://medium.com/@johnsundell/using-the-factory-pattern-to-avoid-shared-state-in-swift-7b06052a7de7?source=bookmarks---------192----------------">Using the factory pattern to avoid shared state in SwiftRead this post with syntax highlighting on swiftbysundell.com.</A>
-					<DT><A HREF="https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756?source=bookmarks---------143----------------">Null Object Pattern in SwiftWhen something returns nil, it spreads like a disease. Checks for nil and optional unwrapping pollute all the functions around. The whole...</A>
-					<DT><A HREF="https://codeburst.io/solid-design-principle-using-swift-fa67443672b8?source=bookmarks---------129----------------">SOLID Design Principle using SwiftThe SOLID principles are the foundation for the implementing/creating effective, maintainable, scalable and loosely coupled system.</A>
-					<DT><A HREF="https://medium.com/inloopx/cleaner-architecture-on-ios-ac4027b85d1f?source=bookmarks---------91----------------">Cleaner Architecture on iOSToday, I’m not going to teach you anything new or groundbreaking. Rather, I’m just going to remind you about something you already know...</A>
-					<DT><A HREF="https://medium.com/@omaralbeik/making-mvc-great-again-829ef9461ec2?source=bookmarks---------20----------------">Making MVC Great Again!Use generics, protocols, and extensions to get rid of massive view controllers</A>
-					<DT><A HREF="https://medium.com/developermind/clean-swift-b79a36c509?source=bookmarks---------37----------------">Clean SwiftFunctions</A>
-					<DT><A HREF="https://medium.com/@johnsundell/using-child-view-controllers-as-plugins-in-swift-458e6b277b54?source=bookmarks---------93----------------">Using child view controllers as plugins in SwiftLike always, the best place to read this post is on Swift by Sundell 👍</A>
-					<DT><A HREF="https://medium.com/iquii/atlas-an-unified-approach-to-mobile-development-cycle-networking-layer-a5ccb064181a?source=bookmarks---------88----------------">Atlas, an unified approach to mobile development cycle: networking layerAs developers we usually spend ton of time writing, rewriting and refactoring existing code; for some of us it represents the long...</A>
-					<DT><A HREF="https://medium.com/@johnsundell/preventing-views-from-being-model-aware-in-swift-38e2008827a3?source=bookmarks---------40----------------">Preventing views from being model aware in SwiftNicely formatted code, dark &amp; black themes and more await you. All you have to do is read this post on Swift by Sundell instead 😊.</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/app-architecture-and-object-composition-in-swift-c9101a9e37e3?source=bookmarks---------4----------------">App Architecture and Object Composition in SwiftCreating reusable components to architect UI, concurrency, data, and other modules in Swift.</A>
-					<DT><A HREF="https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e?source=bookmarks---------102----------------">iOS Architecture: A State Container based approach</A>
-					<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff?source=bookmarks---------83----------------">iOS: Root Controller NavigationHow to switch between the application parts and handle launch options.</A>
-					<DT><A HREF="https://blog.smartnsoft.com/an-ios-architecture-approach-for-uiviewcontroller-states-error-management-in-swift-a353b0e53d94?source=bookmarks---------32----------------">An iOS architecture approach for UIViewController states &amp; error management in SwiftIn a mobile app, you face network and data instabilities. That means that users must be aware of what is going on on the screen.</A>
-					<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff">iOS: Root Controller Navigation – Stan Ostrovskiy – Medium</A>
-					<DT><A HREF="https://medium.com/@mohamedraja_77/mvp-in-ios-78fb008b37d1?source=---------19----------------">MVP in iOSWhat iOS have?Basically iOS apps are organised with MVC(Model-View-Controller) design pattern not actual MVC.Model — It’s just a data access layer includes Network and Database data handling.View — Presentation Layer...</A>
-					<DT><A HREF="https://medium.com/@aaron.bikis/coordinators-protocol-oriented-programming-and-mvvm-bullet-proof-architecture-with-swift-629dea5354ce">Coordinators, Protocol Oriented Programming and MVVM; Bullet-proof architecture with Swift</A>
-					<DT><A HREF="https://marcosantadev.com/solid-principles-applied-swift/">https://marcosantadev.com/solid-principles-applied-swift/</A>
-					<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Rank 1</A>
-					<DT><A HREF="https://rubygarage.org/blog/swift-design-patterns?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Most Popular Design Patterns in Swift for iOS App Development</A>
-					<DT><A HREF="https://kean.github.io/post/app-architecture">Let’s Talk Architecture | Alexander Grebenyuk</A>
-					<DT><A HREF="https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift">Avoiding singletons in Swift — Swift by Sundell</A>
-					<DT><A HREF="https://medium.com/cocoaacademymag/how-use-state-design-pattern-to-create-a-stateful-viewcontroller-78c224781918">How use State Design Pattern to create a Stateful ViewController?</A>
-					<DT><A HREF="https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps">How to use the coordinator pattern in iOS apps – Hacking with Swift</A>
-					<DT><A HREF="https://medium.com/swift2go/exploring-design-patterns-used-by-apple-on-ios-23328873ecd3">Exploring Design Patterns used by Apple on iOS – Swift2Go – Medium</A>
-					<DT><A HREF="https://medium.com/swift2go/simplifying-ios-code-by-using-design-patterns-e51e4bc7eaf5">Simplifying iOS code by using Design Patterns – Swift2Go – Medium</A>
-					<DT><A HREF="https://medium.com/commencis/reusability-and-composition-in-swift-6630fc199e16">Reusability and Composition in Swift – Commencis – Medium</A>
-					<DT><A HREF="https://code.egym.de/lightweight-design-patterns-in-ios-part-1-observer-3c8f571ec267">Lightweight Design Patterns in iOS (Part 1) - Observer</A>
-					<DT><A HREF="https://medium.com/cocoaacademymag/real-world-ios-design-patterns-3e5aad172094">Real World: iOS Design Patterns – Cocoa Academy – Medium</A>
-					<DT><A HREF="https://medium.com/@dkw5877/flow-coordinators-333ed64f3dd">Flow Coordinators – Dennis Walsh – Medium</A>
-					<DT><A HREF="https://sandofsky.com/blog/controller-hierarchies.html?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_203">Controller Hierarchies</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/strategy-pattern-in-swift-1462dbddd9fe">Strategy pattern in Swift – Flawless App Stories – Medium</A>
-					<DT><A HREF="https://www.toptal.com/swift/static-patterns-swift-mvvm-tutorial?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Swift MVVM Tutorial: A Static Immutable Pattern for iOS Apps | Toptal</A>
-					<DT><A HREF="https://www.raywenderlich.com/5542-enum-driven-tableview-development">Enum-Driven TableView Development | raywenderlich.com</A>
-					<DT><A HREF="https://matteomanferdini.com/ios-architecture-lotus-mvc-pattern/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Advanced iOS Architecture: Solving the 5 Issues of the MVC, MVVM and VIPER patterns</A>
-					<DT><A HREF="https://medium.com/@brunoroveas/coordinators-b29329582cdb">Coordinators – Bruno Rovea – Medium</A>
-				</DL><p>
-				<DT><H3 FOLDED>Dispatches</H3>
-				<DL><p>
-					<DT><A HREF="https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/">Method Dispatch in Swift - RaizException - Raizlabs Developer BlogRaizException – Raizlabs Developer Blog</A>
-					<DT><A HREF="https://developer.apple.com/swift/blog/?id=27">Increasing Performance by Reducing Dynamic Dispatch - Swift Blog - Apple Developer</A>
 				</DL><p>
 				<DT><H3 FOLDED>Docker</H3>
 				<DL><p>
@@ -414,43 +441,38 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://github.com/krzyzanowskim/CryptoSwift?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">krzyzanowskim/CryptoSwift: CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift</A>
 					<DT><A HREF="https://medium.com/stash-engineering/how-to-keep-your-ios-localizable-files-clean-swift-script-edition-a01bc649ef1d?source=---------10---------------------">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*q47hbX6wK5vyoKsWVECEKA.png"&gt;How to keep your iOS localizable files clean — Swift script edition</A>
 				</DL><p>
-				<DT><H3 FOLDED>Functional Programming</H3>
-				<DL><p>
-					<DT><A HREF="https://medium.com/@mimicatcodes/simple-higher-order-functions-in-swift-3-0-map-filter-reduce-and-flatmap-984fa00b2532?source=bookmarks---------210----------------">Simple Higher Order Functions in Swift 3.0 — Map, filter, reduce and flatMap!In this blog post, I will briefly introduce four very useful and commonly used higher order functions you can use on collection types.</A>
-					<DT><A HREF="https://matteomanferdini.com/swift-functional-programming/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">https://matteomanferdini.com/swift-functional-programming/?utm_campaign=AppCoda%20Weekly&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</A>
-				</DL><p>
-				<DT><H3 FOLDED>Interview</H3>
-				<DL><p>
-					<DT><A HREF="https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a?source=bookmarks---------134----------------">50 iOS Interview Questions And AnswersUpdate: November 1 2017.</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-2-45f952230b9f?source=bookmarks---------132----------------">50 iOS Interview Questions And Answers Part 2Update: April 15 2018.</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d?source=bookmarks---------131----------------">50 iOS Interview Questions And Answers Part 3Hello, Part 3 is ready ! Check out Part 1 and Part 2 if you haven’t already :)</A>
-					<DT><A HREF="https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a?source=bookmarks---------130----------------">50 iOS Interview Questions And Answers Part 4Hello, Part 4 is ready !</A>
-					<DT><A HREF="https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f?source=bookmarks---------58----------------">50 iOS Interview Questions And Answers Part 5Update: March 25 2018</A>
-					<DT><A HREF="https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af?source=bookmarks---------6----------------">I just got a developer job at Facebook. Here’s how I prepped for my interviews.I just finished seven on-site interviews at Silicon Valley tech companies. I ultimately accepted an offer for a software engineering job...</A>
-					<DT><A HREF="https://m.smartcloud.io/interview-questions-access-control-in-swift-4-0-4-1-df42670b92f?source=bookmarks---------18----------------">[Interview Questions] Access Control in Swift 4.0/4.1Here’s an interview question that I start to hear more often on iOS interviews:</A>
-					<DT><A HREF="https://m.smartcloud.io/ios-interview-questions-for-senior-developers-in-2017-a94cc81c8205?source=bookmarks---------48----------------">iOS Interview Questions for Senior Developers in 2017A set of questions to prep for interviewing for a senior iOS position. It covers a broad spectrum of iOS topics: UI, networking, storage...</A>
-					<DT><A HREF="https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25">A Complete Guide to Getting Hired as an iOS Developer in 2018</A>
-					<DT><A HREF="https://www.hackingwithswift.com/articles/157/the-complete-guide-to-ios-and-swift-job-interviews">The Complete Guide to iOS and Swift Job Interviews – Hacking with Swift</A>
-					<DT><A HREF="https://www.google.com/search?newwindow=1&client=safari&rls=en&ei=dyQuXLD7CP-90PEP4ZGYiAI&q=Cracking+the+Coding+Interview+swift&oq=Cracking+the+Coding+Interview+swift&gs_l=psy-ab.3..0.48710.49540..49786...0.0..0.335.1578.2-1j4......0....1..gws-wiz.......0i71j0i67.cqFarBwmwrM">Cracking the Coding Interview swift - Google Search</A>
-					<DT><A HREF="https://github.com/dashvlas/awesome-ios-interview">dashvlas/awesome-ios-interview: 📲 The curated list of iOS Developer interview questions and answers, Swift &amp; Objective-C</A>
-					<DT><A HREF="https://medium.com/@willlarche/advice-for-junior-mobile-engineers-seeking-their-first-job-b11d53f7192f">Advice for Junior Mobile Engineers Seeking Their First Job</A>
-					<DT><A HREF="http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/#On.an.Intro.Email">Interviewing, applying and getting your first job in iOS - Artsy Engineering</A>
-					<DT><A HREF="https://medium.com/@dominicwhite/how-to-prepare-for-a-technical-interview-182e64dd95ae">How To Prepare For A Technical Interview – Dominic White – Medium</A>
-					<DT><A HREF="https://www.hackingwithswift.com/career-guide">Swift Career Guide – build your iOS developer career today</A>
-					<DT><A HREF="https://www.hackingwithswift.com/articles/10/how-to-get-a-job-as-an-ios-developer">How to get a job as an iOS developer – Hacking with Swift</A>
-					<DT><A HREF="https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322">How to write a great resume for software engineers – freeCodeCamp.org</A>
-					<DT><A HREF="http://amzn.to/2Hj91OH">Cracking the Coding Interview</A>
-					<DT><A HREF="https://medium.com/@colin.gabriel.smith/killing-it-during-your-first-tech-interview-16ce13f9d0ce">Tips for your first tech interview.</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/how-i-failed-39-interviews-and-what-ive-learned-515c8e6c4b53">How I failed 39 interviews, and what I’ve learned – Flawless App Stories – Medium</A>
-					<DT><A HREF="https://github.com/jwasham/coding-interview-university">jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.</A>
-					<DT><A HREF="https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.raywenderlich.com%2F762435-swift-interview-questions-and-answers&redir_token=AEDVN1inLt8-wBsLqGZexT2XJO98MTU1Njk5MDgyM0AxNTU2OTA0NDIz&event=video_description&v=vLTW29Tvxto">https://www.raywenderlich.com/762435-...</A>
-					<DT><A HREF="https://blog.usejournal.com/a-complete-guide-to-getting-hired-as-an-ios-developer-in-2018-d7dcf50dc25">A Complete Guide to Getting Hired as an iOS Developer</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/14-resources-to-help-you-get-your-ios-engineering-job-1cca22cedafe?source=collection_home---4------1-----------------------">14 Resources to help you get your iOS engineering job</A>
-				</DL><p>
 				<DT><H3 FOLDED>iOS 12</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/@sorinjc/apple-wwdc-2018-whats-new-on-ios-12-app-store-connect-and-xcode-3998c5d1725d">Apple WWDC 2018 — What’s new on iOS 12, App Store Connect and Xcode?</A>
 					<DT><A HREF="https://medium.com/the-traveled-ios-developers-guide/ios-12-notable-uikit-additions-b50beb0e3729">iOS 12: Notable UIKit Additions – The Traveled iOS Developer’s Guide – Medium</A>
+				</DL><p>
+				<DT><H3 FOLDED>iOS Deveopment tools</H3>
+				<DL><p>
+					<DT><A HREF="https://buildfire.com/ios-development-tools-list/">Ultimate iOS Development Tools List - BuildFire</A>
+					<DT><A HREF="https://blog.supereasyapps.com/181-ios-developer-and-productivity-tools-plus-standing-desk-setup/">181 iOS Developer and Productivity Tools (for beginners)</A>
+					<DT><A HREF="https://www.intuz.com/ios-app-development-guide">The Ultimate Guide to iOS App Development | Intuz</A>
+					<DT><A HREF="https://levelup.gitconnected.com/the-ultimate-list-of-resources-to-mastering-swift-and-ios-development-2018-edition-3bd2a87ff400">The ultimate list of resources for mastering Swift and iOS development — 2018 edition</A>
+					<DT><A HREF="https://github.com/LeoMobileDeveloper/ios-developer-tools">LeoMobileDeveloper/ios-developer-tools: Tools that every iOS developer should know.</A>
+					<DT><A HREF="https://ourcodeworld.com/articles/read/1126/the-ultimate-guide-to-the-best-ios-app-development-tools-for-2020">The Ultimate Guide to the Best IOS App Development Tools For 2020 | Our Code World</A>
+					<DT><A HREF="https://www.agiratech.com/best-tools-for-ios-application-development/">15 Best Tools For iOS Application Development | iOS App Development</A>
+					<DT><A HREF="https://www.flexihub.com/best-ios-development-tools/">List of 15 Best iOS Development Tools in 2020 (A Deep Dive)</A>
+				</DL><p>
+				<DT><H3 FOLDED>iOS LayoutGuide</H3>
+				<DL><p>
+					<DT><A HREF="https://blog.smartnsoft.com/layout-guide-margins-insets-and-safe-area-demystified-on-ios-10-11-d6e7246d7cb8?gi=60cb2a4db2b0">https://blog.smartnsoft.com/layout-guide-margins-insets-and-safe-area-demystified-on-ios-10-11-d6e7246d7cb8?gi=60cb2a4db2b0</A>
+				</DL><p>
+				<DT><H3 FOLDED>iOS Music Player</H3>
+				<DL><p>
+					<DT><A HREF="https://github.com/analogcode/Swift-Radio-Pro">analogcode/Swift-Radio-Pro: Professional Radio Station App - now supports Swift 4 / Xcode 9!</A>
+					<DT><A HREF="https://github.com/yarodevuci/Muzonchik">yarodevuci/Muzonchik: iOS Music App that let you search, download and play music</A>
+					<DT><A HREF="https://github.com/fethica/FRadioPlayer">fethica/FRadioPlayer: A simple radio player framework for iOS.</A>
+					<DT><A HREF="https://github.com/tschob/AudioPlayerManager">tschob/AudioPlayerManager: Small Swift Wrapper and Queue-Manager around AVPlayer which let you play MediaPlayer items and stream songs from URLs.</A>
+					<DT><A HREF="https://github.com/adamcichy/SwiftySound">adamcichy/SwiftySound: SwiftySound is a simple library that lets you play sounds with a single line of code.</A>
+					<DT><A HREF="https://github.com/murselturk/AudioPlayer/tree/swift4.2">murselturk/AudioPlayer at swift4.2</A>
+				</DL><p>
+				<DT><H3 FOLDED>Jailbreak &amp; Reverese Enginner</H3>
+				<DL><p>
+					<DT><A HREF="https://github.com/ivRodriguezCA/RE-iOS-Apps">ivRodriguezCA/RE-iOS-Apps: A completely free, open source and online course about Reverse Engineering iOS Applications.</A>
 				</DL><p>
 				<DT><H3 FOLDED>Libs Introduction</H3>
 				<DL><p>
@@ -469,34 +491,13 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/ios-os-x-development/my-development-toolset-2017-for-ios-7c0758e3e5ce?source=bookmarks---------44----------------">My Development Toolset 2018 for iOSUpdate: April 04 2018.</A>
 					<DT><A HREF="https://medium.com/@yar1vn/tools-of-the-trade-c05f396f811b?source=bookmarks---------53----------------">Tools of the TradeiOS Developer’s everyday macOS apps</A>
 				</DL><p>
+				<DT><H3 FOLDED>LifeCycle</H3>
+				<DL><p>
+					<DT><A HREF="https://medium.com/appcoda-tutorials/view-controller-lifecycle-explained-when-to-use-viewdidlayoutsubviews-da52638baf7">View Controller Lifecycle Explained: When to Use viewDidLayoutSubviews</A>
+				</DL><p>
 				<DT><H3 FOLDED>Localization</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/flawless-app-stories/dry-string-localization-with-interface-builder-665496eb0270">DRY String Localization with Interface Builder – Flawless App Stories – Medium</A>
-				</DL><p>
-				<DT><H3 FOLDED>Memory </H3>
-				<DL><p>
-					<DT><A HREF="https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74?source=bookmarks---------22----------------">Memory Leaks in SwiftUnit Testing and other tools to avoid them.</A>
-					<DT><A HREF="https://medium.com/@johnsundell/using-unit-tests-to-identify-avoid-memory-leaks-in-swift-607c97465b62?source=bookmarks---------89----------------">Using unit tests to identify &amp; avoid memory leaks in SwiftAs always, the best place to read this post is on Swift by Sundell 👍</A>
-					<DT><A HREF="https://blog.bobthedeveloper.io/make-memory-management-great-again-f781fb29cea1?source=bookmarks---------169----------------">Make Memory Management Great AgainSwift Automatic Reference Counting explained with ease for complete beginners without CS/CE degree</A>
-					<DT><A HREF="https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8">Swift vs. Kotlin — the differences in memory management</A>
-					<DT><A HREF="https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html#//apple_ref/doc/uid/TP40014097-CH46-ID567">Memory Safety — The Swift Programming Language (Swift 4.2)</A>
-					<DT><A HREF="https://help.apple.com/instruments/mac/current/">Instruments Help</A>
-					<DT><A HREF="https://developer.apple.com/library/archive/documentation/General/Conceptual/lldb-guide/chapters/Introduction.html#//apple_ref/doc/uid/TP40016717-CH1-DontLinkElementID_42">About LLDB and Debugging</A>
-					<DT><A HREF="https://medium.com/@iostechset/3-ways-to-detect-memory-leaks-in-ios-bdf9425507d6">3 Ways to Detect Memory Leaks in iOS – iOS Tech Set – Medium</A>
-					<DT><A HREF="https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#//apple_ref/doc/uid/TP40014097-CH20-ID57">Automatic Reference Counting — The Swift Programming Language (Swift 4.2)</A>
-					<DT><A HREF="https://medium.com/@fahad_29644/unowned-vs-weak-614ac71ac516">Unowned vs Weak – Fahad C H – Medium</A>
-					<DT><A HREF="https://github.com/fastred/DeallocationChecker">fastred/DeallocationChecker: Catch leaking view controllers without opening Instruments.</A>
-					<DT><A HREF="https://medium.com/elements/memory-management-in-swift-31e20f942bbc">Memory management in Swift – Elements blog – Medium</A>
-					<DT><A HREF="https://github.com/tapwork/HeapInspector-for-iOS">tapwork/HeapInspector-for-iOS: Find memory issues &amp; leaks in your iOS app without instruments</A>
-					<DT><A HREF="https://www.raywenderlich.com/397-instruments-tutorial-with-swift-getting-started">Instruments Tutorial with Swift: Getting Started | raywenderlich.com</A>
-					<DT><A HREF="https://medium.freecodecamp.org/deep-copy-vs-shallow-copy-and-how-you-can-use-them-in-swift-c623833f5ad3">Deep copy vs. shallow copy — and how you can use them in Swift</A>
-					<DT><A HREF="https://medium.com/@stremsdoerfer/understanding-memory-leaks-in-closures-48207214cba">Understanding memory leaks in closures – Emilien Stremsdoerfer – Medium</A>
-					<DT><A HREF="https://medium.com/wolox-driving-innovation/how-to-automatically-detect-a-memory-leak-in-ios-769b7bb1ec7c">How to Automatically Detect a Memory Leak in iOS – Wolox – Medium</A>
-					<DT><A HREF="https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift">ARC and Memory Management in Swift | raywenderlich.com</A>
-					<DT><A HREF="https://www.avanderlee.com/swift/weak-self/">Weak self and unowned self explained in Swift - SwiftLee</A>
-					<DT><A HREF="https://medium.com/fueled-engineering/memory-management-in-swift-common-issues-90dd7c08b77">Memory Management in Swift: Common Issues – Fueled Engineering – Medium</A>
-					<DT><A HREF="https://medium.com/swift2go/autoreleasepool-uses-in-2019-swift-9e8fd7b1cd3f">@autoreleasepool uses in 2019 Swift – Swift2Go – Medium</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217">Reducing Memory Footprint and OOM Terminations in iOS</A>
 				</DL><p>
 				<DT><H3 FOLDED>Modulize</H3>
 				<DL><p>
@@ -522,92 +523,23 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@prianka.kariat/ios-10-notifications-with-attachments-and-much-more-169a7405ddaf?source=bookmarks---------145----------------">iOS 10 Notifications with Attachments and Much MoreThis is the second installment of a two part article on iOS 10 notifications. Today we’ll go through the technical details on how to...</A>
 					<DT><A HREF="https://medium.freecodecamp.org/ios-10-notifications-inshorts-all-in-one-ad727e03983a">Everything you’ve always wanted to know about notifications in iOS</A>
 				</DL><p>
-				<DT><H3 FOLDED>Other</H3>
-				<DL><p>
-					<DT><A HREF="https://medium.com/@stasost/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696?source=bookmarks---------168----------------">iOS: How to open Deep Links, Notifications and ShortcutsOne tool to rule them all</A>
-					<DT><A HREF="https://medium.com/theappspace/alamofire-4-multipart-file-upload-with-swift-3-174df1ef84c1?source=bookmarks---------150----------------">Alamofire 4 — Multipart file upload with Swift 3Previously I have introduced you to Alamofire and how you can use it to simple HTTP requests and intercept JSON responses. Today, we will...</A>
-					<DT><A HREF="https://medium.com/@mobiquityAMS/the-checklist-of-my-code-review-5b8ba936018e?source=bookmarks---------117----------------">The Checklist of my code review(Contributed by our own Mobster Sameh Mabrouk, Senior iOS Developer @Mobiquity)</A>
-					<DT><A HREF="https://medium.com/the-traveled-ios-developers-guide/devicecheck-6f3eafac60e5?source=bookmarks---------105----------------">iOS 11: The DeviceCheck API – The Traveled iOS Developer’s Guide – Medium</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11?source=bookmarks---------99----------------">Getting Started with Reusable Frameworks for iOS Development</A>
-					<DT><A HREF="https://medium.com/hackers-at-cambridge/why-were-writing-our-website-in-swift-2e620ae7b72b?source=bookmarks---------86----------------">Why we’re writing our website in SwiftSummary — Using Swift as a backend language at this stage is an interesting learning experience and well-suited to a project of this small...</A>
-					<DT><A HREF="https://hackernoon.com/building-blockchain-web-api-using-swift-and-vapor-2daf599c8449?source=bookmarks---------74----------------">Building Blockchain Web API Using Swift and VaporUPDATE: I am proud to announce that my new course “Blockchain Programming in iOS Using Swift” is now available. Enroll now for only $10.99.</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/enums-and-sourcery-5da57cda473b?source=bookmarks---------70----------------">How to supercharge Swift enum-based states with Sourcery</A>
-					<DT><A HREF="https://android.jlelse.eu/solving-offline-logout-problem-f3b50da49e7e?source=bookmarks---------61----------------">Solving offline logout problemA few days ago I had an interesting brainstorm with Chris Le Roy regarding offline logout process — the scenario when the user tries to log...</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/ios-developer-roadmap-c9a24f413457?source=bookmarks---------46----------------">iOS Developer RoadmapTree-like compilation of topics highly relevant to iOS development available as a living page on Github.</A>
-					<DT><A HREF="https://medium.com/@nickdizazzo/a-blockchain-framework-in-swift-part-1-384861698c6?source=bookmarks---------13----------------">A Blockchain Framework in Swift — Part 1My name is Nick, and I’m a Senior Mobile Engineer at TWG. I’ve been a building mobile apps @ TWG for over 3 years now.</A>
-					<DT><A HREF="https://medium.com/rahulkatariya/framework-oriented-programming-in-swift-4d92db85ff1c?source=bookmarks---------23----------------">Framework Oriented Programming in SwiftI was inspired by a talk by Justin Spahr-Summers at #Pragma Conference 2015 where he imparts knowledge and motivation for designing usable...</A>
-					<DT><A HREF="https://medium.com/@johnnylin/how-to-make-80-000-per-month-on-the-apple-app-store-bdb943862e88?source=bookmarks---------6----------------">How to Make $80,000 Per Month on the Apple App StoreIt’s far easier than you think. No luck or perseverance necessary.</A>
-					<DT><A HREF="https://medium.com/@kennethpoon/lets-write-swift-code-to-intercept-ssl-pinning-https-requests-12446303cc9d">Let’s write Swift code to intercept SSL Pinning HTTPS Requests</A>
-					<DT><A HREF="https://expertise.jetruby.com/top-5-mistakes-that-beginner-ios-developers-make-part-1-394217687ff4">Top 5 Mistakes that Beginner iOS Developers Make — Part 1</A>
-					<DT><A HREF="https://library.launchkit.io/the-right-way-to-ask-users-for-ios-permissions-96fa4eb54f2c">The Right Way to Ask Users for iOS Permissions – LaunchKit Library</A>
-					<DT><A HREF="https://medium.com/revenuecat-blog/ios-subscriptions-are-hard-d9b29c74e96f">iOS Subscriptions are Hard – RevenueCat Blog – Medium</A>
-					<DT><A HREF="https://medium.com/halcyon-mobile/view-decoration-in-swift-4023a68be5d3">View decoration in Swift – The Halcyon Mobile Collection – Medium</A>
-					<DT><A HREF="https://medium.com/@cji_/hunting-for-ios-kernel-symbols-e48a446bb00">Hunting for iOS Kernel Symbols – Craig Ingram – Medium</A>
-					<DT><A HREF="https://medium.com/@michael.eisel/one-trick-to-drastically-reduce-your-ios-apps-downlsize-ae68aad0d369">One Trick to Drastically Reduce your iOS App’s DownlSize</A>
-					<DT><A HREF="https://theswiftdev.com/2018/01/25/deep-dive-into-swift-frameworks/">Deep dive into Swift frameworks - The.Swift.Dev.</A>
-					<DT><A HREF="https://theswiftdev.com/2019/01/14/all-about-the-swift-package-manager-and-the-swift-toolchain/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">All about the Swift Package Manager and the Swift toolchain - The.Swift.Dev.</A>
-				</DL><p>
 				<DT><H3 FOLDED>Peek &amp; Pop</H3>
 				<DL><p>
 					<DT><A HREF="https://www.raywenderlich.com/6794-peek-and-pop-with-3d-touch">Peek and Pop With 3D Touch | raywenderlich.com</A>
-				</DL><p>
-				<DT><H3 FOLDED>RxSwift</H3>
-				<DL><p>
-					<DT><A HREF="https://maniacdev.com/?s=rxswift&search=Search">Rxswift</A>
-					<DT><A HREF="https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/">Learning Path: RxSwift from Start to Finish</A>
-					<DT><A HREF="https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing">orakaro/The-introduction-to-RxSwift-you-have-been-missing: The introduction to RxSwift you've been missing</A>
-					<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/">RxSwift by Examples #1 - The basics. - Droids On Roids - Blog</A>
-					<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-2-observable-and-the-bind/">RxSwift by Examples #2 - Observable and the Bind. - Droids On Roids - Blog</A>
-					<DT><A HREF="https://techbeacon.com/reactive-programming-rxswift-how-get-started">Reactive programming with RxSwift: How to get started | TechBeacon</A>
-					<DT><A HREF="http://swiftpearls.com/RxSwift-for-dummies-1-Observables.html">RxSwift For Dummies 🐣 Part 1</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b">Learn &amp; Master ⚔️ the Basics of RxSwift in 10 Minutes</A>
-					<DT><A HREF="https://medium.com/@leandromperez/why-use-rxswift-a176b553a705">Why use RxSwift? – Leandro Pérez – Medium</A>
-					<DT><A HREF="https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa">Getting Started With RxSwift and RxCocoa</A>
-					<DT><A HREF="https://www.raywenderlich.com/158205/rxswift-transforming-operators">RxSwift: Transforming Operators</A>
-					<DT><A HREF="https://academy.realm.io/posts/slug-max-alexander-functional-reactive-rxswift/">Functional Reactive Programming with RxSwift</A>
-					<DT><A HREF="https://github.com/devxoul/RxTodo">devxoul/RxTodo: iOS Todo Application using RxSwift and ReactorKit</A>
-					<DT><A HREF="https://github.com/LeoMobileDeveloper/awesome-rxswift#tutorials">LeoMobileDeveloper/awesome-rxswift: An "awesome" type curated list of RxSwift library and learning material</A>
-					<DT><A HREF="https://medium.com/@dkhuong291/rxswift-subjects-part1-publishsubjects-103ff6b06932">RxSwift — Subjects – Khuong Pham – Medium</A>
-					<DT><A HREF="https://medium.com/@shoheiyokoyama/flatmap-operators-in-rxswift-aa33edc33024">FlatMap operators in RxSwift – Shohei Yokoyama – Medium</A>
-					<DT><A HREF="https://medium.com/@kishannakum/reactive-programming-in-swift-part-1-48bfc9062d1b">Reactive Programming in Swift Part 1 – Kishan Nakum – Medium</A>
-					<DT><A HREF="http://rx-marin.com/post/rxswift-rxcocoa-custom-bindings/">Custom bindings with RxSwift // rx_marin&lt;blog&gt;</A>
-					<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-examples-3-networking/">RxSwift by Examples #3 - Networking. - Mobile &amp; Web Development Company Poland - Droids On Roids</A>
-					<DT><A HREF="https://github.com/DroidsOnRoids/RxSwiftExamples">DroidsOnRoids/RxSwiftExamples: Examples and resources for RxSwift.</A>
-					<DT><A HREF="https://medium.com/rosberryapps/dive-in-disposable-mechanisms-in-rxswift-1740fa782da">Dive in Disposable Mechanisms in RxSwift. – @RosberryApps – Medium</A>
-					<DT><A HREF="http://adamborek.com/">Code in a suit - Adam Borek</A>
-					<DT><A HREF="https://medium.com/@navdeepsingh_2336/testing-in-rxswift-2b6eeaeaf432?source=bookmarks---------16----------------">Testing in RxSwiftRxTest and RxBlocking are part of the RxSwift repository but are made available via separate pods and hence require separate imports...</A>
-					<DT><A HREF="https://medium.com/@azamsharp/passing-data-between-view-controllers-using-rxswift-ab87beb41b06?source=bookmarks---------29----------------">Passing Data Between View Controllers Using RxSwiftReactive Programming in Swift is getting a lot of attention these days, specially with the launch of RxSwift Reactive Programming with...</A>
-					<DT><A HREF="https://medium.com/@_achou/rxswift-share-vs-replay-vs-sharereplay-bea99ac42168?source=bookmarks---------31----------------">RxSwift: share vs replay vs shareReplayA common beginner error with Rx is forgetting that each subscription to an observable re-executes the chain of operators:</A>
-					<DT><A HREF="https://medium.com/mercari-engineering/signal-and-relay-in-rxcocoa-4-547fb0d18e11?source=bookmarks---------32----------------">Signal and Relay in RxCocoa 4Hi, this is Minh Vu Nhat and I’m an iOS Engineer on the Souzoh team.</A>
-					<DT><A HREF="https://codeburst.io/rxswift-foundation-and-basic-components-36f7db186e3e?source=bookmarks---------44----------------">RxSwift foundation and basic componentsReactive programming has been in the picture for more than 20 years now, but it did not really start to gain momentum until the...</A>
-					<DT><A HREF="https://medium.com/@leandromperez/why-use-rxswift-a176b553a705?source=bookmarks---------46----------------">Why use RxSwift?Short answer: Asynchrony.</A>
-					<DT><A HREF="https://medium.com/@dkhuong291/throttle-vs-debounce-in-rxswift-86f8b303d5d4?source=bookmarks---------45----------------">Throttle vs Debounce in RxSwiftWhen I went to reactivex.io, I got a whole lot of confusion between the terms throttle and debounce in the reactive programming world. I...</A>
-					<DT><A HREF="https://medium.com/@kenzai/rxswift-and-the-awesome-things-you-can-do-with-reactive-programming-part-i-3921137d251?source=bookmarks---------216----------------">RxSwift and the awesome things you can do with Reactive Programming — Part IThe first time I heard of reactive programming, this is kind of what I looked like:</A>
-					<DT><A HREF="https://github.com/RxSwiftCommunity/RxKeyboard">RxSwiftCommunity/RxKeyboard: Reactive Keyboard in iOS</A>
-					<DT><A HREF="http://adamborek.com/practical-introduction-rxswift/">RxSwift - Start using it today! The practical introduction</A>
-					<DT><A HREF="https://www.netguru.co/codestories/networking-with-rxswift">Networking with RxSwift | Netguru Blog on iOS</A>
-					<DT><A HREF="http://rx-marin.com/post/rxswift-advanced-combine-latest/">combineLatest beyond the basics // rx_marin&lt;blog&gt;</A>
-					<DT><A HREF="https://medium.com/@martinkonicek/rx-combinelatest-vs-withlatestfrom-ccd98cc1cd41">Rx: combineLatest vs withLatestFrom (and zip) – Martin Konicek – Medium</A>
-					<DT><A HREF="https://arsfutura.co/magazine/mvvm-with-rxswift">MVVM with RxSwift – Ars Futura</A>
-					<DT><A HREF="https://www.raywenderlich.com/7408-testing-your-rxswift-code?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Testing Your RxSwift Code | raywenderlich.com</A>
-					<DT><A HREF="https://medium.com/@MortyMerr/code-faster-with-rxswift-224c785f9214">Code faster with RxSwift – MortyMerr – Medium</A>
-					<DT><A HREF="https://agostini.tech/2019/02/04/get-started-with-rxswift-and-reactive-programming/">Get started with RxSwift and reactive programming | agostini.tech</A>
-					<DT><A HREF="https://www.toptal.com/ios/rxswift-animations-ios?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">iOS: RxSwift and Animations | Toptal</A>
 				</DL><p>
 				<DT><H3 FOLDED>Security</H3>
 				<DL><p>
 					<DT><A HREF="https://expertise.jetruby.com/ios-security-how-to-user-data-protection-bba6174a1ad2">iOS Security How-To: User Data Protection – JetRuby</A>
 				</DL><p>
-				<DT><H3 FOLDED>Server Side Swift</H3>
-				<DL><p>
-					<DT><A HREF="https://theswiftwebdeveloper.com/diving-into-vapor-part-1-up-and-running-with-vapor-3-edab3c79aab9">Diving into Vapor, Part 1: Up and Running with Vapor 3</A>
-					<DT><A HREF="https://medium.com/@rymcol/current-features-benefits-of-the-top-server-side-swift-frameworks-b15b4f2d7bc3?source=bookmarks---------174----------------">Current Features &amp; Benefits of the Top Server-Side Swift FrameworksWhile Server-Side Swift is production ready in my eyes, I know that it can be difficult to recognize where to start or what will fit your...</A>
-					<DT><A HREF="https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications">Sharing Swift Code Between iOS and Server Applications | raywenderlich.com</A>
-				</DL><p>
 				<DT><H3 FOLDED>Signing and provision</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/ios-os-x-development/ios-code-signing-provisioning-in-a-nutshell-d5b247760bef">iOS Code Signing &amp; Provisioning in a Nutshell – iOS App Development – Medium</A>
 					<DT><A HREF="https://medium.com/xcblog/ios-code-signing-tutorial-series-814b22eba507?source=bookmarks---------79----------------">iOS Code Signing Tutorial SeriesI have just published series of blog posts on topic of iOS Code signing on my personal blog a.k.a XCBlog to cover the fundamentals of the...</A>
+				</DL><p>
+				<DT><H3 FOLDED>Siri Shortcuts</H3>
+				<DL><p>
+					<DT><A HREF="https://medium.com/glitch/creating-super-effective-ios-shortcuts-with-glitch-ca266b3d137e?source=bookmarks---------81------------------">Creating Super Effective iOS Shortcuts with GlitchWith iOS Shortcuts and Glitch, you can create powerful custom Siri commands in just a few easy steps. Here’s how!</A>
+					<DT><A HREF="https://medium.com/hepsiburadatech/sirishortcutstutorial-2ed726a7d3c?source=bookmarks---------80------------------">iOS 12 Siri Shortcuts Part ISiri shortcuts tutorial for iOS 12</A>
 				</DL><p>
 				<DT><H3 FOLDED>Socket</H3>
 				<DL><p>
@@ -617,9 +549,14 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				</DL><p>
 				<DT><H3 FOLDED>SSL Pinning</H3>
 				<DL><p>
+					<DT><A HREF="https://medium.com/@kennethpoon/lets-write-swift-code-to-intercept-ssl-pinning-https-requests-12446303cc9d">Let’s write Swift code to intercept SSL Pinning HTTPS Requests</A>
 					<DT><A HREF="https://www.guardsquare.com/en/blog/iOS-SSL-certificate-pinning-bypassing?gclid=CjwKCAiA0O7fBRASEiwAYI9QArbiUjaoPofABEYLSpXwFwZWDg0ewikSj_7AoCOmNV67U-7B0uQrzhoCqGEQAvD_BwE">Prevent bypassing of SSL certificate pinning in iOS applications | Guardsquare</A>
 					<DT><A HREF="https://www.raywenderlich.com/1484288-preventing-man-in-the-middle-attacks-in-ios-with-ssl-pinning">Preventing Man-in-the-Middle Attacks in iOS with SSL Pinning | raywenderlich.com</A>
+					<DT><A HREF="https://en.wikipedia.org/wiki/Transport_Layer_Security">Transport Layer Security - Wikipedia</A>
 					<DT><A HREF="https://datatheorem.github.io/TrustKit/getting-started.html">Getting Started | TrustKit</A>
+					<DT><A HREF="https://medium.com/@kennethpoon/lets-write-swift-code-to-intercept-ssl-pinning-https-requests-12446303cc9d?source=bookmarks---------87------------------">Let’s write Swift code to intercept SSL Pinning HTTPS Requests</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109">Everything you need to know about SSL Pinning - Flawless iOS - Medium</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/ssl-pinning-with-alamofire-5-538ad7b8ee0f">SSL Pinning with Alamofire 5 for iOS apps - Flawless iOS - Medium</A>
 				</DL><p>
 				<DT><H3 FOLDED>Storyboards</H3>
 				<DL><p>
@@ -655,6 +592,9 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://www.swiftbysundell.com/posts/avoiding-race-conditions-in-swift">Avoiding race conditions in Swift — Swift by Sundell</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift">Under the hood of Futures &amp; Promises in Swift — Swift by Sundell</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/asyncawait-in-swift-unit-tests">Async/await in Swift unit tests — Swift by Sundell</A>
+					<DT><A HREF="https://medium.com/swift2go/using-dispatch-group-semaphore-to-group-ios-async-tasks-alfian-losari-81335fa6e92e">Using Dispatch Group &amp; Semaphore to Group iOS Async Tasks</A>
+					<DT><A HREF="https://medium.com/better-programming/threading-in-swift-simply-explained-5c8dd680b9b2?source=bookmarks---------68------------------">Threading in Swift Simply ExplainedUsing Grand Central Dispatch (GCD) to speed up your app</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814?source=bookmarks---------0------------------">Parallel Programming with Swift: What could possibly go wrong?Introduction</A>
 				</DL><p>
 				<DT><H3 FOLDED>Tips</H3>
 				<DL><p>
@@ -706,6 +646,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://github.com/lkzhao/Elastic">lkzhao/Elastic: Fancy elastic transition powered by Metal, UIKit Dynamics, &amp; Hero</A>
 					<DT><A HREF="https://itnext.io/image-to-viewcontroller-transition-fe033d94b4af">Image to ViewController transition – ITNEXT</A>
 					<DT><A HREF="https://medium.com/@hacknicity/view-controller-presentation-changes-in-ios-13-ac8c901ebc4e">View Controller Presentation Changes in iOS 13 – Geoff Hackworth – Medium</A>
+					<DT><A HREF="https://www.raywenderlich.com/6328155-context-menus-tutorial-for-ios-getting-started">Context Menus Tutorial for iOS: Getting Started | raywenderlich.com</A>
+					<DT><A HREF="https://medium.com/@tungfam/custom-uiviewcontroller-transitions-in-swift-d1677e5aa0bf">Custom UIViewController transitions in Swift - Tung Fam - Medium</A>
 				</DL><p>
 				<DT><H3 FOLDED>UIkit</H3>
 				<DL><p>
@@ -806,76 +748,14 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://www.swiftbysundell.com/posts/refactoring-swift-code-for-testability">Refactoring Swift code for testability — Swift by Sundell</A>
 					<DT><A HREF="https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift">Using unit tests to identify &amp; avoid memory leaks in Swift — Swift by Sundell</A>
 					<DT><A HREF="https://mecid.github.io/2019/04/24/starting-unit-testing-with-model-layer/?utm_campaign=Swift%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">Starting Unit Testing with Model layer | Majid’s</A>
-				</DL><p>
-				<DT><H3 FOLDED>Useful Swift articles</H3>
-				<DL><p>
-					<DT><A HREF="https://hackernoon.com/simple-stylesheets-in-swift-6dda57b5b00d">Simple Stylesheets in Swift – Hacker Noon</A>
-					<DT><A HREF="https://medium.com/@stasost/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696">iOS: How to open Deep Links, Notifications and Shortcuts</A>
-					<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff">iOS: Root Controller Navigation – Stan Ostrovskiy – Medium</A>
-					<DT><A HREF="https://hackernoon.com/everything-about-codable-in-swift-4-97d0e18a2999">Everything about Codable in Swift 4 – Hacker Noon</A>
-					<DT><A HREF="https://medium.com/swiftly-swift/swift-4-decodable-beyond-the-basics-990cc48b7375">Swift 4 Decodable: Beyond The Basics – Swiftly Swift – Medium</A>
-					<DT><A HREF="https://medium.com/@iostechset/dynamically-change-the-app-icon-7d4bece820d2">Dynamically Change the App Icon – iOS Tech Set – Medium</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11">Getting Started with Reusable Frameworks for iOS Development</A>
-					<DT><A HREF="https://medium.com/@einancunlu/using-auto-layout-in-an-uiscrollview-44c9bba89ad6">Using Auto Layout in an UIScrollView – Emin Inanc Unlu – Medium</A>
-					<DT><A HREF="https://medium.com/developermind/using-channels-for-data-flow-in-swift-14bbdf27b471">Using Channels for Data Flow in Swift 📻 – Developer Mind – Medium</A>
-					<DT><A HREF="https://medium.com/developerinsider/best-ios-development-tips-and-tricks-6c42c1d208c1">Best iOS Development Tips and Tricks – developerinsider – Medium</A>
-					<DT><A HREF="https://medium.com/rosberryapps/lets-simplify-the-work-with-userdefaults-93d142d47741">Let’s Simplify the Work with UserDefaults – @RosberryApps – Medium</A>
-					<DT><A HREF="https://medium.com/@abhimuralidharan/functional-swift-all-about-closures-310bc8af31dd">Functional swift: All about Closures – Abhimuralidharan – Medium</A>
-					<DT><A HREF="https://marcosantadev.com/solid-principles-applied-swift/">SOLID Principles Applied To Swift - Marco Santa Dev</A>
-					<DT><A HREF="https://medium.com/@sdrzn/functional-programming-in-swift-221a8cabb8c">Guide to Functional Swift Programming I Wish I Had Sooner</A>
-					<DT><A HREF="https://github.com/dkhamsing/open-source-ios-apps">dkhamsing/open-source-ios-apps: Collaborative List of Open-Source iOS Apps</A>
-					<DT><A HREF="https://useyourloaf.com/">Use Your Loaf</A>
-					<DT><A HREF="https://github.com/JohnSundell/TestDrive">JohnSundell/TestDrive: Quickly try out any Swift pod or framework in a playground</A>
-					<DT><A HREF="https://medium.com/@ericamillado/playing-with-key-value-observing-kvo-swift3-146da9c070a6">Playing with Key-Value Observing (KVO) (Swift3) – Erica Millado – Medium</A>
-					<DT><A HREF="https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd">Taming Great Complexity: MVVM, Coordinators and RxSwift</A>
-					<DT><A HREF="https://medium.com/@stremsdoerfer/understanding-memory-leaks-in-closures-48207214cba">Understanding memory leaks in closures – Emilien Stremsdoerfer – Medium</A>
-					<DT><A HREF="https://krakendev.io/blog/weak-and-unowned-references-in-swift">"Weak, Strong, Unowned, Oh My!" - A Guide to References in Swift — KrakenDev</A>
-					<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-2-observable-and-the-bind/">RxSwift by Examples #2 - Observable and the Bind. - Mobile App Development Company Poland - Droids On Roids</A>
-					<DT><A HREF="https://developer.apple.com/library/content/documentation/Miscellaneous/Reference/UTIRef/Articles/System-DeclaredUniformTypeIdentifiers.html#//apple_ref/doc/uid/TP40009259-SW1">System-Declared Uniform Type Identifiers</A>
-					<DT><A HREF="https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html">Inter-App Communication</A>
-					<DT><A HREF="https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_declare/understand_utis_declare.html#//apple_ref/doc/uid/TP40001319-CH204-SW1">Declaring New Uniform Type Identifiers</A>
-					<DT><A HREF="https://medium.com/@azamsharp/mvvm-in-ios-from-net-perspective-580eb7f4f129">MVVM in iOS – Mohammad Azam – Medium</A>
-					<DT><A HREF="https://medium.com/@azamsharp/mvvm-in-ios-viewmodel-and-networking-5bbe1d768c7f">MVVM in iOS — View Model and Networking – Mohammad Azam – Medium</A>
-					<DT><A HREF="https://medium.com/@brianclouser/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960">Swift 3 — Creating a custom view from a xib – Brian Clouser – Medium</A>
-					<DT><A HREF="https://medium.cobeisfresh.com/dealing-with-complex-table-views-in-ios-and-keeping-your-sanity-ff5fee1fbb83">Dealing with Complex Table Views in iOS and Keeping Your Sanity</A>
-					<DT><A HREF="https://medium.com/chili-labs/configuring-multiple-cells-with-generics-in-swift-dcd5e209ba16">Configuring multiple cells with generics in Swift – Chili Labs – Medium</A>
-					<DT><A HREF="https://github.com/futurice/ios-good-practices">futurice/ios-good-practices: Good ideas for iOS development, by Futurice developers.</A>
-				</DL><p>
-				<DT><H3 FOLDED>Xcode</H3>
-				<DL><p>
-					<DT><A HREF="https://team.goodeggs.com/generating-swift-types-with-sourcery-65c72f9607bf?source=bookmarks---------51----------------">Generating Swift Types with SourceryWith the announcement of Xcode 9.3 beta we finally get to see synthesized == implementations for Equatable Swift types. Our app was once...</A>
-					<DT><A HREF="https://medium.com/ios-os-x-development/highlight-warnings-in-xcode-521125121a75?source=bookmarks---------60----------------">Highlight Warnings in XcodeIn Swift Development, we usually use a TODO comment as a placeholder for future refactor — with that Xcode will conveniently shows the...</A>
-					<DT><A HREF="https://medium.com/xcblog/xcode-new-build-system-for-speedy-swift-builds-c39ea6596e17?source=bookmarks---------64----------------">Xcode New Build System for Speedy Swift BuildsNote: This post was originally published on XCBlog, read original post for better graphics and without missing any content here</A>
-					<DT><A HREF="https://blog.usejournal.com/effective-environment-switching-in-ios-6df0b08e9556?source=bookmarks---------77----------------">Effective Environment Switching in iOSHow to take advantage of Xcode configurations and define your app's settings in an organized way</A>
-					<DT><A HREF="https://medium.com/rosberryapps/lets-optimize-the-work-with-terminal-for-xcode-developers-194623da55d4?source=bookmarks---------100----------------">Let’s Optimize the Work with Terminal for Xcode Developers.Every iOS Developer often has to deal with things that need to be done via Terminal:</A>
-					<DT><A HREF="https://hackernoon.com/introduction-to-xcode-9-94205e83a985?source=bookmarks---------104----------------">Introduction to Xcode 9Understand the basics of Xcode</A>
-					<DT><A HREF="https://medium.com/swift-programming/swift-build-time-optimizations-part-2-37b0a7514cbe?source=bookmarks---------142----------------">Swift build time optimizations — Part 2It’s soon been two months since I wrote the first post on this topic. That post introduced the Build Time Analyzer for Xcode which was...</A>
-					<DT><A HREF="https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31?source=bookmarks---------143----------------">Regarding Swift build time optimizationsAfter I read @nickoneill’s excellent post Speeding Up Slow Swift Build Times last week, it’s hard not to look at Swift code in a slightly...</A>
-					<DT><A HREF="https://hackernoon.com/speed-up-swift-compile-time-6f62d86f85e6?source=bookmarks---------144----------------">Speed up Swift compile timeOptimize your Swift compile time dramatically</A>
-					<DT><A HREF="https://medium.com/@incubation.ff/our-favourite-features-of-xcode-9-fb0ca72679d0?source=bookmarks---------153----------------">Our favourite features of Xcode 9At WWDC in June 2017, Apple announced a major update of Xcode, the native iOS coding environment. Although it is still in beta, we...</A>
-					<DT><A HREF="https://medium.com/technology-nineleaps/integration-of-xcode-9-with-github-a350bf563278?source=bookmarks---------154----------------">Integration of Xcode 9 with GitHubSource control is now a first class citizen of Xcode</A>
-					<DT><A HREF="https://medium.com/developermind/using-swiftlint-and-danger-for-swift-best-practices-48432e4e268a?source=bookmarks---------182----------------">Using SwiftLint and Danger for Swift Best PracticesIn a lot of ways, Swift is very flexible language and it is really easy to misuse it. Applying best practices becomes really important.</A>
-					<DT><A HREF="https://medium.com/@pradeep_chauhan/reduce-swift-app-build-time-and-code-optimization-b2fd53fb9b8a?source=bookmarks---------123----------------">Reduce swift app build time and code optimization.While working on large product based application i was figured out application it taking more time to build the app. So my next target is...</A>
-					<DT><A HREF="https://medium.com/@jamesrochabrun/swiftlint-introduction-tutorial-cd692d41dda3?source=bookmarks---------73----------------">SwiftLint introduction tutorialKeeping a codebase consistent and maintainable in a project with a team of devs sometimes may be very hard, different conventions and...</A>
-					<DT><A HREF="https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b?source=bookmarks---------36----------------">Playground driven development in Swift</A>
-					<DT><A HREF="https://blog.usejournal.com/how-to-publish-your-own-pod-47833eeb7816?source=bookmarks---------43----------------">How to publish your own podPreviously, I’ve published an article explaining how to use CocoaPods as a dependency management tool on your iOS project, but today we...</A>
-					<DT><A HREF="https://blog.indoorway.com/how-to-let-rick-and-morty-work-together-sharing-code-between-similar-ios-apps-58bca818fde4?source=bookmarks---------10----------------">How to let Rick and Morty work together? Sharing code between similar iOS appsBy Piotr Torczyński &amp; Dawid Markowski</A>
-					<DT><A HREF="https://www.avanderlee.com/workflow/cheat-sheet-xcode-swift/">Cheat sheet examples for Xcode and Swift development - SwiftLee</A>
+					<DT><A HREF="https://itnext.io/dependency-injection-with-swinject-73f3144b20f0?source=bookmarks---------85------------------">Dependency Injection with SwinjectWhat is Dependency Injection and How to use it on iOS.</A>
+					<DT><A HREF="https://medium.com/kinandcartacreated/i-followed-these-7-simple-steps-and-became-an-ios-coding-test-boss-7da963c3a40d?source=bookmarks---------42------------------">I followed these 7 simple steps and became an iOS coding test BOSS!So you took the bait. Your route to success starts here! 🤑 But unlike the many get-rich quick schemes promised on the side-panes of...</A>
 				</DL><p>
 				<DT><H3 FOLDED>XMPP</H3>
 				<DL><p>
 					<DT><A HREF="http://shubhank101.github.io/iOSAndroidChaosOverFlow/2016/08/Chat-Application-Using-XMPP-Swift-Tutorial">Chat Application Using Xmpp Swift Tutorial</A>
 					<DT><A HREF="https://www.erlang-solutions.com/blog/build-a-complete-ios-messaging-app-using-xmppframework-tutorial-part-1.html">Build a complete iOS messaging app using XMPPFramework - Tutorial Part 1 | Erlang Solution blog</A>
 				</DL><p>
-			</DL><p>
-			<DT><H3 FOLDED>iOS Music Player</H3>
-			<DL><p>
-				<DT><A HREF="https://github.com/analogcode/Swift-Radio-Pro">analogcode/Swift-Radio-Pro: Professional Radio Station App - now supports Swift 4 / Xcode 9!</A>
-				<DT><A HREF="https://github.com/yarodevuci/Muzonchik">yarodevuci/Muzonchik: iOS Music App that let you search, download and play music</A>
-				<DT><A HREF="https://github.com/fethica/FRadioPlayer">fethica/FRadioPlayer: A simple radio player framework for iOS.</A>
-				<DT><A HREF="https://github.com/tschob/AudioPlayerManager">tschob/AudioPlayerManager: Small Swift Wrapper and Queue-Manager around AVPlayer which let you play MediaPlayer items and stream songs from URLs.</A>
-				<DT><A HREF="https://github.com/adamcichy/SwiftySound">adamcichy/SwiftySound: SwiftySound is a simple library that lets you play sounds with a single line of code.</A>
-				<DT><A HREF="https://github.com/murselturk/AudioPlayer/tree/swift4.2">murselturk/AudioPlayer at swift4.2</A>
 			</DL><p>
 			<DT><H3 FOLDED>Newsletter</H3>
 			<DL><p>
@@ -896,6 +776,79 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://github.com/vsouza/awesome-ios#games">vsouza/awesome-ios: A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects</A>
 				<DT><A HREF="https://github.com/matteocrippa/awesome-swift">matteocrippa/awesome-swift: A collaborative list of awesome Swift libraries and resources. Feel free to contribute!</A>
 				<DT><A HREF="https://github.com/jogendra/example-ios-apps">jogendra/example-ios-apps:  A curated list of Open Source example iOS apps developed in Swift. An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.</A>
+			</DL><p>
+			<DT><H3 FOLDED>Other</H3>
+			<DL><p>
+				<DT><A HREF="https://medium.com/@stasost/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696?source=bookmarks---------168----------------">iOS: How to open Deep Links, Notifications and ShortcutsOne tool to rule them all</A>
+				<DT><A HREF="https://medium.com/@mobiquityAMS/the-checklist-of-my-code-review-5b8ba936018e?source=bookmarks---------117----------------">The Checklist of my code review(Contributed by our own Mobster Sameh Mabrouk, Senior iOS Developer @Mobiquity)</A>
+				<DT><A HREF="https://medium.com/the-traveled-ios-developers-guide/devicecheck-6f3eafac60e5?source=bookmarks---------105----------------">iOS 11: The DeviceCheck API – The Traveled iOS Developer’s Guide – Medium</A>
+				<DT><A HREF="https://medium.com/hackers-at-cambridge/why-were-writing-our-website-in-swift-2e620ae7b72b?source=bookmarks---------86----------------">Why we’re writing our website in SwiftSummary — Using Swift as a backend language at this stage is an interesting learning experience and well-suited to a project of this small...</A>
+				<DT><A HREF="https://hackernoon.com/building-blockchain-web-api-using-swift-and-vapor-2daf599c8449?source=bookmarks---------74----------------">Building Blockchain Web API Using Swift and VaporUPDATE: I am proud to announce that my new course “Blockchain Programming in iOS Using Swift” is now available. Enroll now for only $10.99.</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/enums-and-sourcery-5da57cda473b?source=bookmarks---------70----------------">How to supercharge Swift enum-based states with Sourcery</A>
+				<DT><A HREF="https://android.jlelse.eu/solving-offline-logout-problem-f3b50da49e7e?source=bookmarks---------61----------------">Solving offline logout problemA few days ago I had an interesting brainstorm with Chris Le Roy regarding offline logout process — the scenario when the user tries to log...</A>
+				<DT><A HREF="https://medium.com/ios-os-x-development/ios-developer-roadmap-c9a24f413457?source=bookmarks---------46----------------">iOS Developer RoadmapTree-like compilation of topics highly relevant to iOS development available as a living page on Github.</A>
+				<DT><A HREF="https://medium.com/@nickdizazzo/a-blockchain-framework-in-swift-part-1-384861698c6?source=bookmarks---------13----------------">A Blockchain Framework in Swift — Part 1My name is Nick, and I’m a Senior Mobile Engineer at TWG. I’ve been a building mobile apps @ TWG for over 3 years now.</A>
+				<DT><A HREF="https://expertise.jetruby.com/top-5-mistakes-that-beginner-ios-developers-make-part-1-394217687ff4">Top 5 Mistakes that Beginner iOS Developers Make — Part 1</A>
+				<DT><A HREF="https://library.launchkit.io/the-right-way-to-ask-users-for-ios-permissions-96fa4eb54f2c">The Right Way to Ask Users for iOS Permissions – LaunchKit Library</A>
+				<DT><A HREF="https://medium.com/revenuecat-blog/ios-subscriptions-are-hard-d9b29c74e96f">iOS Subscriptions are Hard – RevenueCat Blog – Medium</A>
+				<DT><A HREF="https://medium.com/@cji_/hunting-for-ios-kernel-symbols-e48a446bb00">Hunting for iOS Kernel Symbols – Craig Ingram – Medium</A>
+				<DT><A HREF="https://medium.com/@michael.eisel/one-trick-to-drastically-reduce-your-ios-apps-downlsize-ae68aad0d369">One Trick to Drastically Reduce your iOS App’s DownlSize</A>
+			</DL><p>
+			<DT><H3 FOLDED>RxSwift</H3>
+			<DL><p>
+				<DT><A HREF="https://maniacdev.com/?s=rxswift&search=Search">Rxswift</A>
+				<DT><A HREF="https://academy.realm.io/posts/learning-path-rxswift-from-start-to-finish/">Learning Path: RxSwift from Start to Finish</A>
+				<DT><A HREF="https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing">orakaro/The-introduction-to-RxSwift-you-have-been-missing: The introduction to RxSwift you've been missing</A>
+				<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/">RxSwift by Examples #1 - The basics. - Droids On Roids - Blog</A>
+				<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-2-observable-and-the-bind/">RxSwift by Examples #2 - Observable and the Bind. - Droids On Roids - Blog</A>
+				<DT><A HREF="https://techbeacon.com/reactive-programming-rxswift-how-get-started">Reactive programming with RxSwift: How to get started | TechBeacon</A>
+				<DT><A HREF="http://swiftpearls.com/RxSwift-for-dummies-1-Observables.html">RxSwift For Dummies 🐣 Part 1</A>
+				<DT><A HREF="https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b">Learn &amp; Master ⚔️ the Basics of RxSwift in 10 Minutes</A>
+				<DT><A HREF="https://medium.com/@leandromperez/why-use-rxswift-a176b553a705">Why use RxSwift? – Leandro Pérez – Medium</A>
+				<DT><A HREF="https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa">Getting Started With RxSwift and RxCocoa</A>
+				<DT><A HREF="https://www.raywenderlich.com/158205/rxswift-transforming-operators">RxSwift: Transforming Operators</A>
+				<DT><A HREF="https://academy.realm.io/posts/slug-max-alexander-functional-reactive-rxswift/">Functional Reactive Programming with RxSwift</A>
+				<DT><A HREF="https://github.com/devxoul/RxTodo">devxoul/RxTodo: iOS Todo Application using RxSwift and ReactorKit</A>
+				<DT><A HREF="https://github.com/LeoMobileDeveloper/awesome-rxswift#tutorials">LeoMobileDeveloper/awesome-rxswift: An "awesome" type curated list of RxSwift library and learning material</A>
+				<DT><A HREF="https://medium.com/@dkhuong291/rxswift-subjects-part1-publishsubjects-103ff6b06932">RxSwift — Subjects – Khuong Pham – Medium</A>
+				<DT><A HREF="https://medium.com/@shoheiyokoyama/flatmap-operators-in-rxswift-aa33edc33024">FlatMap operators in RxSwift – Shohei Yokoyama – Medium</A>
+				<DT><A HREF="https://medium.com/@kishannakum/reactive-programming-in-swift-part-1-48bfc9062d1b">Reactive Programming in Swift Part 1 – Kishan Nakum – Medium</A>
+				<DT><A HREF="http://rx-marin.com/post/rxswift-rxcocoa-custom-bindings/">Custom bindings with RxSwift // rx_marin&lt;blog&gt;</A>
+				<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-examples-3-networking/">RxSwift by Examples #3 - Networking. - Mobile &amp; Web Development Company Poland - Droids On Roids</A>
+				<DT><A HREF="https://github.com/DroidsOnRoids/RxSwiftExamples">DroidsOnRoids/RxSwiftExamples: Examples and resources for RxSwift.</A>
+				<DT><A HREF="https://medium.com/rosberryapps/dive-in-disposable-mechanisms-in-rxswift-1740fa782da">Dive in Disposable Mechanisms in RxSwift. – @RosberryApps – Medium</A>
+				<DT><A HREF="http://adamborek.com/">Code in a suit - Adam Borek</A>
+				<DT><A HREF="https://medium.com/@navdeepsingh_2336/testing-in-rxswift-2b6eeaeaf432?source=bookmarks---------16----------------">Testing in RxSwiftRxTest and RxBlocking are part of the RxSwift repository but are made available via separate pods and hence require separate imports...</A>
+				<DT><A HREF="https://medium.com/@azamsharp/passing-data-between-view-controllers-using-rxswift-ab87beb41b06?source=bookmarks---------29----------------">Passing Data Between View Controllers Using RxSwiftReactive Programming in Swift is getting a lot of attention these days, specially with the launch of RxSwift Reactive Programming with...</A>
+				<DT><A HREF="https://medium.com/@_achou/rxswift-share-vs-replay-vs-sharereplay-bea99ac42168?source=bookmarks---------31----------------">RxSwift: share vs replay vs shareReplayA common beginner error with Rx is forgetting that each subscription to an observable re-executes the chain of operators:</A>
+				<DT><A HREF="https://medium.com/mercari-engineering/signal-and-relay-in-rxcocoa-4-547fb0d18e11?source=bookmarks---------32----------------">Signal and Relay in RxCocoa 4Hi, this is Minh Vu Nhat and I’m an iOS Engineer on the Souzoh team.</A>
+				<DT><A HREF="https://codeburst.io/rxswift-foundation-and-basic-components-36f7db186e3e?source=bookmarks---------44----------------">RxSwift foundation and basic componentsReactive programming has been in the picture for more than 20 years now, but it did not really start to gain momentum until the...</A>
+				<DT><A HREF="https://medium.com/@leandromperez/why-use-rxswift-a176b553a705?source=bookmarks---------46----------------">Why use RxSwift?Short answer: Asynchrony.</A>
+				<DT><A HREF="https://medium.com/@dkhuong291/throttle-vs-debounce-in-rxswift-86f8b303d5d4?source=bookmarks---------45----------------">Throttle vs Debounce in RxSwiftWhen I went to reactivex.io, I got a whole lot of confusion between the terms throttle and debounce in the reactive programming world. I...</A>
+				<DT><A HREF="https://medium.com/@kenzai/rxswift-and-the-awesome-things-you-can-do-with-reactive-programming-part-i-3921137d251?source=bookmarks---------216----------------">RxSwift and the awesome things you can do with Reactive Programming — Part IThe first time I heard of reactive programming, this is kind of what I looked like:</A>
+				<DT><A HREF="https://github.com/RxSwiftCommunity/RxKeyboard">RxSwiftCommunity/RxKeyboard: Reactive Keyboard in iOS</A>
+				<DT><A HREF="http://adamborek.com/practical-introduction-rxswift/">RxSwift - Start using it today! The practical introduction</A>
+				<DT><A HREF="https://www.netguru.co/codestories/networking-with-rxswift">Networking with RxSwift | Netguru Blog on iOS</A>
+				<DT><A HREF="http://rx-marin.com/post/rxswift-advanced-combine-latest/">combineLatest beyond the basics // rx_marin&lt;blog&gt;</A>
+				<DT><A HREF="https://medium.com/@martinkonicek/rx-combinelatest-vs-withlatestfrom-ccd98cc1cd41">Rx: combineLatest vs withLatestFrom (and zip) – Martin Konicek – Medium</A>
+				<DT><A HREF="https://arsfutura.co/magazine/mvvm-with-rxswift">MVVM with RxSwift – Ars Futura</A>
+				<DT><A HREF="https://www.raywenderlich.com/7408-testing-your-rxswift-code?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Testing Your RxSwift Code | raywenderlich.com</A>
+				<DT><A HREF="https://medium.com/@MortyMerr/code-faster-with-rxswift-224c785f9214">Code faster with RxSwift – MortyMerr – Medium</A>
+				<DT><A HREF="https://agostini.tech/2019/02/04/get-started-with-rxswift-and-reactive-programming/">Get started with RxSwift and reactive programming | agostini.tech</A>
+				<DT><A HREF="https://www.toptal.com/ios/rxswift-animations-ios?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">iOS: RxSwift and Animations | Toptal</A>
+				<DT><A HREF="http://adamborek.com/rxtests-rxactionsheet/">RxTest - How to test the Observable in Swift - Code in a suit</A>
+				<DT><A HREF="https://medium.com/@michaellong/rxswifty-and-his-variadic-disposebag-1682ecceaf41">RxSwift and the Secret of the Variadic DisposeBag - Michael Long - Medium</A>
+			</DL><p>
+			<DT><H3 FOLDED>Security</H3>
+			<DL><p>
+				<DT><A HREF="https://quickbirdstudios.com/blog/mobile-app-security-best-practices-android-ios/">Mobile App Security: Best Practices on Android &amp; iOS - QuickBird Studios Blog</A>
+				<DT><A HREF="https://quickbirdstudios.com/blog/ios-app-security-best-practices/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">iOS App Security: Best Practices - QuickBird Studios Blog</A>
+			</DL><p>
+			<DT><H3 FOLDED>Server Side Swift</H3>
+			<DL><p>
+				<DT><A HREF="https://theswiftwebdeveloper.com/diving-into-vapor-part-1-up-and-running-with-vapor-3-edab3c79aab9">Diving into Vapor, Part 1: Up and Running with Vapor 3</A>
+				<DT><A HREF="https://medium.com/@rymcol/current-features-benefits-of-the-top-server-side-swift-frameworks-b15b4f2d7bc3?source=bookmarks---------174----------------">Current Features &amp; Benefits of the Top Server-Side Swift FrameworksWhile Server-Side Swift is production ready in my eyes, I know that it can be difficult to recognize where to start or what will fit your...</A>
+				<DT><A HREF="https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications">Sharing Swift Code Between iOS and Server Applications | raywenderlich.com</A>
 			</DL><p>
 			<DT><H3 FOLDED>Sites</H3>
 			<DL><p>
@@ -920,9 +873,21 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://nshipster.com/">NSHipster</A>
 				<DT><A HREF="https://learnappmaking.com/category/app-development/">App Development and Swift Programming - LearnAppMaking</A>
 				<DT><A HREF="http://www.swifttube.co/videos">Swift Tube</A>
+				<DT><A HREF="https://www.avanderlee.com/posts-categories/">Posts Categories - SwiftLee</A>
+				<DT><A HREF="https://www.vadimbulavin.com/">Yet Another Swift Blog - Learn Advanced Xcode and iOS Development with Swift 5</A>
+			</DL><p>
+			<DT><H3 FOLDED>SPM</H3>
+			<DL><p>
+				<DT><A HREF="https://theswiftdev.com/2019/01/14/all-about-the-swift-package-manager-and-the-swift-toolchain/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">All about the Swift Package Manager and the Swift toolchain - The.Swift.Dev.</A>
+				<DT><A HREF="https://www.raywenderlich.com/1993018-an-introduction-to-swift-package-manager">An Introduction to Swift Package Manager | raywenderlich.com</A>
 			</DL><p>
 			<DT><H3 FOLDED>Swift</H3>
 			<DL><p>
+				<DT><H3 FOLDED>Functional Programming</H3>
+				<DL><p>
+					<DT><A HREF="https://medium.com/@mimicatcodes/simple-higher-order-functions-in-swift-3-0-map-filter-reduce-and-flatmap-984fa00b2532?source=bookmarks---------210----------------">Simple Higher Order Functions in Swift 3.0 — Map, filter, reduce and flatMap!In this blog post, I will briefly introduce four very useful and commonly used higher order functions you can use on collection types.</A>
+					<DT><A HREF="https://matteomanferdini.com/swift-functional-programming/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter">https://matteomanferdini.com/swift-functional-programming/?utm_campaign=AppCoda%20Weekly&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</A>
+				</DL><p>
 				<DT><H3 FOLDED>ABI</H3>
 				<DL><p>
 					<DT><A HREF="https://swift.org/blog/abi-stability-and-apple/">Swift.org - Evolving Swift On Apple Platforms After ABI Stability</A>
@@ -937,6 +902,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@abhimuralidharan/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a">Difference between value type and a reference type in iOS swift?</A>
 					<DT><A HREF="https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes">Choosing Between Structures and Classes | Apple Developer Documentation</A>
 					<DT><A HREF="https://medium.com/@abhimuralidharan/difference-between-a-struct-and-a-class-in-swift-53e08df73714">Difference between a struct and a class in Swift. – Abhimuralidharan – Medium</A>
+					<DT><A HREF="https://medium.com/swift-india/part1-struct-2d585269b121?source=bookmarks---------26------------------">Learn about Struct in SwiftLet’s deep dive into struct in swift</A>
 				</DL><p>
 				<DT><H3 FOLDED>Closure</H3>
 				<DL><p>
@@ -970,6 +936,14 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/@farhansyed/generics-and-json-decoding-in-swift-6adc67711589?source=---------31---------------------">&lt;img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*02L393cw2ls47baYbWqDVQ.jpeg"&gt;Generics and JSON Decoding in SwiftSo last article I wrote about how to do some networking with Alamofire, It made me think back to...</A>
 					<DT><A HREF="https://medium.com/better-programming/better-swift-codable-models-through-composition-a6b109b7e8c7">Better Swift Codable Models Through Composition – Better Programming – Medium</A>
 				</DL><p>
+				<DT><H3 FOLDED>Dynamic member lookup</H3>
+				<DL><p>
+				</DL><p>
+				<DT><H3 FOLDED>Dispatches</H3>
+				<DL><p>
+					<DT><A HREF="https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/">Method Dispatch in Swift - RaizException - Raizlabs Developer BlogRaizException – Raizlabs Developer Blog</A>
+					<DT><A HREF="https://developer.apple.com/swift/blog/?id=27">Increasing Performance by Reducing Dynamic Dispatch - Swift Blog - Apple Developer</A>
+				</DL><p>
 				<DT><H3 FOLDED>Error Handling</H3>
 				<DL><p>
 					<DT><A HREF="https://www.swiftbysundell.com/basics/error-handling">Error Handling — Swift by Sundell</A>
@@ -982,6 +956,31 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://blog.bobthedeveloper.io/intro-to-generics-in-swift-with-bob-df58118a5001?source=bookmarks---------189----------------">Intro to Generics in Swift with BobI know you are frustrated. I’ve been there. Join me. I will walk you through.</A>
 					<DT><A HREF="https://medium.com/yay-its-erica/talkin-about-my-generics-part-1-f40e60e0572f?source=bookmarks---------210----------------">Talkin’ About My Generics — Part 1 (Swift 3)“Generic programming is a style of computer programming in which algorithms are written in terms of types to-be-specified-later that are...</A>
 					<DT><A HREF="https://medium.com/developermind/generics-in-swift-4-4f802cd6f53c">Generics in Swift 4 – Developer Mind – Medium</A>
+				</DL><p>
+				<DT><H3 FOLDED>Memory </H3>
+				<DL><p>
+					<DT><A HREF="https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74?source=bookmarks---------22----------------">Memory Leaks in SwiftUnit Testing and other tools to avoid them.</A>
+					<DT><A HREF="https://medium.com/@johnsundell/using-unit-tests-to-identify-avoid-memory-leaks-in-swift-607c97465b62?source=bookmarks---------89----------------">Using unit tests to identify &amp; avoid memory leaks in SwiftAs always, the best place to read this post is on Swift by Sundell 👍</A>
+					<DT><A HREF="https://blog.bobthedeveloper.io/make-memory-management-great-again-f781fb29cea1?source=bookmarks---------169----------------">Make Memory Management Great AgainSwift Automatic Reference Counting explained with ease for complete beginners without CS/CE degree</A>
+					<DT><A HREF="https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8">Swift vs. Kotlin — the differences in memory management</A>
+					<DT><A HREF="https://docs.swift.org/swift-book/LanguageGuide/MemorySafety.html#//apple_ref/doc/uid/TP40014097-CH46-ID567">Memory Safety — The Swift Programming Language (Swift 4.2)</A>
+					<DT><A HREF="https://help.apple.com/instruments/mac/current/">Instruments Help</A>
+					<DT><A HREF="https://developer.apple.com/library/archive/documentation/General/Conceptual/lldb-guide/chapters/Introduction.html#//apple_ref/doc/uid/TP40016717-CH1-DontLinkElementID_42">About LLDB and Debugging</A>
+					<DT><A HREF="https://medium.com/@iostechset/3-ways-to-detect-memory-leaks-in-ios-bdf9425507d6">3 Ways to Detect Memory Leaks in iOS – iOS Tech Set – Medium</A>
+					<DT><A HREF="https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#//apple_ref/doc/uid/TP40014097-CH20-ID57">Automatic Reference Counting — The Swift Programming Language (Swift 4.2)</A>
+					<DT><A HREF="https://medium.com/@fahad_29644/unowned-vs-weak-614ac71ac516">Unowned vs Weak – Fahad C H – Medium</A>
+					<DT><A HREF="https://github.com/fastred/DeallocationChecker">fastred/DeallocationChecker: Catch leaking view controllers without opening Instruments.</A>
+					<DT><A HREF="https://medium.com/elements/memory-management-in-swift-31e20f942bbc">Memory management in Swift – Elements blog – Medium</A>
+					<DT><A HREF="https://github.com/tapwork/HeapInspector-for-iOS">tapwork/HeapInspector-for-iOS: Find memory issues &amp; leaks in your iOS app without instruments</A>
+					<DT><A HREF="https://www.raywenderlich.com/397-instruments-tutorial-with-swift-getting-started">Instruments Tutorial with Swift: Getting Started | raywenderlich.com</A>
+					<DT><A HREF="https://medium.freecodecamp.org/deep-copy-vs-shallow-copy-and-how-you-can-use-them-in-swift-c623833f5ad3">Deep copy vs. shallow copy — and how you can use them in Swift</A>
+					<DT><A HREF="https://medium.com/@stremsdoerfer/understanding-memory-leaks-in-closures-48207214cba">Understanding memory leaks in closures – Emilien Stremsdoerfer – Medium</A>
+					<DT><A HREF="https://medium.com/wolox-driving-innovation/how-to-automatically-detect-a-memory-leak-in-ios-769b7bb1ec7c">How to Automatically Detect a Memory Leak in iOS – Wolox – Medium</A>
+					<DT><A HREF="https://www.raywenderlich.com/966538-arc-and-memory-management-in-swift">ARC and Memory Management in Swift | raywenderlich.com</A>
+					<DT><A HREF="https://www.avanderlee.com/swift/weak-self/">Weak self and unowned self explained in Swift - SwiftLee</A>
+					<DT><A HREF="https://medium.com/fueled-engineering/memory-management-in-swift-common-issues-90dd7c08b77">Memory Management in Swift: Common Issues – Fueled Engineering – Medium</A>
+					<DT><A HREF="https://medium.com/swift2go/autoreleasepool-uses-in-2019-swift-9e8fd7b1cd3f">@autoreleasepool uses in 2019 Swift – Swift2Go – Medium</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217">Reducing Memory Footprint and OOM Terminations in iOS</A>
 				</DL><p>
 				<DT><H3 FOLDED>Pointer &amp; Memory</H3>
 				<DL><p>
@@ -997,6 +996,25 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://www.sitepoint.com/using-legacy-c-apis-swift/">Using Legacy C APIs with Swift</A>
 					<DT><A HREF="https://www.avanderlee.com/swift/weak-self/">Weak self and unowned self explained in Swift - SwiftLee</A>
 				</DL><p>
+				<DT><H3 FOLDED>Property Wrappers</H3>
+				<DL><p>
+					<DT><A HREF="https://medium.com/flawless-app-stories/taking-property-wrappers-to-their-limit-85460276fbd1">Taking Property Wrappers to their limit 🚀 - Flawless iOS - Medium</A>
+					<DT><A HREF="https://www.swiftbysundell.com/articles/property-wrappers-in-swift/">Property wrappers in Swift | Swift by Sundell</A>
+					<DT><A HREF="https://www.avanderlee.com/swift/property-wrappers/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl">Property wrappers to remove boilerplate code in Swift - SwiftLee</A>
+					<DT><A HREF="https://nshipster.com/propertywrapper/">Swift Property Wrappers - NSHipster</A>
+					<DT><A HREF="https://medium.com/genetec-tech/property-wrappers-in-swift-5-1-the-missing-published-implementation-1a466ebcf660">Property wrappers in Swift 5.1: the missing @Published implementation</A>
+					<DT><A HREF="https://www.hackingwithswift.com/quick-start/swiftui/understanding-property-wrappers-in-swift-and-swiftui">Understanding property wrappers in Swift and SwiftUI - a free SwiftUI by Example tutorial</A>
+					<DT><A HREF="https://www.vadimbulavin.com/swift-5-property-wrappers/">The Complete Guide to Property Wrappers in Swift 5</A>
+					<DT><A HREF="https://www.toptal.com/swift/wrappers-swift-properties">Wrappers for Swift Properties: How to Approach it in Swift 5.1 | Toptal</A>
+					<DT><A HREF="https://docs.swift.org/swift-book/LanguageGuide/Properties.html">Properties — The Swift Programming Language (Swift 5.2)</A>
+					<DT><A HREF="https://medium.com/swlh/understanding-property-wrappers-in-swift-by-examples-604206022b5c">Understanding Property Wrappers in Swift By Examples</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/turning-property-wrappers-into-function-wrappers-2be3a49229f5">Turning Property Wrappers into Function Wrappers - Flawless iOS - Medium</A>
+					<DT><A HREF="https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f">How can Property Wrappers and Function Builders be leveraged?</A>
+					<DT><A HREF="https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift">How to use Dynamic Member Lookup in Swift – Hacking with Swift</A>
+					<DT><A HREF="https://www.avanderlee.com/swift/dynamic-member-lookup/">Dynamic Member Lookup combined with key paths in Swift</A>
+					<DT><A HREF="https://oleb.net/blog/2018/06/dynamic-member-lookup/">Thoughts on @dynamicMemberLookup – Ole Begemann</A>
+					<DT><A HREF="https://medium.com/rosberryapps/dynamiclookup-for-dictionaries-1503441edd1b">Simplifying the Dictionary’s Subscript with Dynamic Member Lookup in Swift 4.2</A>
+				</DL><p>
 				<DT><H3 FOLDED>Protocols</H3>
 				<DL><p>
 					<DT><A HREF="https://medium.com/@omaralbeik/keyboard-events-handling-using-protocols-in-swift-b09bd86d9570?source=bookmarks---------19----------------">Keyboard Events Handling using Protocols in Swiftaka. Making MVC Great Again (Part 2)</A>
@@ -1011,6 +1029,8 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				</DL><p>
 				<DT><H3 FOLDED>Swift Frameworks Definitions</H3>
 				<DL><p>
+					<DT><A HREF="https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11?source=bookmarks---------99----------------">Getting Started with Reusable Frameworks for iOS Development</A>
+					<DT><A HREF="https://medium.com/rahulkatariya/framework-oriented-programming-in-swift-4d92db85ff1c?source=bookmarks---------23----------------">Framework Oriented Programming in SwiftI was inspired by a talk by Justin Spahr-Summers at #Pragma Conference 2015 where he imparts knowledge and motivation for designing usable...</A>
 					<DT><A HREF="https://theswiftdev.com/2018/01/25/deep-dive-into-swift-frameworks/">Deep dive into Swift frameworks - The.Swift.Dev.</A>
 					<DT><A HREF="https://www.ca.com/en/blog-developers/dynamic-versus-static-framework-in-ios.html">Dynamic Versus Static Framework in iOS - CA for Developers</A>
 					<DT><A HREF="http://www.vadimbulavin.com/static-dynamic-frameworks-and-libraries/">Static and Dynamic Libraries and Frameworks in iOS</A>
@@ -1066,6 +1086,7 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://medium.com/swift2go/whats-self-type-and-protocol-understanding-swift-metatypes-b6b5be9e09f1">What’s .self, .Type and .Protocol? Understanding Swift Metatypes</A>
 					<DT><A HREF="https://flawlessapp.io/blog/dive-deep-into-swift-string/">Dive deep into Swift String</A>
 					<DT><A HREF="https://medium.cobeisfresh.com/accessing-types-from-extensions-in-swift-32ca87ec5190">https://medium.cobeisfresh.com/accessing-types-from-extensions-in-swift-32ca87ec5190</A>
+					<DT><A HREF="https://www.hackingwithswift.com/articles/187/how-to-use-opaque-return-types-in-swift-5-1">How to use opaque return types in Swift 5.1 – Hacking with Swift</A>
 				</DL><p>
 				<DT><H3 FOLDED>Swift Style Guide</H3>
 				<DL><p>
@@ -1076,6 +1097,11 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 					<DT><A HREF="https://github.com/nicklockwood/SwiftFormat">nicklockwood/SwiftFormat: A code library and command-line formatting tool for reformatting Swift code</A>
 					<DT><A HREF="https://medium.com/cocoaacademymag/swiftlint-introduction-tutorial-cd692d41dda3">SwiftLint introduction tutorial – Cocoa Academy – Medium</A>
 					<DT><A HREF="https://medium.com/developermind/using-swiftlint-and-danger-for-swift-best-practices-48432e4e268a">Using SwiftLint and Danger for Swift Best Practices</A>
+				</DL><p>
+				<DT><H3 FOLDED>Opaque Type</H3>
+				<DL><p>
+					<DT><A HREF="https://www.hackingwithswift.com/articles/187/how-to-use-opaque-return-types-in-swift-5-1">How to use opaque return types in Swift 5.1 – Hacking with Swift</A>
+					<DT><A HREF="https://medium.com/@alfianlosari/understanding-opaque-return-types-in-swift-9c36fb5dfa86">Understanding Opaque Return Types in Swift - Alfian Losari - Medium</A>
 				</DL><p>
 			</DL><p>
 			<DT><H3 FOLDED>Swift tips</H3>
@@ -1106,6 +1132,18 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2">https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2</A>
 				<DT><A HREF="https://github.com/Juanpe/About-SwiftUI">Juanpe/About-SwiftUI: Gathering all info published, both by Apple and by others, about new framework SwiftUI.</A>
 				<DT><A HREF="https://medium.com/better-programming/understanding-swiftui-data-flow-79429a49ae35">Understanding SwiftUI Data Flow - Better Programming - Medium</A>
+				<DT><A HREF="https://www.youtube.com/redirect?v=Nv7G4jUOK3U&redir_token=dMkpydGHhYUQ_Z7R0ACRQhi5epl8MTU3MDI2NzQwOEAxNTcwMTgxMDA4&event=video_description&q=https%3A%2F%2Fswiftui-lab.com%2Falignment-guides%2F">https://swiftui-lab.com/alignment-gui...</A>
+				<DT><A HREF="https://swiftui-lab.com/">The SwiftUI Lab - When the documentation is missing, we experiment.</A>
+				<DT><A HREF="https://swiftui-lab.com/frame-behaviors/">Frame Behaviors with SwiftUI - The SwiftUI Lab</A>
+				<DT><A HREF="https://t.co/7HaW5RCh0u?amp=1">https://medium.com/flawless-app-stories/mvvm-in-swiftui-8a2e9cc2964a</A>
+				<DT><A HREF="https://kean.github.io/post/swiftui-layout-system">SwiftUI Layout System | Alexander Grebenyuk</A>
+				<DT><A HREF="https://twitter.com/lisadziuba/status/1166447862139502593?s=12">Lisa Dziuba on Twitter: "For everyone learning SwiftUI 👇👇👇 🛠️ Working with SwiftUI https://t.co/eSULHSC8GJ 🧠 SwiftUI course https://t.co/vP6IHOKBLW 📚 SwiftUI: Getting Started https://t.co/iMnDoOzVJn 📽️ SwiftUI Video Tutorial https://t.co/9dbpl0sAHQ 🍏 SwiftUI guides https://t.co/lFpbdbwxWE https://t.co/vEGhBWHijC" / Twitter</A>
+				<DT><A HREF="https://swiftui-lab.com/swiftui-animations-part1/">https://swiftui-lab.com/swiftui-animations-part1/</A>
+				<DT><A HREF="https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/">SwiftUI learning curve in 2019 | Majid’s blog about Swift development</A>
+				<DT><A HREF="https://drive.google.com/file/d/1ZvyGv-qa0JYCSTE0lRec1354CZTq_-F3/view?usp=sharing">Testing SwiftUI and Combine.pdf - Google Drive</A>
+				<DT><A HREF="https://medium.com/better-programming/the-complete-swiftui-documentation-youve-been-waiting-for-fdfe7241add9">The Complete SwiftUI Documentation You’ve Been Waiting For</A>
+				<DT><A HREF="https://twitter.com/flawlessappio/status/1232971156287873025?s=12">Flawless iOS on Twitter: "Combine + SwiftUI guides 📕Visualize Combine Magic with SwiftUI: Part 1 https://t.co/3UVzd70wTU Part 2 https://t.co/cqgpI4Ta5N Part 3 https://t.co/VemNgi9EYY Part 4 https://t.co/YHZMdanI4r 🧠Why SwiftUI + Combine will help to build better apps: https://t.co/CUa9BtynZN https://t.co/fAn9YomvV0" / Twitter</A>
+				<DT><A HREF="https://www.youtube.com/watch?v=YG5u0aFgGQI">YouTube</A>
 			</DL><p>
 			<DT><H3 FOLDED>Tools</H3>
 			<DL><p>
@@ -1142,4 +1180,71 @@ You can see tools,sites,newsletters related to ios in the end of readme too.
 				<DT><A HREF="https://github.com/CocoaDebug/CocoaDebug?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">CocoaDebug/CocoaDebug: 🚀 iOS Debugging Tool</A>
 				<DT><A HREF="http://www.jsoncafe.com/">JSON to Swift, JAVA, PHP and C# [Model generator]</A>
 			</DL><p>
-		</DL><p>
+			<DT><H3 FOLDED>Useful Swift articles</H3>
+			<DL><p>
+				<DT><A HREF="https://hackernoon.com/simple-stylesheets-in-swift-6dda57b5b00d">Simple Stylesheets in Swift – Hacker Noon</A>
+				<DT><A HREF="https://medium.com/@stasost/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696">iOS: How to open Deep Links, Notifications and Shortcuts</A>
+				<DT><A HREF="https://medium.com/@stasost/ios-root-controller-navigation-3625eedbbff">iOS: Root Controller Navigation – Stan Ostrovskiy – Medium</A>
+				<DT><A HREF="https://hackernoon.com/everything-about-codable-in-swift-4-97d0e18a2999">Everything about Codable in Swift 4 – Hacker Noon</A>
+				<DT><A HREF="https://medium.com/swiftly-swift/swift-4-decodable-beyond-the-basics-990cc48b7375">Swift 4 Decodable: Beyond The Basics – Swiftly Swift – Medium</A>
+				<DT><A HREF="https://medium.com/@iostechset/dynamically-change-the-app-icon-7d4bece820d2">Dynamically Change the App Icon – iOS Tech Set – Medium</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11">Getting Started with Reusable Frameworks for iOS Development</A>
+				<DT><A HREF="https://medium.com/@einancunlu/using-auto-layout-in-an-uiscrollview-44c9bba89ad6">Using Auto Layout in an UIScrollView – Emin Inanc Unlu – Medium</A>
+				<DT><A HREF="https://medium.com/developermind/using-channels-for-data-flow-in-swift-14bbdf27b471">Using Channels for Data Flow in Swift 📻 – Developer Mind – Medium</A>
+				<DT><A HREF="https://medium.com/developerinsider/best-ios-development-tips-and-tricks-6c42c1d208c1">Best iOS Development Tips and Tricks – developerinsider – Medium</A>
+				<DT><A HREF="https://medium.com/rosberryapps/lets-simplify-the-work-with-userdefaults-93d142d47741">Let’s Simplify the Work with UserDefaults – @RosberryApps – Medium</A>
+				<DT><A HREF="https://medium.com/@abhimuralidharan/functional-swift-all-about-closures-310bc8af31dd">Functional swift: All about Closures – Abhimuralidharan – Medium</A>
+				<DT><A HREF="https://marcosantadev.com/solid-principles-applied-swift/">SOLID Principles Applied To Swift - Marco Santa Dev</A>
+				<DT><A HREF="https://medium.com/@sdrzn/functional-programming-in-swift-221a8cabb8c">Guide to Functional Swift Programming I Wish I Had Sooner</A>
+				<DT><A HREF="https://github.com/dkhamsing/open-source-ios-apps">dkhamsing/open-source-ios-apps: Collaborative List of Open-Source iOS Apps</A>
+				<DT><A HREF="https://useyourloaf.com/">Use Your Loaf</A>
+				<DT><A HREF="https://github.com/JohnSundell/TestDrive">JohnSundell/TestDrive: Quickly try out any Swift pod or framework in a playground</A>
+				<DT><A HREF="https://medium.com/@ericamillado/playing-with-key-value-observing-kvo-swift3-146da9c070a6">Playing with Key-Value Observing (KVO) (Swift3) – Erica Millado – Medium</A>
+				<DT><A HREF="https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd">Taming Great Complexity: MVVM, Coordinators and RxSwift</A>
+				<DT><A HREF="https://medium.com/@stremsdoerfer/understanding-memory-leaks-in-closures-48207214cba">Understanding memory leaks in closures – Emilien Stremsdoerfer – Medium</A>
+				<DT><A HREF="https://krakendev.io/blog/weak-and-unowned-references-in-swift">"Weak, Strong, Unowned, Oh My!" - A Guide to References in Swift — KrakenDev</A>
+				<DT><A HREF="https://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-2-observable-and-the-bind/">RxSwift by Examples #2 - Observable and the Bind. - Mobile App Development Company Poland - Droids On Roids</A>
+				<DT><A HREF="https://developer.apple.com/library/content/documentation/Miscellaneous/Reference/UTIRef/Articles/System-DeclaredUniformTypeIdentifiers.html#//apple_ref/doc/uid/TP40009259-SW1">System-Declared Uniform Type Identifiers</A>
+				<DT><A HREF="https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html">Inter-App Communication</A>
+				<DT><A HREF="https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_declare/understand_utis_declare.html#//apple_ref/doc/uid/TP40001319-CH204-SW1">Declaring New Uniform Type Identifiers</A>
+				<DT><A HREF="https://medium.com/@azamsharp/mvvm-in-ios-from-net-perspective-580eb7f4f129">MVVM in iOS – Mohammad Azam – Medium</A>
+				<DT><A HREF="https://medium.com/@azamsharp/mvvm-in-ios-viewmodel-and-networking-5bbe1d768c7f">MVVM in iOS — View Model and Networking – Mohammad Azam – Medium</A>
+				<DT><A HREF="https://medium.com/@brianclouser/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960">Swift 3 — Creating a custom view from a xib – Brian Clouser – Medium</A>
+				<DT><A HREF="https://medium.cobeisfresh.com/dealing-with-complex-table-views-in-ios-and-keeping-your-sanity-ff5fee1fbb83">Dealing with Complex Table Views in iOS and Keeping Your Sanity</A>
+				<DT><A HREF="https://medium.com/chili-labs/configuring-multiple-cells-with-generics-in-swift-dcd5e209ba16">Configuring multiple cells with generics in Swift – Chili Labs – Medium</A>
+				<DT><A HREF="https://github.com/futurice/ios-good-practices">futurice/ios-good-practices: Good ideas for iOS development, by Futurice developers.</A>
+			</DL><p>
+			<DT><H3 FOLDED>Xcode</H3>
+			<DL><p>
+				<DT><A HREF="https://team.goodeggs.com/generating-swift-types-with-sourcery-65c72f9607bf?source=bookmarks---------51----------------">Generating Swift Types with SourceryWith the announcement of Xcode 9.3 beta we finally get to see synthesized == implementations for Equatable Swift types. Our app was once...</A>
+				<DT><A HREF="https://medium.com/ios-os-x-development/highlight-warnings-in-xcode-521125121a75?source=bookmarks---------60----------------">Highlight Warnings in XcodeIn Swift Development, we usually use a TODO comment as a placeholder for future refactor — with that Xcode will conveniently shows the...</A>
+				<DT><A HREF="https://medium.com/xcblog/xcode-new-build-system-for-speedy-swift-builds-c39ea6596e17?source=bookmarks---------64----------------">Xcode New Build System for Speedy Swift BuildsNote: This post was originally published on XCBlog, read original post for better graphics and without missing any content here</A>
+				<DT><A HREF="https://blog.usejournal.com/effective-environment-switching-in-ios-6df0b08e9556?source=bookmarks---------77----------------">Effective Environment Switching in iOSHow to take advantage of Xcode configurations and define your app's settings in an organized way</A>
+				<DT><A HREF="https://medium.com/rosberryapps/lets-optimize-the-work-with-terminal-for-xcode-developers-194623da55d4?source=bookmarks---------100----------------">Let’s Optimize the Work with Terminal for Xcode Developers.Every iOS Developer often has to deal with things that need to be done via Terminal:</A>
+				<DT><A HREF="https://hackernoon.com/introduction-to-xcode-9-94205e83a985?source=bookmarks---------104----------------">Introduction to Xcode 9Understand the basics of Xcode</A>
+				<DT><A HREF="https://medium.com/swift-programming/swift-build-time-optimizations-part-2-37b0a7514cbe?source=bookmarks---------142----------------">Swift build time optimizations — Part 2It’s soon been two months since I wrote the first post on this topic. That post introduced the Build Time Analyzer for Xcode which was...</A>
+				<DT><A HREF="https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31?source=bookmarks---------143----------------">Regarding Swift build time optimizationsAfter I read @nickoneill’s excellent post Speeding Up Slow Swift Build Times last week, it’s hard not to look at Swift code in a slightly...</A>
+				<DT><A HREF="https://hackernoon.com/speed-up-swift-compile-time-6f62d86f85e6?source=bookmarks---------144----------------">Speed up Swift compile timeOptimize your Swift compile time dramatically</A>
+				<DT><A HREF="https://medium.com/@incubation.ff/our-favourite-features-of-xcode-9-fb0ca72679d0?source=bookmarks---------153----------------">Our favourite features of Xcode 9At WWDC in June 2017, Apple announced a major update of Xcode, the native iOS coding environment. Although it is still in beta, we...</A>
+				<DT><A HREF="https://medium.com/technology-nineleaps/integration-of-xcode-9-with-github-a350bf563278?source=bookmarks---------154----------------">Integration of Xcode 9 with GitHubSource control is now a first class citizen of Xcode</A>
+				<DT><A HREF="https://medium.com/developermind/using-swiftlint-and-danger-for-swift-best-practices-48432e4e268a?source=bookmarks---------182----------------">Using SwiftLint and Danger for Swift Best PracticesIn a lot of ways, Swift is very flexible language and it is really easy to misuse it. Applying best practices becomes really important.</A>
+				<DT><A HREF="https://medium.com/@pradeep_chauhan/reduce-swift-app-build-time-and-code-optimization-b2fd53fb9b8a?source=bookmarks---------123----------------">Reduce swift app build time and code optimization.While working on large product based application i was figured out application it taking more time to build the app. So my next target is...</A>
+				<DT><A HREF="https://medium.com/@jamesrochabrun/swiftlint-introduction-tutorial-cd692d41dda3?source=bookmarks---------73----------------">SwiftLint introduction tutorialKeeping a codebase consistent and maintainable in a project with a team of devs sometimes may be very hard, different conventions and...</A>
+				<DT><A HREF="https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b?source=bookmarks---------36----------------">Playground driven development in Swift</A>
+				<DT><A HREF="https://blog.usejournal.com/how-to-publish-your-own-pod-47833eeb7816?source=bookmarks---------43----------------">How to publish your own podPreviously, I’ve published an article explaining how to use CocoaPods as a dependency management tool on your iOS project, but today we...</A>
+				<DT><A HREF="https://blog.indoorway.com/how-to-let-rick-and-morty-work-together-sharing-code-between-similar-ios-apps-58bca818fde4?source=bookmarks---------10----------------">How to let Rick and Morty work together? Sharing code between similar iOS appsBy Piotr Torczyński &amp; Dawid Markowski</A>
+				<DT><A HREF="https://www.avanderlee.com/workflow/cheat-sheet-xcode-swift/">Cheat sheet examples for Xcode and Swift development - SwiftLee</A>
+				<DT><A HREF="https://bytes.swiggy.com/advanced-techniques-to-speed-up-the-compile-time-in-xcode-27819cb3be59">Advanced techniques to speed up the compile time in Xcode</A>
+			</DL><p>
+			<DT><H3 FOLDED>RxTests</H3>
+			<DL><p>
+				<DT><A HREF="http://adamborek.com/rxtests-rxactionsheet/">RxTest - How to test the Observable in Swift - Code in a suit</A>
+				<DT><A HREF="https://www.raywenderlich.com/7408-testing-your-rxswift-code">Testing Your RxSwift Code | raywenderlich.com</A>
+			</DL><p>
+			<DT><H3 FOLDED>Xcode Server</H3>
+			<DL><p>
+				<DT><A HREF="https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/">Xcode Server and Continuous Integration Guide: About Continuous Integration in Xcode</A>
+				<DT><A HREF="https://honzadvorsky.com/articles/2015-08-04-xcs_tutorials_1_getting_started/">Xcode Server Tutorials: 1. Getting Started - honza dvorsky</A>
+				<DT><A HREF="https://www.toptal.com/xcode/ios-continuous-integration-xcode-server">https://www.toptal.com/xcode/ios-continuous-integration-xcode-server</A>
+			</DL><p>
+		</DL><p>	
